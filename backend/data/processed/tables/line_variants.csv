@@ -1,0 +1,86 @@
+variant_id,line_id,variant_label,sector,color,is_loop,n_steps,raw_text,source_line
+U-144/135#1,U-144/135,Unique,,,False,5,Analakely - Besarety - Météo - Mahazo - Ambohimahintsy,9
+U-146#1,U-146,Manga,,bleu,True,11,Mausolée - Météo - Homi - Antanimena - 67ha - Ampefiloha - Mahamasina - Rasalama - HOMI - Météo - Mausolée,12
+U-146#2,U-146,Mena,,rouge,True,11,Mausolée - Météo - Homi - Rasalama - Anosy - 67ha - Antanimena - Rasalama - Homi - Météo - Mausolée,13
+U-147#1,U-147,Manga,,bleu,True,10,Ambatomaro/Antsobolo - Météo - Antanimena - 67ha - Ampefiloha - Mahamasina - Rasalama - HOMI - Météo - Ambatomaro/Antsobolo,16
+U-147#2,U-147,Mena,,rouge,True,9,Ambatomaro/Antsobolo - Météo - Anosy - 67ha - Antanimena - Rasalama - Homi - Météo - Ambatomaro/Antsobolo,17
+U-147D#1,U-147D,Manga,,bleu,True,16,Ste Akanjo - Ankerana - Nanisana - Météo - Avaradoha - Rasalama - Antanimena - 67ha - Ampefiloha - Mahamasina - Bel'air - Betongolo - Météo - Nanisana - Ankerana - Ste Akanjo,20
+U-147D#2,U-147D,Mena,,rouge,True,13,Ste Akanjo - Ankerana - Météo - Ambohijatovo - Anosy - 67ha - Antanimena - Besarety - Avaradoha - Météo - Nanisana - Ankerana - Ste Akanjo,21
+U-150#1,U-150,Unique,,,False,5,Antananandrano / Soavimasoandro - Ankorondrano - Anosibe - Namontana - Tsimbazaza,24
+U-151#1,U-151,Unique,,,False,3,Androndra - Ankadimbahoaka - 67ha,27
+U-150B#1,U-150B,Unique,,,False,4,Mahatony - Ankorondrano - Analakely - Anosibe,30
+U-154#1,U-154,A,,,False,4,Tanjombato - Anosy - Mascar - Amboditsiry,33
+U-154#2,U-154,B,,,False,7,Tanjombato - Tsimbazaza - Ambanidia - Betongolo - Météo - Anjanahary - Amboditsiry,34
+U-154#3,U-154,C,,,False,6,Tanjombato - Anosizato - Andavamamba - Isotry - Mascar - Amboditsiry,35
+U-157#1,U-157,A,,,False,4,Manjakaray - Analakely - Anosy - Anosizato antsinananana,38
+U-157#2,U-157,B,,,False,5,Manjakaray - Ankazomanga - 67ha - Andavamamba - Anosizato Antsinana,39
+U-159#1,U-159,Manga,,bleu,False,4,Tanjombato - Anosy - 67ha - Andranomena,42
+U-159#2,U-159,Mena,,rouge,False,4,Tanjombato - Anosibe - 67ha - Andranomena,43
+U-160/166#1,U-160/166,Unique,,,False,3,Antanimena - Tsiadana - Ankatso,46
+U-161#1,U-161,Unique,,,False,4,Ambatobe - Nanisana - Météo - Analakely,49
+U-162#1,U-162,Manga,,bleu,False,5,Anosizato - Betongolo - Météo - Nanisana - Analamahitsy cité,52
+U-162#2,U-162,Mena,,rouge,False,7,Anosizato - Andavamamba - 67ha - Galaxy - Anosivavaka - Alarobia - Analamahitsy cité,53
+U-163#1,U-163,Unique,,,False,8,Ankadikely ilafy - Analamahitsy - Ankorondrano - 67ha - Anosizato - Fasan karana - Gazety - Alasora,56
+U-165#1,U-165,Unique,,,False,5,Anosibe - Analakely - Ankorondrano - Coliseum - Androhibe,59
+U-172#1,U-172,Unique,,,False,5,67ha - Anosibe - Tanjombato - Andoharanofotsy - Iavoloha,62
+U-178#1,U-178,Manga,,bleu,True,11,Andraisoro - Météo - Betongolo - Antanimena - 67ha - Ampefiloha - Mahamasina - Bel'air - Betongolo - Météo - Andraisoro,65
+U-178#2,U-178,Mena,,rouge,True,9,Andraisoro - Betongolo - Anosy - 67ha - Antanimena - Rasalama - Avaradoha - Météo - Andraisoro,66
+U-180#1,U-180,Unique,,,False,6,Alarobia - Ankorondrano - Antanimena - Ambanidia - Ambohipo - Ravitoto,69
+U-182#1,U-182,Mena,,rouge,False,4,Bibilava - Ambohipo - Ambanidia - Ambohijatovo,72
+U-182#2,U-182,Manga,,bleu,False,5,Bibilava - Ambohipo - Ambanidia - Ambohijatovo - Ampefiloha,73
+U-183#1,U-183,A,,,True,9,Ambatobe - Analamahitsy - Ankazomanga - 67ha - Anosy - Analakely - Amboditsiry - Analamahitsy - Ambatobe,76
+U-183#2,U-183,B,,,True,9,Ambatobe - Analamahitsy - Amboditsiry - Andravoahangy - Anosy - 67ha - Ankazomanga - Analamahitsy - Ambatobe,77
+U-184#1,U-184,Unique,,,False,3,Tsiadana - Ambanidia - Mahamasina,80
+U-186#1,U-186,Manga,,bleu,True,8,Coliseum - Amboditsiry - Analakely - Anosy - 67ha - Ankazomanga - Ankorondrano - Coliseum,83
+U-186#2,U-186,Mena,,rouge,True,8,Coliseum - Ankorondrano - 67ha - Anosy - Analakely - Andravoahangy - Amboditsiry - Coliseum,84
+U-190#1,U-190,Unique,,,False,2,Analakely - Ambohipotsy,87
+U-187#1,U-187,Unique,,,False,3,67ha - Anosibe - Iavoloha,90
+U-192#1,U-192,Manga,,bleu,False,5,Ilafy - Météo - Antsakaviro - Mandroseza - Bypass / Mahatsinjo Alasora,93
+U-192#2,U-192,Fotsy,,blanc,False,7,Ilafy - Ankorondrano - Behoririka - Rasalama - Bel'air - Mandroseza - Bypass / Mahatsinjo Alasora,94
+U-192#3,U-192,Class,,,False,5,Ilafy - Ankorondrano - Analakely - Mandroseza - Bypass,95
+U-193#1,U-193,Unique,,,False,7,Antanetibe (Ambatobe) - Analamahitsy - Nanisana - Betongolo - Anosy - 67ha - Ambanilalana (Itaosy),98
+U-194#1,U-194,Maitso,,vert,False,6,Andrainarivo - Mandroseza - Anosizato - Andohatapenaka - Ambodimita - Andranomena,101
+U-194#2,U-194,Mena,,rouge,False,7,Mausolée - Météo - Ambodivona - Ankorondrano - Anosivavaka - Ambohimanarina - Andranomena,102
+U-194#3,U-194,Manga,,bleu,False,6,Mausolée - Analamahitsy cite - Pulman - Anosivavaka - Ambohimanarina - Andranomena,103
+U-196#1,U-196,Unique,,,False,4,Ravitoto - Ambohipo - Ambanidia - Soarano,106
+U-199#1,U-199,Unique,,,False,7,Tsarasaotra - Ankorondrano - Anosibe - Ankadimbahoaka - Forello - Bevalala - Soavina,109
+U-009#1,U-009,Unique,,,False,3,Anosizato - Andavamamba - Analakely,112
+U-015#1,U-015,Mena,Be kintana,rouge,False,5,Ambohitromby Alatsinainy - Alasora Commune - Mandroseza - Ambanidia - 67ha,116
+U-015#2,U-015,Maitso,Be kintana,vert,False,6,Mahitsy Plaque Mandikanamana - Ankadidratombo - Domaine - Ankadimbahoaka - Tsimbazaza - 67ha,117
+U-015#3,U-015,A,Volavita,,False,5,Mandroseza - Domaine - Ankadimbahoaka - Tsimbazaza - 67ha,119
+U-015#4,U-015,B,Volavita,,False,4,Mandroseza - Ambanidia - Tsimbazaza - 67ha,120
+U-017#1,U-017,Unique,,,False,3,Ambohipo - Ambanidia - Mahamasina,123
+U-104#1,U-104,Unique,,,False,3,Ambohimandra - Androndra - Ankadimbahoaka,126
+U-105#1,U-105,Misy Tsipika Mena,,liseré rouge,False,3,Analakely - Galaxy - Ambomanarina,129
+U-105#2,U-105,Tsy Misy Tsipika Mena,,sans liseré rouge,False,2,Anosy - Anosisoa,130
+U-109#1,U-109,Manga,,bleu,True,11,Antananandrano - Analamahitsy - Amboditsiry - Mascar - Analakely - Anosy - 67ha - Antanimena - Mascar - Analamahitsy - Antananandrano,133
+U-109#2,U-109,Mena,,rouge,True,11,Antananandrano - Analamahitsy - Amboditsiry - Mascar - Ankazomanga - 67ha - Anosy - Analakely - Mascar - Analamahitsy - Antananandrano,134
+U-110#1,U-110,Unique,,,False,4,Anosizato - Anosibe - Tsaralalàna - Analakely,137
+U-112#1,U-112,Unique,,,False,4,Analakely - Galaxy - Ambohimanarina - Morondava,140
+U-113#1,U-113,Manga,,bleu,False,3,Mahazoarivo - Ankadimbahoaka - Analakely,143
+U-113#2,U-113,Mena,,rouge,False,5,Mandroseza - Androndra - Ankadimbahoaka - Namontana - Anosibe,144
+U-114#1,U-114,Maitso,,vert,False,3,Analakely - Galaxy - Ambohijanahary,147
+U-114#2,U-114,Manga mena,,bleu-rouge,False,3,Analakely - Ambatolampy - Ambohibao (cycle),148
+U-114#3,U-114,Maitso-mena,,vert-rouge,False,2,Analakely - Ambatolampy,149
+U-114#4,U-114,Maitso-mavo,,vert-jaune,False,2,Analakely - Ambodihady,150
+U-115#1,U-115,Unique,,,False,3,Analakely - Mahamasina - Tsimbazaza,153
+U-117#1,U-117,Unique,,,False,3,Androndra - Ambanidia - Analakely,156
+U-119#1,U-119,Unique,,,False,3,67ha - Anosy - Ankatso,159
+U-120#1,U-120,Unique,,,False,3,Soavimasoandro - Ankorondrano - Ambodifilao,162
+U-122#1,U-122,Unique,,,False,3,Antanimena - Ambanidia - Mahazoarivo,165
+U-126#1,U-126,Unique,,,False,6,Antanetibe/Manjaka - Analamahitsy - Amboditsiry - Mascar - Anosy - 67ha,168
+U-127#1,U-127,A,,,False,4,Andravoahangy ambony - Ambondrona - Mahamasina - Tsimbazaza,171
+U-127#2,U-127,B,,,False,3,Rasalama - Ambanidia - Tsimbazaza,172
+U-128#1,U-128,Unique,,,False,3,Ankatso - Ambanidia / Ambohijatovo - Mahamasina,175
+U-129#1,U-129,Unique,,,False,3,Analakely - Ambanidia - Ambohipo,178
+U-133#1,U-133,Unique,,,False,3,Analakely - 67ha - Itaosy,181
+U-134#1,U-134,Unique,,,False,3,Analakely - Faravohitra - Rova,184
+U-135#1,U-135,Mena,,rouge,False,5,Ankadimbahoaka - Ambanidia - Betongolo - Météo - Soamanandrariny,187
+U-135#2,U-135,Manga,,bleu,False,7,Ankadimbahoaka - Anosy - Analakely - Besarety - Avaradoha - Météo - Soamanandrariny,188
+U-137#1,U-137,Unique,,,False,4,Analakely - Ankadimbahoaka - Andoharanofotsy - Iavoloha,191
+U-138#1,U-138,Unique,,,False,2,Analakely - Anosipatrana,194
+U-139#1,U-139,Unique,,,False,3,Antanimena - Ambanidia - Ambohitsoa,197
+U-140#1,U-140,Unique,,,False,3,Tsaralalàna - Fasan'karana - Ampitatafika,200
+U-141#1,U-141,Unique,,,False,4,Andraisoro - Météo - Anjanahary - Analakely,203
+U-142#1,U-142,Unique,,,False,3,Analakely - Anosy - Soanierana,206
+U-143#1,U-143,Unique,,,False,4,Itaosy - 67ha - Anosibe / Ampefiloha - Mahamasina,209

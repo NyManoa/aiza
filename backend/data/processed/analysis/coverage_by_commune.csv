@@ -1,0 +1,140 @@
+adm2_name,adm3_pcode,adm3_name,tier,n_fokontany,direct,faible,commune,passage,aucune,area_sqkm,area_direct_sqkm,mean_lines_direct,pct_fokontany_direct,pct_area_direct
+1er Arrondissement,MG11118001,1er Arrondissement,1,44,13,11,20,0,0,9.69,5.92,3.68,54.5,61.1
+2e Arrondissement,MG11119001,2e Arrondissement,1,24,10,4,10,0,0,13.76,9.35,2.96,58.3,68.0
+3e Arrondissement,MG11120001,3e Arrondissement,1,34,14,2,0,14,4,7.0,4.19,2.21,47.1,59.9
+4e Arrondissement,MG11121001,4e Arrondissement,1,32,10,6,0,14,2,13.03,7.04,2.53,50.0,54.0
+5e Arrondissement,MG11122001,5e Arrondissement,1,27,12,6,0,4,5,23.93,18.4,1.63,66.7,76.9
+6e Arrondissement,MG11123001,6e Arrondissement,1,31,6,4,21,0,0,17.6,9.81,1.03,32.3,55.7
+Ambohidratrimo,MG11103390,Ambato,2,15,0,0,0,0,15,326.91,0.0,0.0,0.0,0.0
+Ambohidratrimo,MG11103172,Ambatolampy,2,8,0,1,0,2,5,19.49,2.46,0.12,12.5,12.6
+Ambohidratrimo,MG11103010,Ambohidratrimo,2,9,0,0,0,0,9,12.26,0.0,0.0,0.0,0.0
+Ambohidratrimo,MG11103270,Ambohimanjaka,2,7,0,0,0,0,7,35.92,0.0,0.0,0.0,0.0
+Ambohidratrimo,MG11103370,Ambohipihaonana,2,11,0,0,0,0,11,40.36,0.0,0.0,0.0,0.0
+Ambohidratrimo,MG11103130,Ambohitrimanjaka,2,25,0,1,24,0,0,22.68,0.3,0.04,4.0,1.3
+Ambohidratrimo,MG11103190,Ampangabe,2,12,1,0,0,0,11,46.48,2.26,0.17,8.3,4.9
+Ambohidratrimo,MG11103210,Ampanotokana,2,29,0,1,0,0,28,138.74,2.16,0.03,3.4,1.6
+Ambohidratrimo,MG11103410,Anjanadoria,2,14,0,0,0,0,14,178.6,0.0,0.0,0.0,0.0
+Ambohidratrimo,MG11103030,Anosiala,2,17,0,0,17,0,0,54.66,0.0,0.0,0.0,0.0
+Ambohidratrimo,MG11103350,Antanetibe,2,19,0,0,0,0,19,78.19,0.0,0.0,0.0,0.0
+Ambohidratrimo,MG11103070,Antehiroka,2,9,1,1,0,1,6,16.4,2.64,0.33,22.2,16.1
+Ambohidratrimo,MG11103252,Antsahafilo,2,4,0,0,0,0,4,44.73,0.0,0.0,0.0,0.0
+Ambohidratrimo,MG11103430,Avaratsena,2,8,0,0,0,0,8,83.27,0.0,0.0,0.0,0.0
+Ambohidratrimo,MG11103290,Fiadanana,2,12,0,1,0,0,11,15.42,1.1,0.08,8.3,7.1
+Ambohidratrimo,MG11103090,Iarinarivo,2,9,0,1,0,0,8,14.87,3.62,0.11,11.1,24.3
+Ambohidratrimo,MG11103112,Ivato Aeroport,2,1,0,1,0,0,0,6.28,6.28,1.0,100.0,100.0
+Ambohidratrimo,MG11103111,Ivato Firaisana,2,5,0,1,0,0,4,3.71,1.34,0.2,20.0,36.1
+Ambohidratrimo,MG11103310,Mahabo,2,18,0,0,0,0,18,71.42,0.0,0.0,0.0,0.0
+Ambohidratrimo,MG11103330,Mahereza,2,7,0,1,0,0,6,11.98,0.85,0.14,14.3,7.1
+Ambohidratrimo,MG11103150,Mahitsy,2,31,0,1,0,0,30,105.01,1.24,0.03,3.2,1.2
+Ambohidratrimo,MG11103230,Mananjara,2,5,0,0,0,0,5,11.69,0.0,0.0,0.0,0.0
+Ambohidratrimo,MG11103251,Manjakavaradrano,2,6,0,0,0,0,6,25.74,0.0,0.0,0.0,0.0
+Ambohidratrimo,MG11103171,Merimandroso,2,20,0,2,0,1,17,56.48,4.5,0.1,10.0,8.0
+Ambohidratrimo,MG11103050,Talatamaty,2,12,0,0,0,0,12,11.07,0.0,0.0,0.0,0.0
+Antananarivo Atsimondrano,MG11117312,Alakamisy Fenoarivo,2,5,0,0,0,0,5,12.57,0.0,0.0,0.0,0.0
+Antananarivo Atsimondrano,MG11117250,Alatsinainy Ambazaha,2,5,0,0,5,0,0,9.04,0.0,0.0,0.0,0.0
+Antananarivo Atsimondrano,MG11117450,Ambalavao,2,15,0,1,0,0,14,44.89,1.98,0.07,6.7,4.4
+Antananarivo Atsimondrano,MG11117470,Ambatofahavalo,2,7,0,0,7,0,0,38.78,0.0,0.0,0.0,0.0
+Antananarivo Atsimondrano,MG11117130,Ambavahaditokana,2,6,0,0,0,0,6,6.2,0.0,0.0,0.0,0.0
+Antananarivo Atsimondrano,MG11117050,Ambohidrapeto,2,5,1,1,0,0,3,3.98,1.21,0.6,40.0,30.4
+Antananarivo Atsimondrano,MG11117350,Ambohijanaka,2,12,0,1,0,0,11,28.05,0.44,0.08,8.3,1.6
+Antananarivo Atsimondrano,MG11117370,Ampahitrosy,2,5,0,0,0,0,5,9.5,0.0,0.0,0.0,0.0
+Antananarivo Atsimondrano,MG11117270,Ampanefy,2,8,0,1,0,0,7,10.85,0.27,0.12,12.5,2.5
+Antananarivo Atsimondrano,MG11117011,Ampitatafika,2,13,1,3,9,0,0,19.88,4.71,0.38,30.8,23.7
+Antananarivo Atsimondrano,MG11117170,Andoharanofotsy,2,8,2,0,0,3,3,7.38,2.11,0.75,25.0,28.6
+Antananarivo Atsimondrano,MG11117030,Andranonahoatra,2,7,0,2,0,1,4,3.83,2.04,0.29,28.6,53.3
+Antananarivo Atsimondrano,MG11117410,Androhibe,2,8,0,1,0,0,7,32.99,1.71,0.12,12.5,5.2
+Antananarivo Atsimondrano,MG11117290,Ankadimanga,2,6,0,0,6,0,0,2.79,0.0,0.0,0.0,0.0
+Antananarivo Atsimondrano,MG11117190,Ankaraobato,2,7,0,1,0,0,6,2.77,0.81,0.14,14.3,29.2
+Antananarivo Atsimondrano,MG11117012,Anosizato Andrefana,2,7,0,0,0,3,4,1.75,0.0,0.0,0.0,0.0
+Antananarivo Atsimondrano,MG11117230,Antanetikely,2,13,0,1,0,0,12,49.3,2.99,0.08,7.7,6.1
+Antananarivo Atsimondrano,MG11117070,Bemasoandro,2,6,0,1,0,3,2,3.46,0.51,0.17,16.7,14.7
+Antananarivo Atsimondrano,MG11117390,Bongatsara,2,7,0,2,0,0,5,25.48,5.12,0.29,28.6,20.1
+Antananarivo Atsimondrano,MG11117311,Fenoarivo,2,12,0,0,0,0,12,17.2,0.0,0.0,0.0,0.0
+Antananarivo Atsimondrano,MG11117090,Fiombonana,2,5,0,0,0,2,3,4.61,0.0,0.0,0.0,0.0
+Antananarivo Atsimondrano,MG11117110,Itaosy,2,6,1,0,0,0,5,5.52,0.38,0.5,16.7,6.9
+Antananarivo Atsimondrano,MG11117210,Soalandy,2,8,1,1,0,0,6,13.68,4.35,0.38,25.0,31.8
+Antananarivo Atsimondrano,MG11117330,Soavina,2,5,0,1,0,1,3,4.12,0.37,0.2,20.0,9.0
+Antananarivo Atsimondrano,MG11117150,Tanjombato,2,5,0,0,5,0,0,4.57,0.0,0.0,0.0,0.0
+Antananarivo Atsimondrano,MG11117430,Tsiafahy,2,15,0,2,0,0,13,58.75,5.26,0.13,13.3,9.0
+Antananarivo Avaradrano,MG11102010,Alasora,2,20,2,4,0,6,8,22.11,6.64,0.45,30.0,30.0
+Antananarivo Avaradrano,MG11102230,Ambohimalaza Miray,2,12,1,1,0,0,10,36.33,5.05,0.25,16.7,13.9
+Antananarivo Avaradrano,MG11102050,Ambohimanambola,2,10,0,0,10,0,0,17.44,0.0,0.0,0.0,0.0
+Antananarivo Avaradrano,MG11102319,Ambohimanga Rova,2,22,0,3,0,0,19,46.53,6.04,0.14,13.6,13.0
+Antananarivo Avaradrano,MG11102099,Ambohimangakely,2,17,0,5,0,0,12,34.22,10.9,0.29,29.4,31.9
+Antananarivo Avaradrano,MG11102390,Anjeva Gara,2,10,2,0,0,0,8,25.53,2.44,0.4,20.0,9.6
+Antananarivo Avaradrano,MG11102039,Ankadikely Ilafy,2,17,0,5,0,3,9,32.97,14.13,0.29,29.4,42.9
+Antananarivo Avaradrano,MG11102430,Ankadinandriana,2,17,0,2,0,0,15,130.65,36.35,0.12,11.8,27.8
+Antananarivo Avaradrano,MG11102279,Fiaferana,2,10,0,0,0,0,10,33.08,0.0,0.0,0.0,0.0
+Antananarivo Avaradrano,MG11102210,Manandriana,2,5,0,1,0,0,4,13.65,2.49,0.2,20.0,18.2
+Antananarivo Avaradrano,MG11102410,Masindray,2,11,0,1,0,0,10,52.99,4.31,0.09,9.1,8.1
+Antananarivo Avaradrano,MG11102079,Sabotsy Namehana,2,22,0,4,0,1,17,22.69,7.02,0.18,18.2,30.9
+Antananarivo Avaradrano,MG11102379,Talata Volonondry,2,28,0,3,0,0,25,88.21,11.35,0.11,10.7,12.9
+Antananarivo Avaradrano,MG11102350,Viliahazo,2,8,0,0,8,0,0,25.48,0.0,0.0,0.0,0.0
+Andramasina,MG11115110,Alarobia Vatosola,3,8,0,0,0,0,8,71.1,0.0,0.0,0.0,0.0
+Andramasina,MG11115071,Alatsinainy Bakaro,3,20,0,0,0,0,20,179.48,0.0,0.0,0.0,0.0
+Andramasina,MG11115091,Ambohimiadana,3,14,0,0,0,0,14,170.51,0.0,0.0,0.0,0.0
+Andramasina,MG11115032,Andohariana,3,6,0,0,0,0,6,45.31,0.0,0.0,0.0,0.0
+Andramasina,MG11115010,Andramasina,3,9,0,0,0,0,9,114.29,0.0,0.0,0.0,0.0
+Andramasina,MG11115170,Anosibe Trimoloharano,3,6,0,0,0,0,6,75.82,0.0,0.0,0.0,0.0
+Andramasina,MG11115072,Antotohazo,3,6,0,0,0,0,6,32.37,0.0,0.0,0.0,0.0
+Andramasina,MG11115130,Fitsinjovana Bakaro,3,7,0,0,0,0,7,147.4,0.0,0.0,0.0,0.0
+Andramasina,MG11115050,Mandrosoa,3,7,0,0,0,0,7,51.94,0.0,0.0,0.0,0.0
+Andramasina,MG11115031,Sabotsy Ambohitromby,3,9,0,0,0,0,9,98.21,0.0,0.0,0.0,0.0
+Andramasina,MG11115150,Sabotsy Manjakavahoaka,3,6,0,0,0,0,6,53.07,0.0,0.0,0.0,0.0
+Andramasina,MG11115092,Tankafatra,3,14,0,0,0,0,14,366.91,0.0,0.0,0.0,0.0
+Anjozorobe,MG11107170,Alakamisy,3,5,0,0,0,0,5,48.64,0.0,0.0,0.0,0.0
+Anjozorobe,MG11107230,Ambatomanoina,3,11,0,0,0,0,11,191.5,0.0,0.0,0.0,0.0
+Anjozorobe,MG11107270,Amboasary Nord,3,7,0,0,0,0,7,188.62,0.0,0.0,0.0,0.0
+Anjozorobe,MG11107310,Ambohibary Vohilena,3,16,0,0,0,0,16,493.99,0.0,0.0,0.0,0.0
+Anjozorobe,MG11107130,Ambohimanarina Marovazaha,3,11,0,0,0,0,11,120.26,0.0,0.0,0.0,0.0
+Anjozorobe,MG11107330,Ambohimirary,3,6,0,0,0,0,6,90.02,0.0,0.0,0.0,0.0
+Anjozorobe,MG11107099,Ambongamarina,3,13,0,0,0,0,13,273.53,0.0,0.0,0.0,0.0
+Anjozorobe,MG11107250,Amparatanjona,3,7,0,0,0,0,7,358.91,0.0,0.0,0.0,0.0
+Anjozorobe,MG11107190,Analaroa,3,8,0,0,0,0,8,160.41,0.0,0.0,0.0,0.0
+Anjozorobe,MG11107290,Androvakely,3,8,0,0,0,0,8,136.5,0.0,0.0,0.0,0.0
+Anjozorobe,MG11107019,Anjozorobe,3,24,0,0,0,0,24,329.26,0.0,0.0,0.0,0.0
+Anjozorobe,MG11107211,Antanetibe,3,10,0,0,0,0,10,126.69,0.0,0.0,0.0,0.0
+Anjozorobe,MG11107212,Belanitra,3,2,0,0,0,0,2,22.24,0.0,0.0,0.0,0.0
+Anjozorobe,MG11107370,Beronono,3,7,0,0,0,0,7,303.85,0.0,0.0,0.0,0.0
+Anjozorobe,MG11107150,Betatao,3,8,0,0,0,0,8,348.21,0.0,0.0,0.0,0.0
+Anjozorobe,MG11107070,Mangamila,3,19,0,0,0,0,19,252.61,0.0,0.0,0.0,0.0
+Anjozorobe,MG11107350,Marotsipoy,3,6,0,0,0,0,6,781.73,0.0,0.0,0.0,0.0
+Anjozorobe,MG11107110,Tsarasaotra,3,7,0,0,0,0,7,48.08,0.0,0.0,0.0,0.0
+Ankazobe,MG11104050,Ambohitromby,3,11,0,0,0,0,11,204.79,0.0,0.0,0.0,0.0
+Ankazobe,MG11104170,Ambolotarakely,3,5,0,0,0,0,5,572.16,0.0,0.0,0.0,0.0
+Ankazobe,MG11104010,Ankazobe,3,15,0,0,0,0,15,509.2,0.0,0.0,0.0,0.0
+Ankazobe,MG11104190,Antakavana,3,5,0,0,0,0,5,650.72,0.0,0.0,0.0,0.0
+Ankazobe,MG11104071,Antotohazo,3,5,0,0,0,0,5,205.26,0.0,0.0,0.0,0.0
+Ankazobe,MG11104130,Fiadanana,3,10,0,0,0,0,10,2091.98,0.0,0.0,0.0,0.0
+Ankazobe,MG11104090,Fihaonana,3,18,0,0,0,0,18,232.89,0.0,0.0,0.0,0.0
+Ankazobe,MG11104210,Kiangara,3,12,0,0,0,0,12,776.34,0.0,0.0,0.0,0.0
+Ankazobe,MG11104110,Mahavelona,3,19,0,0,0,0,19,253.68,0.0,0.0,0.0,0.0
+Ankazobe,MG11104072,Marondry,3,6,0,0,0,0,6,253.29,0.0,0.0,0.0,0.0
+Ankazobe,MG11104230,Miantso,3,12,0,0,0,0,12,195.91,0.0,0.0,0.0,0.0
+Ankazobe,MG11104030,Talata Angavo,3,12,0,0,0,0,12,574.56,0.0,0.0,0.0,0.0
+Ankazobe,MG11104150,Tsaramasoandro,3,13,0,0,0,0,13,837.47,0.0,0.0,0.0,0.0
+Manjakandriana,MG11106090,Alarobia,3,15,0,0,0,0,15,72.19,0.0,0.0,0.0,0.0
+Manjakandriana,MG11106210,Ambanitsena,3,9,0,1,0,0,8,28.7,4.36,0.11,11.1,15.2
+Manjakandriana,MG11106012,Ambatolaona,3,8,0,0,0,0,8,135.51,0.0,0.0,0.0,0.0
+Manjakandriana,MG11106070,Ambatomanga,3,5,0,0,0,0,5,25.37,0.0,0.0,0.0,0.0
+Manjakandriana,MG11106251,Ambatomena,3,16,0,0,0,0,16,35.94,0.0,0.0,0.0,0.0
+Manjakandriana,MG11106252,Ambohibao Sud,3,7,0,0,0,0,7,16.95,0.0,0.0,0.0,0.0
+Manjakandriana,MG11106050,Ambohibary,3,10,0,0,0,0,10,55.9,0.0,0.0,0.0,0.0
+Manjakandriana,MG11106230,Ambohitrandriamanitra,3,15,0,0,0,0,15,88.06,0.0,0.0,0.0,0.0
+Manjakandriana,MG11106371,Ambohitrolomahitsy,3,22,0,0,0,0,22,109.07,0.0,0.0,0.0,0.0
+Manjakandriana,MG11106290,Ambohitrony,3,5,0,0,0,0,5,6.5,0.0,0.0,0.0,0.0
+Manjakandriana,MG11106271,Ambohitseheno,3,12,0,0,0,0,12,41.92,0.0,0.0,0.0,0.0
+Manjakandriana,MG11106372,Ampaneva,3,5,0,0,0,0,5,14.77,0.0,0.0,0.0,0.0
+Manjakandriana,MG11106190,Anjepy,3,12,0,1,0,0,11,49.0,2.4,0.08,8.3,4.9
+Manjakandriana,MG11106330,Anjoma Betoho,3,7,0,0,0,0,7,15.13,0.0,0.0,0.0,0.0
+Manjakandriana,MG11106351,Ankazondandy,3,26,0,0,0,0,26,150.53,0.0,0.0,0.0,0.0
+Manjakandriana,MG11106272,Antsahalalina,3,8,0,0,0,0,8,53.04,0.0,0.0,0.0,0.0
+Manjakandriana,MG11106011,Manjakandriana,3,24,0,0,0,0,24,74.93,0.0,0.0,0.0,0.0
+Manjakandriana,MG11106110,Mantasoa,3,11,0,0,0,0,11,97.49,0.0,0.0,0.0,0.0
+Manjakandriana,MG11106310,Merikanjaka,3,10,0,0,0,0,10,90.67,0.0,0.0,0.0,0.0
+Manjakandriana,MG11106150,Miadanandriana,3,14,0,0,0,0,14,95.44,0.0,0.0,0.0,0.0
+Manjakandriana,MG11106170,Nandihizana,3,11,0,0,0,0,11,34.69,0.0,0.0,0.0,0.0
+Manjakandriana,MG11106130,Ranovao,3,10,0,0,0,0,10,88.97,0.0,0.0,0.0,0.0
+Manjakandriana,MG11106390,Sadabe,3,24,0,0,0,0,24,308.19,0.0,0.0,0.0,0.0
+Manjakandriana,MG11106030,Sambaina,3,15,0,0,0,0,15,29.87,0.0,0.0,0.0,0.0
+Manjakandriana,MG11106352,Soavinandriana,3,9,0,0,0,0,9,79.98,0.0,0.0,0.0,0.0

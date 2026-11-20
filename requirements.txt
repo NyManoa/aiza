@@ -1,0 +1,4 @@
+# Dépendances de la fonction Python Vercel (api/index.py) — runtime de l'API uniquement (pas de pandas).
+fastapi>=0.115
+pydantic>=2.8
+pydantic-settings>=2.4

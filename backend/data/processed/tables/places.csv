@@ -1,0 +1,189 @@
+place_id,norm_key,display_name,raw_labels,qualifiers,contexts,vias,zones,roles,occurrences,match_status,match_rule,match_level,match_confidence,match_detail,n_matches
+analakely,analakely,Analakely,Analakely,,,,urbaine,arret,31,sous_chaine_fokontany,sous_chaine_fokontany,fokontany,0.75,contenu dans 1 nom(s) de fokontany composé(s) [niveau 1],1
+besarety,besarety,Besarety,Besarety,,,,urbaine,arret,3,exact_fokontany,exact_fokontany,fokontany,1.0,nom identique au fokontany [niveau 1],1
+meteo,meteo,Météo,Météo,,,,urbaine,arret,24,non_resolu,non_resolu,aucun,0.0,aucune règle applicable — à compléter dans manual_places.csv,0
+mahazo,mahazo,Mahazo,Mahazo | Antananarivo (Mahazo),,Antananarivo,,urbaine | suburbaine,arret | primus,8,non_resolu,non_resolu,aucun,0.0,aucune règle applicable — à compléter dans manual_places.csv,0
+ambohimahintsy,ambohimahintsy,Ambohimahintsy,Ambohimahintsy,,,,urbaine,arret,1,non_resolu,non_resolu,aucun,0.0,aucune règle applicable — à compléter dans manual_places.csv,0
+mausolee,mausolee,Mausolée,Mausolée,,,,urbaine,arret,6,non_resolu,non_resolu,aucun,0.0,aucune règle applicable — à compléter dans manual_places.csv,0
+homi,homi,Homi,Homi | HOMI,,,,urbaine,arret,6,repere_ou_variante,repere_ou_variante,fokontany,0.7,table manuelle : Hôpital Militaire (HOMI) de Soavinandriana,1
+antanimena,antanimena,Antanimena,Antanimena,,,,urbaine,arret,13,exact_fokontany,exact_fokontany,fokontany,1.0,nom identique au fokontany [niveau 1],1
+67ha,67ha,67ha,67ha | Antananarivo (67 HA),,Antananarivo,,urbaine | suburbaine,arret | primus,35,sous_chaine_fokontany,sous_chaine_fokontany_large,fokontany,0.65,contenu dans 4 nom(s) de fokontany composé(s) [niveau 1],4
+ampefiloha,ampefiloha,Ampefiloha,Ampefiloha | Anosibe / Ampefiloha,,,,urbaine,arret,6,sous_chaine_fokontany,sous_chaine_fokontany,fokontany,0.75,contenu dans 3 nom(s) de fokontany composé(s) [niveau 1],3
+mahamasina,mahamasina,Mahamasina,Mahamasina,,,,urbaine,arret,10,sous_chaine_fokontany,sous_chaine_fokontany,fokontany,0.75,contenu dans 2 nom(s) de fokontany composé(s) [niveau 1],2
+rasalama,rasalama,Rasalama,Rasalama,,,,urbaine,arret,9,non_resolu,non_resolu,aucun,0.0,aucune règle applicable — à compléter dans manual_places.csv,0
+anosy,anosy,Anosy,Anosy | Antananarivo (Anosy),,Antananarivo,,urbaine | suburbaine,arret | primus,28,non_resolu,non_resolu,aucun,0.0,aucune règle applicable — à compléter dans manual_places.csv,0
+ambatomaro,ambatomaro,Ambatomaro,Ambatomaro/Antsobolo,,,,urbaine,arret,4,sous_chaine_fokontany,sous_chaine_fokontany,fokontany,0.75,contenu dans 1 nom(s) de fokontany composé(s) [niveau 1],1
+antsobolo,antsobolo,Antsobolo,Ambatomaro/Antsobolo,,,,urbaine,arret,4,sous_chaine_fokontany,sous_chaine_fokontany,fokontany,0.75,contenu dans 1 nom(s) de fokontany composé(s) [niveau 1],1
+ste_akanjo,ste akanjo,Ste Akanjo,Ste Akanjo,,,,urbaine,arret,4,non_resolu,non_resolu,aucun,0.0,aucune règle applicable — à compléter dans manual_places.csv,0
+ankerana,ankerana,Ankerana,Ankerana,,,,urbaine,arret,4,sous_chaine_fokontany,sous_chaine_fokontany,fokontany,0.75,contenu dans 1 nom(s) de fokontany composé(s) [niveau 1],1
+nanisana,nanisana,Nanisana,Nanisana,,,,urbaine,arret,6,sous_chaine_fokontany,sous_chaine_fokontany,fokontany,0.75,contenu dans 1 nom(s) de fokontany composé(s) [niveau 1],1
+avaradoha,avaradoha,Avaradoha,Avaradoha,,,,urbaine,arret,4,exact_fokontany,exact_fokontany,fokontany,1.0,nom identique au fokontany [niveau 1],1
+bel_air,bel air,Bel'air,Bel'air,,,,urbaine,arret,3,non_resolu,non_resolu,aucun,0.0,aucune règle applicable — à compléter dans manual_places.csv,0
+betongolo,betongolo,Betongolo,Betongolo,,,,urbaine,arret,8,exact_fokontany,exact_fokontany,fokontany,1.0,nom identique au fokontany [niveau 1],1
+ambohijatovo,ambohijatovo,Ambohijatovo,Ambohijatovo | Ambanidia / Ambohijatovo | Antananarivo (Ambohijatovo),,Antananarivo,,urbaine | suburbaine,arret | primus,11,repere_ou_variante,repere_ou_variante,commune,0.5,table manuelle : jardin d'Ambohijatovo (centre-ville) ; la sous-chaîne donnerait un homonyme du 5e incohérent avec les arrêts voisins (Anosy / Ampefiloha / Mahamasina),1
+antananandrano,antananandrano,Antananandrano,Antananandrano / Soavimasoandro | Antananandrano,,,,urbaine,arret,5,non_resolu,non_resolu,aucun,0.0,aucune règle applicable — à compléter dans manual_places.csv,0
+soavimasoandro,soavimasoandro,Soavimasoandro,Antananandrano / Soavimasoandro | Soavimasoandro,,,,urbaine | suburbaine,arret | primus,3,exact_fokontany,exact_fokontany,fokontany,1.0,nom identique au fokontany [niveau 1],1
+ankorondrano,ankorondrano,Ankorondrano,Ankorondrano,,,,urbaine,arret,12,sous_chaine_fokontany,sous_chaine_fokontany,fokontany,0.75,contenu dans 3 nom(s) de fokontany composé(s) [niveau 1],3
+anosibe,anosibe,Anosibe,Anosibe | Anosibe / Ampefiloha,,,,urbaine,arret,10,sous_chaine_fokontany,sous_chaine_fokontany_large,fokontany,0.65,contenu dans 4 nom(s) de fokontany composé(s) [niveau 1],4
+namontana,namontana,Namontana,Namontana,,,,urbaine,arret,2,sous_chaine_fokontany,sous_chaine_fokontany,fokontany,0.75,contenu dans 1 nom(s) de fokontany composé(s) [niveau 1],1
+tsimbazaza,tsimbazaza,Tsimbazaza,Tsimbazaza,,,,urbaine,arret,8,non_resolu,non_resolu,aucun,0.0,aucune règle applicable — à compléter dans manual_places.csv,0
+androndra,androndra,Androndra,Androndra,,,,urbaine,arret,4,repere_ou_variante,repere_ou_variante,fokontany,0.65,table manuelle : Androndra = secteurs Androndrabe / Androndrakely,2
+ankadimbahoaka,ankadimbahoaka,Ankadimbahoaka,Ankadimbahoaka,,,,urbaine,arret,10,sous_chaine_fokontany,sous_chaine_fokontany,fokontany,0.75,contenu dans 1 nom(s) de fokontany composé(s) [niveau 1],1
+mahatony,mahatony,Mahatony,Mahatony,,,,urbaine,arret,1,non_resolu,non_resolu,aucun,0.0,aucune règle applicable — à compléter dans manual_places.csv,0
+tanjombato,tanjombato,Tanjombato,Tanjombato,,,,urbaine,arret,6,commune,commune,commune,0.5,nom identique à la commune [niveau 2],1
+mascar,mascar,Mascar,Mascar,,,,urbaine,arret,7,non_resolu,non_resolu,aucun,0.0,aucune règle applicable — à compléter dans manual_places.csv,0
+amboditsiry,amboditsiry,Amboditsiry,Amboditsiry,,,,urbaine,arret,10,exact_fokontany,exact_fokontany,fokontany,1.0,nom identique au fokontany [niveau 1],1
+ambanidia,ambanidia,Ambanidia,Ambanidia | Ambanidia / Ambohijatovo,,,,urbaine,arret,16,sous_chaine_fokontany,sous_chaine_fokontany,fokontany,0.75,contenu dans 3 nom(s) de fokontany composé(s) [niveau 1],3
+anjanahary,anjanahary,Anjanahary,Anjanahary,,,,urbaine,arret,2,sous_chaine_fokontany,sous_chaine_fokontany_large,fokontany,0.65,contenu dans 4 nom(s) de fokontany composé(s) [niveau 1],4
+anosizato,anosizato,Anosizato,Anosizato,,,,urbaine | suburbaine,arret | primus,10,sous_chaine_fokontany,sous_chaine_fokontany,fokontany,0.75,contenu dans 2 nom(s) de fokontany composé(s) [niveau 1],2
+andavamamba,andavamamba,Andavamamba,Andavamamba,,,,urbaine,arret,4,sous_chaine_fokontany,sous_chaine_fokontany_large,fokontany,0.65,contenu dans 5 nom(s) de fokontany composé(s) [niveau 1],5
+isotry,isotry,Isotry,Isotry,,,,urbaine,arret,1,sous_chaine_fokontany,sous_chaine_fokontany_large,fokontany,0.65,contenu dans 5 nom(s) de fokontany composé(s) [niveau 1],5
+manjakaray,manjakaray,Manjakaray,Manjakaray,,,,urbaine,arret,2,sous_chaine_fokontany,sous_chaine_fokontany,fokontany,0.75,contenu dans 3 nom(s) de fokontany composé(s) [niveau 1],3
+anosizato_atsinanana,anosizato atsinanana,Anosizato antsinananana,Anosizato antsinananana | Anosizato Antsinana,,,,urbaine,arret,2,sous_chaine_fokontany,sous_chaine_fokontany,fokontany,0.75,contenu dans 2 nom(s) de fokontany composé(s) [niveau 1],2
+ankazomanga,ankazomanga,Ankazomanga,Ankazomanga,,,,urbaine,arret,5,sous_chaine_fokontany,sous_chaine_fokontany,fokontany,0.75,contenu dans 2 nom(s) de fokontany composé(s) [niveau 1],2
+andranomena,andranomena,Andranomena,Andranomena,,,,urbaine,arret,5,exact_fokontany,exact_fokontany,fokontany,1.0,nom identique au fokontany [niveau 1],1
+tsiadana,tsiadana,Tsiadana,Tsiadana,,,,urbaine,arret,2,exact_fokontany,exact_fokontany,fokontany,1.0,nom identique au fokontany [niveau 1],1
+ankatso,ankatso,Ankatso,Ankatso,,,,urbaine,arret,3,repere_ou_variante,repere_ou_variante,commune,0.45,table manuelle : campus universitaire d'Ankatso ; l'homonyme exact (Ambohitrolomahitsy) est à ~25 km,1
+ambatobe,ambatobe,Ambatobe,Ambatobe,,,,urbaine,arret,5,exact_fokontany,exact_fokontany,fokontany,1.0,nom identique au fokontany [niveau 1],1
+analamahitsy_cite,analamahitsy cite,Analamahitsy cité,Analamahitsy cité | Analamahitsy cite,,,,urbaine,arret,3,exact_fokontany,exact_fokontany,fokontany,1.0,nom identique au fokontany [niveau 1],1
+galaxy,galaxy,Galaxy,Galaxy,,,,urbaine,arret,4,repere_ou_variante,repere_ou_variante,fokontany,0.7,table manuelle : centre commercial Galaxy Andraharo,1
+anosivavaka,anosivavaka,Anosivavaka,Anosivavaka,,,,urbaine,arret,3,exact_fokontany,exact_fokontany,fokontany,1.0,nom identique au fokontany [niveau 1],1
+alarobia,alarobia,Alarobia,Alarobia,,,,urbaine,arret,2,sous_chaine_fokontany,sous_chaine_fokontany,fokontany,0.75,contenu dans 1 nom(s) de fokontany composé(s) [niveau 1],1
+ankadikely_ilafy,ankadikely ilafy,Ankadikely ilafy,Ankadikely ilafy,,,,urbaine,arret,1,exact_fokontany,exact_fokontany_contexte,fokontany,0.95,fokontany « ankadikely » de la commune « ilafy » [niveau 2],1
+analamahitsy,analamahitsy,Analamahitsy,Analamahitsy,,,,urbaine,arret,11,sous_chaine_fokontany,sous_chaine_fokontany,fokontany,0.75,contenu dans 2 nom(s) de fokontany composé(s) [niveau 1],2
+fasan_karana,fasan karana,Fasan karana,Fasan karana | Fasan'karana,,,,urbaine,arret,2,non_resolu,non_resolu,aucun,0.0,aucune règle applicable — à compléter dans manual_places.csv,0
+gazety,gazety,Gazety,Gazety,,,,urbaine,arret,1,non_resolu,non_resolu,aucun,0.0,aucune règle applicable — à compléter dans manual_places.csv,0
+alasora,alasora,Alasora,Alasora,,,,urbaine | suburbaine,arret | terminus,2,exact_fokontany,exact_fokontany,fokontany,1.0,nom identique au fokontany [niveau 2],1
+coliseum,coliseum,Coliseum,Coliseum,,,,urbaine,arret,5,non_resolu,non_resolu,aucun,0.0,aucune règle applicable — à compléter dans manual_places.csv,0
+androhibe,androhibe,Androhibe,Androhibe,,,,urbaine,arret,1,exact_fokontany,exact_fokontany,fokontany,1.0,nom identique au fokontany [niveau 1],1
+andoharanofotsy,andoharanofotsy,Andoharanofotsy,Andoharanofotsy,,,,urbaine | suburbaine,arret | primus,5,exact_fokontany,exact_fokontany,fokontany,1.0,nom identique au fokontany [niveau 2],1
+iavoloha,iavoloha,Iavoloha,Iavoloha,,,,urbaine,arret,3,exact_fokontany,exact_fokontany,fokontany,1.0,nom identique au fokontany [niveau 2],1
+andraisoro,andraisoro,Andraisoro,Andraisoro,,,,urbaine,arret,5,exact_fokontany,exact_fokontany,fokontany,1.0,nom identique au fokontany [niveau 1],1
+ambohipo,ambohipo,Ambohipo,Ambohipo,,,,urbaine,arret,6,sous_chaine_fokontany,sous_chaine_fokontany,fokontany,0.75,contenu dans 1 nom(s) de fokontany composé(s) [niveau 1],1
+ravitoto,ravitoto,Ravitoto,Ravitoto,,,,urbaine,arret,2,non_resolu,non_resolu,aucun,0.0,aucune règle applicable — à compléter dans manual_places.csv,0
+bibilava,bibilava,Bibilava,Bibilava,,,,urbaine,arret,2,non_resolu,non_resolu,aucun,0.0,aucune règle applicable — à compléter dans manual_places.csv,0
+andravoahangy,andravoahangy,Andravoahangy,Andravoahangy | Antananarivo (Andravoahangy),,Antananarivo,,urbaine | suburbaine,arret | primus,4,sous_chaine_fokontany,sous_chaine_fokontany,fokontany,0.75,contenu dans 3 nom(s) de fokontany composé(s) [niveau 1],3
+ambohipotsy,ambohipotsy,Ambohipotsy,Ambohipotsy,,,,urbaine,arret,1,sous_chaine_fokontany,sous_chaine_fokontany,fokontany,0.75,contenu dans 1 nom(s) de fokontany composé(s) [niveau 1],1
+ilafy,ilafy,Ilafy,Ilafy,,,,urbaine,arret,3,exact_fokontany,exact_fokontany,fokontany,1.0,nom identique au fokontany [niveau 2],1
+antsakaviro,antsakaviro,Antsakaviro,Antsakaviro,,,,urbaine,arret,1,sous_chaine_fokontany,sous_chaine_fokontany,fokontany,0.75,contenu dans 1 nom(s) de fokontany composé(s) [niveau 1],1
+mandroseza,mandroseza,Mandroseza,Mandroseza,,,,urbaine,arret,8,sous_chaine_fokontany,sous_chaine_fokontany,fokontany,0.75,contenu dans 2 nom(s) de fokontany composé(s) [niveau 1],2
+bypass,bypass,Bypass,Bypass / Mahatsinjo Alasora | Bypass,,,,urbaine,arret,3,non_resolu,non_resolu,aucun,0.0,aucune règle applicable — à compléter dans manual_places.csv,0
+mahatsinjo_alasora,mahatsinjo alasora,Mahatsinjo Alasora,Bypass / Mahatsinjo Alasora,,,,urbaine,arret,2,exact_fokontany,exact_fokontany_contexte,fokontany,0.95,fokontany « mahatsinjo » de la commune « alasora » [niveau 2],1
+behoririka,behoririka,Behoririka,Behoririka,,,,urbaine,arret,1,exact_fokontany,exact_fokontany,fokontany,1.0,nom identique au fokontany [niveau 1],1
+antanetibe,antanetibe,Antanetibe,Antanetibe (Ambatobe) | Antanetibe/Manjaka,Ambatobe,,,urbaine,arret,2,exact_fokontany,exact_fokontany_homonyme,fokontany,0.65,"8 homonymes, retenu : le plus proche de « Ambatobe » (à 8.3 km : ancre éloignée, confiance réduite) [niveau 2]",1
+ambanilalana,ambanilalana,Ambanilalana,Ambanilalana (Itaosy),Itaosy,,,urbaine,arret,1,exact_fokontany,exact_fokontany,fokontany,1.0,nom identique au fokontany [niveau 2],1
+andrainarivo,andrainarivo,Andrainarivo,Andrainarivo,,,,urbaine,arret,1,non_resolu,non_resolu,aucun,0.0,aucune règle applicable — à compléter dans manual_places.csv,0
+andohatapenaka,andohatapenaka,Andohatapenaka,Andohatapenaka,,,,urbaine,arret,1,sous_chaine_fokontany,sous_chaine_fokontany,fokontany,0.75,contenu dans 3 nom(s) de fokontany composé(s) [niveau 1],3
+ambodimita,ambodimita,Ambodimita,Ambodimita,,,,urbaine,arret,1,exact_fokontany,exact_fokontany,fokontany,1.0,nom identique au fokontany [niveau 1],1
+ambodivona,ambodivona,Ambodivona,Ambodivona | Antananarivo (Ambodivona),,Antananarivo,,urbaine | suburbaine,arret | primus,4,sous_chaine_fokontany,sous_chaine_fokontany,fokontany,0.7,cohérence avec les arrêts voisins (Ankorondrano) : candidat à 0.9 km retenu au lieu de 3.5 km [nom identique au fokontany [niveau 1]],2
+ambohimanarina,ambohimanarina,Ambohimanarina,Ambohimanarina,,,,urbaine,arret,3,repere_ou_variante,repere_ou_variante,commune,0.45,table manuelle : quartier d'Ambohimanarina (6e Arr.) ; homonymes du référentiel hors agglomération,1
+pulman,pulman,Pulman,Pulman,,,,urbaine,arret,1,non_resolu,non_resolu,aucun,0.0,aucune règle applicable — à compléter dans manual_places.csv,0
+soarano,soarano,Soarano,Soarano,,,,urbaine,arret,1,sous_chaine_fokontany,sous_chaine_fokontany,fokontany,0.75,contenu dans 2 nom(s) de fokontany composé(s) [niveau 1],2
+tsarasaotra,tsarasaotra,Tsarasaotra,Tsarasaotra,,,,urbaine,arret,1,exact_fokontany,exact_fokontany,fokontany,1.0,nom identique au fokontany [niveau 2],1
+forello,forello,Forello,Forello,,,,urbaine,arret,1,non_resolu,non_resolu,aucun,0.0,aucune règle applicable — à compléter dans manual_places.csv,0
+bevalala,bevalala,Bevalala,Bevalala,,,,urbaine,arret,1,non_resolu,non_resolu,aucun,0.0,aucune règle applicable — à compléter dans manual_places.csv,0
+soavina,soavina,Soavina,Soavina,,,,urbaine,arret,1,exact_fokontany,exact_fokontany_homonyme,fokontany,0.85,"2 homonymes, retenu : chef-lieu de commune [niveau 2]",1
+ambohitromby_alatsinainy,ambohitromby alatsinainy,Ambohitromby Alatsinainy,Ambohitromby Alatsinainy,,,,urbaine,arret,1,repere_ou_variante,repere_ou_variante,fokontany,0.6,table manuelle : fokontany Ambohitromby d'Alasora ; arrêt suivant = Alasora Commune (ligne 015),1
+alasora_commune,alasora commune,Alasora Commune,Alasora Commune,,,,urbaine,arret,1,exact_fokontany,exact_fokontany,fokontany,0.9,nom identique au fokontany [niveau 2] (suffixe « commune » ignoré),1
+mahitsy_plaque_mandikanamana,mahitsy plaque mandikanamana,Mahitsy Plaque Mandikanamana,Mahitsy Plaque Mandikanamana,,,,urbaine,arret,1,repere_ou_variante,repere_ou_variante,fokontany,0.6,table manuelle : fokontany Mandikanamana d'Alasora ; arrêt suivant = Ankadidratombo (Alasora),1
+ankadidratombo,ankadidratombo,Ankadidratombo,Ankadidratombo,,,,urbaine,arret,1,repere_ou_variante,repere_ou_variante,fokontany,0.7,table manuelle : graphie variante du fokontany Ankadindratombo (Alasora) -> « Ankadindratombo » (nom identique au fokontany [niveau 2]),1
+domaine,domaine,Domaine,Domaine,,,,urbaine,arret,2,non_resolu,non_resolu,aucun,0.0,aucune règle applicable — à compléter dans manual_places.csv,0
+ambohimandra,ambohimandra,Ambohimandra,Ambohimandra,,,,urbaine,arret,1,repere_ou_variante,repere_ou_variante,fokontany,0.5,table manuelle : graphie proche d'Ambohimiandra ; ligne 104 enchaîne avec Androndra (2e),1
+ambomanarina,ambomanarina,Ambomanarina,Ambomanarina,,,,urbaine,arret,1,repere_ou_variante,repere_ou_variante,commune,0.45,table manuelle : coquille probable du corpus (ligne 105) pour Ambohimanarina -> « Ambohimanarina » (table manuelle : quartier d'Ambohimanarina (6e Arr.) ; homonymes du référentiel hors agglomération),1
+anosisoa,anosisoa,Anosisoa,Anosisoa,,,,urbaine,arret,1,exact_fokontany,exact_fokontany,fokontany,1.0,nom identique au fokontany [niveau 1],1
+tsaralalana,tsaralalana,Tsaralalàna,Tsaralalàna | Antananarivo (Tsaralalana) | Tsaralalana (Cotona),Cotona,Antananarivo,,urbaine | suburbaine,arret | primus,7,repere_ou_variante,repere_ou_variante,commune,0.5,table manuelle : quartier de Tsaralalàna (1er Arr.) ; aucun fokontany homonyme dans le référentiel,1
+morondava,morondava,Morondava,Morondava,,,,urbaine,arret,1,exact_fokontany,exact_fokontany,fokontany,1.0,nom identique au fokontany [niveau 2],1
+mahazoarivo,mahazoarivo,Mahazoarivo,Mahazoarivo,,,,urbaine,arret,2,sous_chaine_fokontany,sous_chaine_fokontany,fokontany,0.75,contenu dans 1 nom(s) de fokontany composé(s) [niveau 1],1
+ambohijanahary,ambohijanahary,Ambohijanahary,Ambohijanahary,,,,urbaine,arret,1,sous_chaine_fokontany,sous_chaine_fokontany,fokontany,0.75,contenu dans 2 nom(s) de fokontany composé(s) [niveau 1],2
+ambatolampy,ambatolampy,Ambatolampy,Ambatolampy,,,,urbaine,arret,2,exact_fokontany,exact_fokontany,fokontany,1.0,nom identique au fokontany [niveau 1],1
+ambohibao,ambohibao,Ambohibao,Ambohibao (cycle) | Ambohibao,,,,urbaine | suburbaine,arret | primus,2,exact_fokontany,exact_fokontany_homonyme,fokontany,0.85,"4 homonymes, retenu : le plus proche du centre [niveau 2]",1
+ambodihady,ambodihady,Ambodihady,Ambodihady,,,,urbaine,arret,1,exact_fokontany,exact_fokontany,fokontany,1.0,nom identique au fokontany [niveau 1],1
+ambodifilao,ambodifilao,Ambodifilao,Ambodifilao,,,,urbaine,arret,1,sous_chaine_fokontany,sous_chaine_fokontany,fokontany,0.75,contenu dans 1 nom(s) de fokontany composé(s) [niveau 1],1
+manjaka,manjaka,Manjaka,Antanetibe/Manjaka,,,,urbaine,arret,1,exact_fokontany,exact_fokontany_homonyme,fokontany,0.85,"2 homonymes, retenu : le plus proche du centre [niveau 2]",1
+andravoahangy_ambony,andravoahangy ambony,Andravoahangy ambony,Andravoahangy ambony,,,,urbaine,arret,1,sous_chaine_fokontany,sous_chaine_fokontany,fokontany,0.65,contenu dans 3 nom(s) de fokontany composé(s) [niveau 1] (suffixe « ambony » ignoré),3
+ambondrona,ambondrona,Ambondrona,Ambondrona,,,,urbaine,arret,1,sous_chaine_fokontany,sous_chaine_fokontany,fokontany,0.75,contenu dans 2 nom(s) de fokontany composé(s) [niveau 1],2
+itaosy,itaosy,Itaosy,Itaosy,,,,urbaine,arret,2,exact_fokontany,exact_fokontany,fokontany,1.0,nom identique au fokontany [niveau 2],1
+faravohitra,faravohitra,Faravohitra,Faravohitra,,,,urbaine,arret,1,sous_chaine_fokontany,sous_chaine_fokontany,fokontany,0.75,contenu dans 2 nom(s) de fokontany composé(s) [niveau 1],2
+rova,rova,Rova,Rova,,,,urbaine,arret,1,repere_ou_variante,repere_ou_variante,fokontany,0.65,table manuelle : Rova de Manjakamiadana (haute ville),1
+soamanandrariny,soamanandrariny,Soamanandrariny,Soamanandrariny,,,,urbaine,arret,2,exact_fokontany,exact_fokontany,fokontany,1.0,nom identique au fokontany [niveau 2],1
+anosipatrana,anosipatrana,Anosipatrana,Anosipatrana,,,,urbaine,arret,1,sous_chaine_fokontany,sous_chaine_fokontany,fokontany,0.75,contenu dans 2 nom(s) de fokontany composé(s) [niveau 1],2
+ambohitsoa,ambohitsoa,Ambohitsoa,Ambohitsoa,,,,urbaine,arret,1,sous_chaine_fokontany,sous_chaine_fokontany,fokontany,0.75,contenu dans 1 nom(s) de fokontany composé(s) [niveau 1],1
+ampitatafika,ampitatafika,Ampitatafika,Ampitatafika,,,,urbaine | suburbaine,arret | terminus,3,commune,commune,commune,0.5,nom identique à la commune [niveau 2],1
+soanierana,soanierana,Soanierana,Soanierana,,,,urbaine,arret,1,sous_chaine_fokontany,sous_chaine_fokontany,fokontany,0.75,contenu dans 2 nom(s) de fokontany composé(s) [niveau 1],2
+ambohidrapeto,ambohidrapeto,Ambohidrapeto,Ambohidrapeto,,,,suburbaine,terminus,1,exact_fokontany,exact_fokontany,fokontany,1.0,nom identique au fokontany [niveau 2],1
+ambaniala,ambaniala,Ambaniala,Ambaniala,,,,suburbaine,terminus,1,exact_fokontany,exact_fokontany,fokontany,1.0,nom identique au fokontany [niveau 2],1
+andohatanjona,andohatanjona,Andohatanjona,Andohatanjona,,,,suburbaine,terminus,1,non_resolu,non_resolu,aucun,0.0,aucune règle applicable — à compléter dans manual_places.csv,0
+itaosy_cite,itaosy cite,Itaosy Cite,Itaosy Cite,,,,suburbaine,terminus,1,exact_fokontany,exact_fokontany,fokontany,0.9,nom identique au fokontany [niveau 2] (suffixe « cite » ignoré),1
+itaosy_hopitaly,itaosy hopitaly,Itaosy Hopitaly,Itaosy Hopitaly,,,,suburbaine,terminus,1,exact_fokontany,exact_fokontany,fokontany,0.9,nom identique au fokontany [niveau 2] (suffixe « hopitaly » ignoré),1
+ankadimanga,ankadimanga,Ankadimanga,Ankadimanga,,,,suburbaine,terminus,1,commune,commune,commune,0.5,nom identique à la commune [niveau 2],1
+ambohitrimanjaka,ambohitrimanjaka,Ambohitrimanjaka,Ambohitrimanjaka,,,,suburbaine,terminus,1,commune,commune,commune,0.5,nom identique à la commune [niveau 2],1
+ampangabe,ampangabe,Ampangabe,Ampangabe,,,,suburbaine,terminus,2,exact_fokontany,exact_fokontany_homonyme,fokontany,0.85,"2 homonymes, retenu : chef-lieu de commune [niveau 2]",1
+antanatanana,antanatanana,Antanatanana,Antanatanana,,,,suburbaine,terminus,1,exact_fokontany,exact_fokontany,fokontany,1.0,nom identique au fokontany [niveau 2],1
+ivato,ivato,Ivato,Ivato (Passant par Ambohijanahary) | Ivato,,,Ambohijanahary,suburbaine,terminus | primus,3,sous_chaine_fokontany,sous_chaine_fokontany,fokontany,0.75,contenu dans 2 nom(s) de fokontany composé(s) [niveau 2],2
+antananarivo,antananarivo,Antananarivo,Antananarivo,,,,suburbaine,primus,1,non_resolu,non_resolu,aucun,0.0,table manuelle : ville entière sans gare précisée (ligne D vers Merimandroso),0
+merimandroso,merimandroso,Merimandroso,Merimandroso,,,,suburbaine,terminus,2,exact_fokontany,exact_fokontany_homonyme,fokontany,0.85,"2 homonymes, retenu : chef-lieu de commune [niveau 2]",1
+antsalovana,antsalovana,Antsalovana,Antananarivo (Antsalovana),,Antananarivo,,suburbaine,primus,1,sous_chaine_fokontany,sous_chaine_fokontany,fokontany,0.75,contenu dans 1 nom(s) de fokontany composé(s) [niveau 1],1
+mahitsy_hopitaly,mahitsy hopitaly,Mahitsy Hopitaly,Mahitsy Hopitaly,,,,suburbaine,terminus,1,exact_fokontany,exact_fokontany_homonyme,fokontany,0.75,"2 homonymes, retenu : chef-lieu de commune [niveau 2] (suffixe « hopitaly » ignoré)",1
+vassacos,vassacos,Vassacos,Antananarivo (Vassacos),,Antananarivo,,suburbaine,primus,2,non_resolu,non_resolu,aucun,0.0,aucune règle applicable — à compléter dans manual_places.csv,0
+alakamisy_anosiala,alakamisy anosiala,Alakamisy Anosiala,Alakamisy Anosiala,,,,suburbaine,terminus,1,repere_ou_variante,repere_ou_variante,commune,0.6,table manuelle : « Alakamisy » = jour de marché ; commune d'Anosiala (Ambohidratrimo),1
+ambatolampy_tsimahafotsy,ambatolampy tsimahafotsy,Ambatolampy Tsimahafotsy,Ambatolampy Tsimahafotsy,,,,suburbaine,terminus,1,exact_fokontany,exact_fokontany,fokontany,1.0,nom identique au fokontany [niveau 2],1
+ambodizozoro,ambodizozoro,Ambodizozoro,Ambodizozoro,,,,suburbaine,terminus,1,exact_fokontany,exact_fokontany,fokontany,1.0,nom identique au fokontany [niveau 2],1
+ambohimangakely,ambohimangakely,Ambohimangakely,Ambohimangakely,,,,suburbaine,terminus,1,exact_fokontany,exact_fokontany,fokontany,1.0,nom identique au fokontany [niveau 2],1
+ambanitsena,ambanitsena,Ambanitsena,Ambanitsena,,,,suburbaine,terminus,1,exact_fokontany,exact_fokontany,fokontany,1.0,nom identique au fokontany [niveau 3],1
+ambohimalaza,ambohimalaza,Ambohimalaza,Ambohimalaza | Ambohimalaza (Via By Pass),,,By Pass,suburbaine,terminus,2,sous_chaine_fokontany,sous_chaine_fokontany,fokontany,0.75,contenu dans 1 nom(s) de fokontany composé(s) [niveau 2],1
+andranosoa,andranosoa,Andranosoa,Andranosoa,,,,suburbaine,terminus,1,exact_fokontany,exact_fokontany,fokontany,1.0,nom identique au fokontany [niveau 2],1
+anjeva,anjeva,Anjeva,Anjeva | Anjeva Via By Pass,,,By Pass,suburbaine,terminus,2,sous_chaine_fokontany,sous_chaine_fokontany,fokontany,0.75,contenu dans 2 nom(s) de fokontany composé(s) [niveau 2],2
+antsahamarina,antsahamarina,Antsahamarina,Antsahamarina,,,,suburbaine,terminus,1,exact_fokontany,exact_fokontany,fokontany,1.0,nom identique au fokontany [niveau 2],1
+betsizaraina_ikianja_avaratra,betsizaraina ikianja avaratra,Betsizaraina Ikianja Avaratra,Betsizaraina Ikianja Avaratra,,,,suburbaine,terminus,1,repere_ou_variante,repere_ou_variante,fokontany,0.6,table manuelle : deux fokontany voisins de la commune d'Ambohimangakely (ligne E vers l'est),2
+manakavaly,manakavaly,Manakavaly,Manakavaly,,,,suburbaine,terminus,1,exact_fokontany,exact_fokontany,fokontany,1.0,nom identique au fokontany [niveau 3],1
+ambohijanaka,ambohijanaka,Ambohijanaka,Ambohijanaka,,,,suburbaine,terminus,2,exact_fokontany,exact_fokontany,fokontany,1.0,nom identique au fokontany [niveau 2],1
+beravina,beravina,Beravina,Beravina Passant par Ankadivoribe | Beravina Passant par Bevalala | Beravina,,,Ankadivoribe | Bevalala,suburbaine,terminus,3,exact_fokontany,exact_fokontany_homonyme,fokontany,0.85,"2 homonymes, retenu : le plus proche de « Ankadivoribe » [niveau 2]",1
+cnaps,cnaps,CNAPS,Antananarivo (CNAPS),,Antananarivo,,suburbaine,primus,21,non_resolu,non_resolu,aucun,0.0,aucune règle applicable — à compléter dans manual_places.csv,0
+ambatofahavalo,ambatofahavalo,Ambatofahavalo,Ambatofahavalo,,,,suburbaine,terminus,1,commune,commune,commune,0.5,nom identique à la commune [niveau 2],1
+ambatofotsy_sud,ambatofotsy sud,Ambatofotsy Sud,Ambatofotsy Sud,,,,suburbaine,terminus,1,sous_chaine_fokontany,sous_chaine_fokontany,fokontany,0.65,"contenu dans 1 nom(s) de fokontany composé(s) [niveau 2] (suffixe « sud » ignoré, filtre géographique S)",1
+ambatomarobiby,ambatomarobiby,Ambatomarobiby,Ambatomarobiby,,,,suburbaine,terminus,2,non_resolu,non_resolu,aucun,0.0,aucune règle applicable — à compléter dans manual_places.csv,0
+ampaneffy,ampaneffy,Ampaneffy,Ampaneffy Passant par Soavina,,,Soavina,suburbaine,terminus,1,repere_ou_variante,repere_ou_variante,fokontany,0.7,table manuelle : graphie variante de la commune d'Ampanefy -> « Ampanefy » (nom identique au fokontany [niveau 2]),1
+anjomakely,anjomakely,Anjomakely,Anjomakely,,,,suburbaine,terminus,1,exact_fokontany,exact_fokontany_homonyme,fokontany,0.85,"2 homonymes, retenu : le plus proche du centre [niveau 2]",1
+ankadivoribe,ankadivoribe,Ankadivoribe,Ankadivoribe,,,,suburbaine,terminus,1,exact_fokontany,exact_fokontany,fokontany,1.0,nom identique au fokontany [niveau 2],1
+ankaraobato_ifarihy,ankaraobato ifarihy,Ankaraobato Ifarihy,Ankaraobato Ifarihy,,,,suburbaine,terminus,1,exact_fokontany,exact_fokontany_contexte,fokontany,0.95,fokontany « ifarihy » de la commune « ankaraobato » [niveau 2],1
+anosibe_sud,anosibe sud,Anosibe Sud,Anosibe Sud (Eau et Forêt),Eau et Forêt,,,suburbaine,terminus,1,exact_fokontany,exact_fokontany,fokontany,0.9,"nom identique au fokontany [niveau 2] (suffixe « sud » ignoré, filtre géographique S)",1
+tsiafahy,tsiafahy,Tsiafahy,Tsiafahy,,,,suburbaine,terminus,1,exact_fokontany,exact_fokontany,fokontany,1.0,nom identique au fokontany [niveau 2],1
+tsinjony,tsinjony,Tsinjony,Tsinjony,,,,suburbaine,terminus,1,exact_fokontany,exact_fokontany,fokontany,1.0,nom identique au fokontany [niveau 4],1
+ambohijoky,ambohijoky,Ambohijoky,Ambohijoky,,,,suburbaine,terminus,2,non_resolu,non_resolu,aucun,0.0,aucune règle applicable — à compléter dans manual_places.csv,0
+antanetikely,antanetikely,Antanetikely,Antanetikely,,,,suburbaine,terminus,1,exact_fokontany,exact_fokontany,fokontany,1.0,nom identique au fokontany [niveau 2],1
+ambatomirahavavy,ambatomirahavavy,Ambatomirahavavy,Ambatomirahavavy,,,,suburbaine,terminus,1,exact_fokontany,exact_fokontany,fokontany,1.0,nom identique au fokontany [niveau 2],1
+ambohijafy,ambohijafy,Ambohijafy,Ambohijafy,,,,suburbaine,terminus,1,exact_fokontany,exact_fokontany_homonyme,fokontany,0.85,"2 homonymes, retenu : le plus proche du centre [niveau 2]",1
+ampilanonana,ampilanonana,Ampilanonana,Ampilanonana,,,,suburbaine,terminus,1,exact_fokontany,exact_fokontany,fokontany,1.0,nom identique au fokontany [niveau 2],1
+antsahadinta,antsahadinta,Antsahadinta,Antsahadinta,,,,suburbaine,terminus,1,exact_fokontany,exact_fokontany,fokontany,1.0,nom identique au fokontany [niveau 2],1
+cur_vontovorona,cur vontovorona,Cur Vontovorona,Cur Vontovorona,,,,suburbaine,terminus,1,repere_ou_variante,repere_ou_variante,commune,0.45,table manuelle : CUR (campus universitaire) de Vontovorona ; fokontany absent du référentiel,1
+imerintsiatosika,imerintsiatosika,Imerintsiatosika,Imerintsiatosika,,,,suburbaine,terminus,1,commune,commune,commune,0.5,nom identique à la commune [niveau 4],1
+maizindrano,maizindrano,Maizindrano,Maizindrano,,,,suburbaine,terminus,1,non_resolu,non_resolu,aucun,0.0,aucune règle applicable — à compléter dans manual_places.csv,0
+morarano,morarano,Morarano,Morarano,,,,suburbaine,terminus,1,exact_fokontany,exact_fokontany_homonyme,fokontany,0.85,"4 homonymes, retenu : le plus proche du centre [niveau 2]",1
+ankaditany,ankaditany,Ankaditany,Ankaditany,,,,suburbaine,terminus,2,exact_fokontany,exact_fokontany,fokontany,1.0,nom identique au fokontany [niveau 2],1
+beravina_itaosy,beravina itaosy,Beravina Itaosy,Beravina Itaosy,,,,suburbaine,terminus,1,repere_ou_variante,repere_ou_variante,fokontany,0.5,table manuelle : Beravina du secteur d'Itaosy / Soalandy (Atsimondrano),1
+malaza,malaza,Malaza,Malaza (Soavimbahoaka),Soavimbahoaka,,,suburbaine,terminus,1,exact_fokontany,exact_fokontany_homonyme,fokontany,0.85,"3 homonymes, retenu : le plus proche de « Soavimbahoaka » [niveau 2]",1
+st_antoine_ambodivona,st antoine ambodivona,St Antoine - Ambodivona,Antananarivo (St Antoine - Ambodivona),,Antananarivo,,suburbaine,primus,12,repere_ou_variante,repere_ou_variante,fokontany,0.75,table manuelle : précision du corpus : gare St Antoine à Ambodivona (gare routière du 3e Arr. ; ligne H vers le nord),2
+manandriana_nord,manandriana nord,Manandriana Nord,Manandriana Nord,,,,suburbaine,terminus,1,exact_fokontany,exact_fokontany,fokontany,0.9,"nom identique au fokontany [niveau 2] (suffixe « nord » ignoré, filtre géographique N)",1
+ambohimanga_rova,ambohimanga rova,Ambohimanga Rova,Ambohimanga Rova,,,,suburbaine,terminus,1,exact_fokontany,exact_fokontany,fokontany,1.0,nom identique au fokontany [niveau 2],1
+ambolo,ambolo,Ambolo,Ambolo,,,,suburbaine,terminus,1,exact_fokontany,exact_fokontany,fokontany,1.0,nom identique au fokontany [niveau 2],1
+talata_volonondry,talata volonondry,Talata Volonondry,Talata Volonondry,,,,suburbaine,terminus,1,exact_fokontany,exact_fokontany,fokontany,1.0,nom identique au fokontany [niveau 2],1
+ambatofotsy_nord,ambatofotsy nord,Ambatofotsy Nord,Ambatofotsy Nord,,,,suburbaine,terminus,1,exact_fokontany,exact_fokontany_homonyme,fokontany,0.75,"2 homonymes, retenu : le plus proche du centre [niveau 2] (suffixe « nord » ignoré, filtre géographique N)",1
+ambohitrantenaina,ambohitrantenaina,Ambohitrantenaina,Ambohitrantenaina,,,,suburbaine,terminus,1,exact_fokontany,exact_fokontany,fokontany,1.0,nom identique au fokontany [niveau 2],1
+ambohitrinimanga,ambohitrinimanga,Ambohitrinimanga,Ambohitrinimanga,,,,suburbaine,terminus,1,exact_fokontany,exact_fokontany,fokontany,1.0,nom identique au fokontany [niveau 2],1
+andranovelona,andranovelona,Andranovelona,Andranovelona,,,,suburbaine,terminus,1,exact_fokontany,exact_fokontany_homonyme,fokontany,0.85,"4 homonymes, retenu : le plus proche du centre [niveau 2]",1
+anosiarivo,anosiarivo,Anosiarivo,Anosiarivo,,,,suburbaine,terminus,1,exact_fokontany,exact_fokontany,fokontany,1.0,nom identique au fokontany [niveau 2],1
+antanambao,antanambao,Antanambao,Antanambao,,,,suburbaine,terminus,1,exact_fokontany,exact_fokontany_homonyme,fokontany,0.85,"3 homonymes, retenu : le plus proche du centre [niveau 2]",1
+belanitra,belanitra,Belanitra,Belanitra,,,,suburbaine,terminus,1,exact_fokontany,exact_fokontany_homonyme,fokontany,0.85,"3 homonymes, retenu : le plus proche du centre [niveau 2]",1
+iavoambony,iavoambony,Iavoambony,Iavoambony,,,,suburbaine,terminus,1,exact_fokontany,exact_fokontany,fokontany,1.0,nom identique au fokontany [niveau 2],1
+lazaina,lazaina,Lazaina,Lazaina,,,,suburbaine,terminus,1,exact_fokontany,exact_fokontany,fokontany,1.0,nom identique au fokontany [niveau 2],1
+namehana,namehana,Namehana,Namehana,,,,suburbaine,terminus,1,exact_fokontany,exact_fokontany,fokontany,1.0,nom identique au fokontany [niveau 2],1
+vilihazo,vilihazo,Vilihazo,Vilihazo,,,,suburbaine,terminus,1,repere_ou_variante,repere_ou_variante,commune,0.5,table manuelle : graphie variante de la commune de Viliahazo -> « Viliahazo » (nom identique à la commune [niveau 2]),1
+ankadindratombo,ankadindratombo,Ankadindratombo,Ankadindratombo,,,,suburbaine,primus,2,exact_fokontany,exact_fokontany,fokontany,1.0,nom identique au fokontany [niveau 2],1
+alakamisy_antanimarina,alakamisy antanimarina,Alakamisy Antanimarina,Alakamisy Antanimarina,,,,suburbaine,terminus,1,exact_fokontany,exact_fokontany,fokontany,0.9,nom identique au fokontany [niveau 2] (suffixe « alakamisy » ignoré),1
+ankadinandriana,ankadinandriana,Ankadinandriana,Ankadinandriana,,,,suburbaine,terminus,1,exact_fokontany,exact_fokontany_homonyme,fokontany,0.85,"2 homonymes, retenu : chef-lieu de commune [niveau 2]",1
+ambohimanambola,ambohimanambola,Ambohimanambola,Ambohimanambola,,,,suburbaine,terminus,1,commune,commune,commune,0.5,nom identique à la commune [niveau 2],1
+ambohitanety,ambohitanety,Ambohitanety,Ambohitanety,,,,suburbaine,terminus,1,exact_fokontany,exact_fokontany,fokontany,1.0,nom identique au fokontany [niveau 2],1
+androrohoro,androrohoro,Androrohoro,Androrohoro,,,,suburbaine,terminus,1,non_resolu,non_resolu,aucun,0.0,aucune règle applicable — à compléter dans manual_places.csv,0
+masindray,masindray,Masindray,Masindray,,,,suburbaine,terminus,1,exact_fokontany,exact_fokontany,fokontany,1.0,nom identique au fokontany [niveau 2],1
+ambohimangidy,ambohimangidy,Ambohimangidy,Ambohimangidy,,,,suburbaine,terminus,1,exact_fokontany,exact_fokontany,fokontany,1.0,nom identique au fokontany [niveau 2],1
+ambohimiadana,ambohimiadana,Ambohimiadana,Ambohimiadana,,,,suburbaine,terminus,1,exact_fokontany,exact_fokontany_homonyme,fokontany,0.85,"3 homonymes, retenu : le plus proche du centre [niveau 2]",1

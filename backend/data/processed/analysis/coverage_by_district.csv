@@ -1,0 +1,14 @@
+adm2_pcode,adm2_name,tier,n_fokontany,direct,faible,commune,passage,aucune,area_sqkm,area_direct_sqkm,mean_lines_direct,pct_fokontany_direct,pct_area_direct
+MG11118,1er Arrondissement,1,44,13,11,20,0,0,9.69,5.92,3.68,54.5,61.1
+MG11119,2e Arrondissement,1,24,10,4,10,0,0,13.76,9.35,2.96,58.3,68.0
+MG11120,3e Arrondissement,1,34,14,2,0,14,4,7.0,4.19,2.21,47.1,59.9
+MG11121,4e Arrondissement,1,32,10,6,0,14,2,13.03,7.04,2.53,50.0,54.0
+MG11122,5e Arrondissement,1,27,12,6,0,4,5,23.93,18.4,1.63,66.7,76.9
+MG11123,6e Arrondissement,1,31,6,4,21,0,0,17.6,9.81,1.03,32.3,55.7
+MG11103,Ambohidratrimo,2,313,2,12,41,4,254,1432.36,28.77,0.05,4.5,2.0
+MG11117,Antananarivo Atsimondrano,2,206,6,19,32,13,136,421.97,34.25,0.17,12.1,8.1
+MG11102,Antananarivo Avaradrano,2,209,5,29,18,10,147,581.88,106.73,0.19,16.3,18.3
+MG11115,Andramasina,3,112,0,0,0,0,112,1406.41,0.0,0.0,0.0,0.0
+MG11107,Anjozorobe,3,175,0,0,0,0,175,4275.06,0.0,0.0,0.0,0.0
+MG11104,Ankazobe,3,143,0,0,0,0,143,7358.26,0.0,0.0,0.0,0.0
+MG11106,Manjakandriana,3,310,0,2,0,0,308,1798.82,6.76,0.01,0.6,0.4

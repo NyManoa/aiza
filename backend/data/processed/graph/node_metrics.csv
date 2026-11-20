@@ -1,0 +1,189 @@
+place_id,name,in_degree,out_degree,n_lines,n_services,n_passages,match_status,confidence
+analakely,Analakely,12,18,26,31,31,sous_chaine_fokontany,0.75
+67ha,67ha,11,15,22,35,35,sous_chaine_fokontany,0.65
+anosy,Anosy,10,16,17,28,28,non_resolu,0.0
+ambanidia,Ambanidia,10,10,14,16,16,sous_chaine_fokontany,0.75
+meteo,Météo,11,17,12,17,24,non_resolu,0.0
+ankorondrano,Ankorondrano,11,8,10,12,12,sous_chaine_fokontany,0.75
+mahamasina,Mahamasina,6,3,10,10,10,sous_chaine_fokontany,0.75
+anosibe,Anosibe,6,8,10,10,10,sous_chaine_fokontany,0.65
+antanimena,Antanimena,6,6,9,13,13,exact_fokontany,1.0
+ankadimbahoaka,Ankadimbahoaka,5,8,7,10,10,sous_chaine_fokontany,0.75
+anosizato,Anosizato,3,8,7,10,10,sous_chaine_fokontany,0.75
+rasalama,Rasalama,5,6,6,8,9,non_resolu,0.0
+betongolo,Betongolo,6,3,6,7,8,exact_fokontany,1.0
+ampefiloha,Ampefiloha,2,1,6,6,6,sous_chaine_fokontany,0.75
+analamahitsy,Analamahitsy,8,6,5,7,11,sous_chaine_fokontany,0.75
+amboditsiry,Amboditsiry,6,5,5,10,10,exact_fokontany,1.0
+tsimbazaza,Tsimbazaza,5,2,5,8,8,non_resolu,0.0
+ambohipo,Ambohipo,3,2,5,6,6,sous_chaine_fokontany,0.75
+ambohijatovo,Ambohijatovo,3,10,4,11,11,repere_ou_variante,0.5
+mandroseza,Mandroseza,5,6,4,8,8,sous_chaine_fokontany,0.75
+nanisana,Nanisana,4,4,4,5,6,sous_chaine_fokontany,0.75
+ankazomanga,Ankazomanga,4,3,4,5,5,sous_chaine_fokontany,0.75
+androndra,Androndra,2,2,4,4,4,repere_ou_variante,0.65
+andavamamba,Andavamamba,2,4,4,4,4,sous_chaine_fokontany,0.65
+galaxy,Galaxy,2,4,4,4,4,repere_ou_variante,0.7
+cnaps,CNAPS,0,18,3,21,21,non_resolu,0.0
+mascar,Mascar,5,5,3,5,7,non_resolu,0.0
+tsaralalana,Tsaralalàna,1,7,3,7,7,repere_ou_variante,0.5
+tanjombato,Tanjombato,1,5,3,6,6,commune,0.5
+andoharanofotsy,Andoharanofotsy,2,3,3,5,5,exact_fokontany,1.0
+avaradoha,Avaradoha,3,2,3,4,4,exact_fokontany,1.0
+andravoahangy,Andravoahangy,2,4,3,4,4,sous_chaine_fokontany,0.75
+besarety,Besarety,2,2,3,3,3,exact_fokontany,1.0
+bel_air,Bel'air,2,2,3,3,3,non_resolu,0.0
+soavimasoandro,Soavimasoandro,0,2,3,3,3,exact_fokontany,1.0
+ankatso,Ankatso,2,2,3,3,3,repere_ou_variante,0.45
+iavoloha,Iavoloha,2,0,3,3,3,exact_fokontany,1.0
+ampitatafika,Ampitatafika,2,0,3,3,3,commune,0.5
+mahazo,Mahazo,1,8,2,8,8,non_resolu,0.0
+mausolee,Mausolée,1,2,2,4,6,non_resolu,0.0
+homi,Homi,2,3,2,4,6,repere_ou_variante,0.7
+antananandrano,Antananandrano,1,2,2,3,5,non_resolu,0.0
+andranomena,Andranomena,3,0,2,5,5,exact_fokontany,1.0
+ambatobe,Ambatobe,1,2,2,3,5,exact_fokontany,1.0
+coliseum,Coliseum,2,3,2,3,5,non_resolu,0.0
+andraisoro,Andraisoro,1,2,2,3,5,exact_fokontany,1.0
+ambodivona,Ambodivona,1,4,2,4,4,sous_chaine_fokontany,0.7
+analamahitsy_cite,Analamahitsy cité,3,1,2,3,3,exact_fokontany,1.0
+anosivavaka,Anosivavaka,3,2,2,3,3,exact_fokontany,1.0
+ambohimanarina,Ambohimanarina,2,2,2,3,3,repere_ou_variante,0.45
+beravina,Beravina,2,0,2,3,3,exact_fokontany,0.85
+namontana,Namontana,2,2,2,2,2,sous_chaine_fokontany,0.75
+anjanahary,Anjanahary,1,2,2,2,2,sous_chaine_fokontany,0.65
+tsiadana,Tsiadana,1,2,2,2,2,exact_fokontany,1.0
+alarobia,Alarobia,1,2,2,2,2,sous_chaine_fokontany,0.75
+fasan_karana,Fasan karana,2,2,2,2,2,non_resolu,0.0
+alasora,Alasora,2,0,2,2,2,exact_fokontany,1.0
+ravitoto,Ravitoto,1,1,2,2,2,non_resolu,0.0
+antanetibe,Antanetibe,0,1,2,2,2,exact_fokontany,0.65
+mahazoarivo,Mahazoarivo,1,1,2,2,2,sous_chaine_fokontany,0.75
+ambohibao,Ambohibao,1,1,2,2,2,exact_fokontany,0.85
+itaosy,Itaosy,1,1,2,2,2,exact_fokontany,1.0
+ampangabe,Ampangabe,2,0,2,2,2,exact_fokontany,0.85
+ambohimalaza,Ambohimalaza,2,0,2,2,2,sous_chaine_fokontany,0.75
+anjeva,Anjeva,2,0,2,2,2,sous_chaine_fokontany,0.75
+ambatomarobiby,Ambatomarobiby,1,0,2,2,2,non_resolu,0.0
+ankaditany,Ankaditany,1,0,2,2,2,exact_fokontany,1.0
+st_antoine_ambodivona,St Antoine - Ambodivona,0,12,1,12,12,repere_ou_variante,0.75
+ambatomaro,Ambatomaro,1,1,1,2,4,sous_chaine_fokontany,0.75
+antsobolo,Antsobolo,1,1,1,2,4,sous_chaine_fokontany,0.75
+ste_akanjo,Ste Akanjo,1,1,1,2,4,non_resolu,0.0
+ankerana,Ankerana,2,3,1,2,4,sous_chaine_fokontany,0.75
+ilafy,Ilafy,0,2,1,3,3,exact_fokontany,1.0
+bypass,Bypass,1,0,1,3,3,non_resolu,0.0
+ivato,Ivato,2,1,1,3,3,sous_chaine_fokontany,0.75
+manjakaray,Manjakaray,0,2,1,2,2,sous_chaine_fokontany,0.75
+anosizato_atsinanana,Anosizato antsinananana,2,0,1,2,2,sous_chaine_fokontany,0.75
+bibilava,Bibilava,0,1,1,2,2,non_resolu,0.0
+mahatsinjo_alasora,Mahatsinjo Alasora,1,0,1,2,2,exact_fokontany,0.95
+domaine,Domaine,2,1,1,2,2,non_resolu,0.0
+ambatolampy,Ambatolampy,1,1,1,2,2,exact_fokontany,1.0
+soamanandrariny,Soamanandrariny,1,0,1,2,2,exact_fokontany,1.0
+merimandroso,Merimandroso,2,0,1,2,2,exact_fokontany,0.85
+vassacos,Vassacos,0,2,1,2,2,non_resolu,0.0
+ambohijanaka,Ambohijanaka,2,0,1,2,2,exact_fokontany,1.0
+ambohijoky,Ambohijoky,2,0,1,2,2,non_resolu,0.0
+ankadindratombo,Ankadindratombo,0,2,1,2,2,exact_fokontany,1.0
+ambohimahintsy,Ambohimahintsy,1,0,1,1,1,non_resolu,0.0
+mahatony,Mahatony,0,1,1,1,1,non_resolu,0.0
+isotry,Isotry,1,1,1,1,1,sous_chaine_fokontany,0.65
+ankadikely_ilafy,Ankadikely ilafy,0,1,1,1,1,exact_fokontany,0.95
+gazety,Gazety,1,1,1,1,1,non_resolu,0.0
+androhibe,Androhibe,1,0,1,1,1,exact_fokontany,1.0
+ambohipotsy,Ambohipotsy,1,0,1,1,1,sous_chaine_fokontany,0.75
+antsakaviro,Antsakaviro,1,1,1,1,1,sous_chaine_fokontany,0.75
+behoririka,Behoririka,1,1,1,1,1,exact_fokontany,1.0
+ambanilalana,Ambanilalana,1,0,1,1,1,exact_fokontany,1.0
+andrainarivo,Andrainarivo,0,1,1,1,1,non_resolu,0.0
+andohatapenaka,Andohatapenaka,1,1,1,1,1,sous_chaine_fokontany,0.75
+ambodimita,Ambodimita,1,1,1,1,1,exact_fokontany,1.0
+pulman,Pulman,1,1,1,1,1,non_resolu,0.0
+soarano,Soarano,1,0,1,1,1,sous_chaine_fokontany,0.75
+tsarasaotra,Tsarasaotra,0,1,1,1,1,exact_fokontany,1.0
+forello,Forello,1,1,1,1,1,non_resolu,0.0
+bevalala,Bevalala,1,1,1,1,1,non_resolu,0.0
+soavina,Soavina,1,0,1,1,1,exact_fokontany,0.85
+ambohitromby_alatsinainy,Ambohitromby Alatsinainy,0,1,1,1,1,repere_ou_variante,0.6
+alasora_commune,Alasora Commune,1,1,1,1,1,exact_fokontany,0.9
+mahitsy_plaque_mandikanamana,Mahitsy Plaque Mandikanamana,0,1,1,1,1,repere_ou_variante,0.6
+ankadidratombo,Ankadidratombo,1,1,1,1,1,repere_ou_variante,0.7
+ambohimandra,Ambohimandra,0,1,1,1,1,repere_ou_variante,0.5
+ambomanarina,Ambomanarina,1,0,1,1,1,repere_ou_variante,0.45
+anosisoa,Anosisoa,1,0,1,1,1,exact_fokontany,1.0
+morondava,Morondava,1,0,1,1,1,exact_fokontany,1.0
+ambohijanahary,Ambohijanahary,1,0,1,1,1,sous_chaine_fokontany,0.75
+ambodihady,Ambodihady,1,0,1,1,1,exact_fokontany,1.0
+ambodifilao,Ambodifilao,1,0,1,1,1,sous_chaine_fokontany,0.75
+manjaka,Manjaka,0,1,1,1,1,exact_fokontany,0.85
+andravoahangy_ambony,Andravoahangy ambony,0,1,1,1,1,sous_chaine_fokontany,0.65
+ambondrona,Ambondrona,1,1,1,1,1,sous_chaine_fokontany,0.75
+faravohitra,Faravohitra,1,1,1,1,1,sous_chaine_fokontany,0.75
+rova,Rova,1,0,1,1,1,repere_ou_variante,0.65
+anosipatrana,Anosipatrana,1,0,1,1,1,sous_chaine_fokontany,0.75
+ambohitsoa,Ambohitsoa,1,0,1,1,1,sous_chaine_fokontany,0.75
+soanierana,Soanierana,1,0,1,1,1,sous_chaine_fokontany,0.75
+ambohidrapeto,Ambohidrapeto,1,0,1,1,1,exact_fokontany,1.0
+ambaniala,Ambaniala,1,0,1,1,1,exact_fokontany,1.0
+andohatanjona,Andohatanjona,1,0,1,1,1,non_resolu,0.0
+itaosy_cite,Itaosy Cite,1,0,1,1,1,exact_fokontany,0.9
+itaosy_hopitaly,Itaosy Hopitaly,1,0,1,1,1,exact_fokontany,0.9
+ankadimanga,Ankadimanga,1,0,1,1,1,commune,0.5
+ambohitrimanjaka,Ambohitrimanjaka,1,0,1,1,1,commune,0.5
+antanatanana,Antanatanana,1,0,1,1,1,exact_fokontany,1.0
+antananarivo,Antananarivo,0,1,1,1,1,non_resolu,0.0
+antsalovana,Antsalovana,0,1,1,1,1,sous_chaine_fokontany,0.75
+mahitsy_hopitaly,Mahitsy Hopitaly,1,0,1,1,1,exact_fokontany,0.75
+alakamisy_anosiala,Alakamisy Anosiala,1,0,1,1,1,repere_ou_variante,0.6
+ambatolampy_tsimahafotsy,Ambatolampy Tsimahafotsy,1,0,1,1,1,exact_fokontany,1.0
+ambodizozoro,Ambodizozoro,1,0,1,1,1,exact_fokontany,1.0
+ambohimangakely,Ambohimangakely,1,0,1,1,1,exact_fokontany,1.0
+ambanitsena,Ambanitsena,1,0,1,1,1,exact_fokontany,1.0
+andranosoa,Andranosoa,1,0,1,1,1,exact_fokontany,1.0
+antsahamarina,Antsahamarina,1,0,1,1,1,exact_fokontany,1.0
+betsizaraina_ikianja_avaratra,Betsizaraina Ikianja Avaratra,1,0,1,1,1,repere_ou_variante,0.6
+manakavaly,Manakavaly,1,0,1,1,1,exact_fokontany,1.0
+ambatofahavalo,Ambatofahavalo,1,0,1,1,1,commune,0.5
+ambatofotsy_sud,Ambatofotsy Sud,1,0,1,1,1,sous_chaine_fokontany,0.65
+ampaneffy,Ampaneffy,1,0,1,1,1,repere_ou_variante,0.7
+anjomakely,Anjomakely,1,0,1,1,1,exact_fokontany,0.85
+ankadivoribe,Ankadivoribe,1,0,1,1,1,exact_fokontany,1.0
+ankaraobato_ifarihy,Ankaraobato Ifarihy,1,0,1,1,1,exact_fokontany,0.95
+anosibe_sud,Anosibe Sud,1,0,1,1,1,exact_fokontany,0.9
+tsiafahy,Tsiafahy,1,0,1,1,1,exact_fokontany,1.0
+tsinjony,Tsinjony,1,0,1,1,1,exact_fokontany,1.0
+antanetikely,Antanetikely,1,0,1,1,1,exact_fokontany,1.0
+ambatomirahavavy,Ambatomirahavavy,1,0,1,1,1,exact_fokontany,1.0
+ambohijafy,Ambohijafy,1,0,1,1,1,exact_fokontany,0.85
+ampilanonana,Ampilanonana,1,0,1,1,1,exact_fokontany,1.0
+antsahadinta,Antsahadinta,1,0,1,1,1,exact_fokontany,1.0
+cur_vontovorona,Cur Vontovorona,1,0,1,1,1,repere_ou_variante,0.45
+imerintsiatosika,Imerintsiatosika,1,0,1,1,1,commune,0.5
+maizindrano,Maizindrano,1,0,1,1,1,non_resolu,0.0
+morarano,Morarano,1,0,1,1,1,exact_fokontany,0.85
+beravina_itaosy,Beravina Itaosy,1,0,1,1,1,repere_ou_variante,0.5
+malaza,Malaza,1,0,1,1,1,exact_fokontany,0.85
+manandriana_nord,Manandriana Nord,1,0,1,1,1,exact_fokontany,0.9
+ambohimanga_rova,Ambohimanga Rova,1,0,1,1,1,exact_fokontany,1.0
+ambolo,Ambolo,1,0,1,1,1,exact_fokontany,1.0
+talata_volonondry,Talata Volonondry,1,0,1,1,1,exact_fokontany,1.0
+ambatofotsy_nord,Ambatofotsy Nord,1,0,1,1,1,exact_fokontany,0.75
+ambohitrantenaina,Ambohitrantenaina,1,0,1,1,1,exact_fokontany,1.0
+ambohitrinimanga,Ambohitrinimanga,1,0,1,1,1,exact_fokontany,1.0
+andranovelona,Andranovelona,1,0,1,1,1,exact_fokontany,0.85
+anosiarivo,Anosiarivo,1,0,1,1,1,exact_fokontany,1.0
+antanambao,Antanambao,1,0,1,1,1,exact_fokontany,0.85
+belanitra,Belanitra,1,0,1,1,1,exact_fokontany,0.85
+iavoambony,Iavoambony,1,0,1,1,1,exact_fokontany,1.0
+lazaina,Lazaina,1,0,1,1,1,exact_fokontany,1.0
+namehana,Namehana,1,0,1,1,1,exact_fokontany,1.0
+vilihazo,Vilihazo,1,0,1,1,1,repere_ou_variante,0.5
+alakamisy_antanimarina,Alakamisy Antanimarina,1,0,1,1,1,exact_fokontany,0.9
+ankadinandriana,Ankadinandriana,1,0,1,1,1,exact_fokontany,0.85
+ambohimanambola,Ambohimanambola,1,0,1,1,1,commune,0.5
+ambohitanety,Ambohitanety,1,0,1,1,1,exact_fokontany,1.0
+androrohoro,Androrohoro,1,0,1,1,1,non_resolu,0.0
+masindray,Masindray,1,0,1,1,1,exact_fokontany,1.0
+ambohimangidy,Ambohimangidy,1,0,1,1,1,exact_fokontany,1.0
+ambohimiadana,Ambohimiadana,1,0,1,1,1,exact_fokontany,0.85

@@ -1,0 +1,19 @@
+# Render (blueprint) : API FastAPI à partir de backend/Dockerfile (le pipeline est exécuté pendant le build).
+# Utilisé avec Netlify (frontend) ; inutile si tout est déployé sur Vercel.
+services:
+  - type: web
+    name: tana-planner-api
+    runtime: docker
+    rootDir: backend
+    dockerfilePath: ./Dockerfile
+    dockerContext: .
+    plan: free
+    healthCheckPath: /api/v1/health
+    envVars:
+      - key: PLANNER_ENVIRONMENT
+        value: production
+      - key: WEB_CONCURRENCY
+        value: "1"
+      # Seulement utile si le frontend appelle l'API directement (sans le relais /api de Netlify).
+      - key: PLANNER_CORS_ORIGINS
+        value: '["https://VOTRE-SITE.netlify.app"]'

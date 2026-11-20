@@ -1,0 +1,31 @@
+# Table de correspondance manuelle / repères — ÉDITABLE.
+# Prioritaire sur les règles automatiques. Une ligne par lieu du corpus (clé = nom du lieu, normalisé automatiquement).
+# target_type :
+#   fokontany  -> target = "Fokontany@Commune;Fokontany@Commune" (noms du référentiel admin4/admin3)
+#   commune    -> target = "Commune;Commune"
+#   alias      -> target = autre graphie, ré-analysée par les règles automatiques (statut final : repere_ou_variante)
+#   unresolved -> lieu volontairement non rattaché (note obligatoire)
+# confidence : 0..1 (vide = 0.60). Ne saisir que des rattachements vérifiables ; sinon laisser non résolu.
+place,target_type,target,confidence,note
+HOMI,fokontany,Soavinandriana@3e Arrondissement,0.70,Hôpital Militaire (HOMI) de Soavinandriana
+Galaxy,fokontany,Andraharo@6e Arrondissement,0.70,centre commercial Galaxy Andraharo
+Rova,fokontany,Manjakamiadana Antsahondra AMB@2e Arrondissement,0.65,Rova de Manjakamiadana (haute ville)
+Androndra,fokontany,Androndrabe Ampamantanana Ambo@2e Arrondissement;Androndrakely Saropody Antonta@2e Arrondissement,0.65,Androndra = secteurs Androndrabe / Androndrakely
+Ambohimandra,fokontany,Ambohimiandra Fenomanana Antsa@2e Arrondissement,0.50,graphie proche d'Ambohimiandra ; ligne 104 enchaîne avec Androndra (2e)
+Ambohijatovo,commune,1er Arrondissement,0.50,jardin d'Ambohijatovo (centre-ville) ; la sous-chaîne donnerait un homonyme du 5e incohérent avec les arrêts voisins (Anosy / Ampefiloha / Mahamasina)
+Tsaralalàna,commune,1er Arrondissement,0.50,quartier de Tsaralalàna (1er Arr.) ; aucun fokontany homonyme dans le référentiel
+Ankatso,commune,2e Arrondissement,0.45,campus universitaire d'Ankatso ; l'homonyme exact (Ambohitrolomahitsy) est à ~25 km
+Ambohimanarina,commune,6e Arrondissement,0.45,quartier d'Ambohimanarina (6e Arr.) ; homonymes du référentiel hors agglomération
+Ambomanarina,alias,Ambohimanarina,0.45,coquille probable du corpus (ligne 105) pour Ambohimanarina
+Ambohitromby Alatsinainy,fokontany,Ambohitromby@Alasora,0.60,fokontany Ambohitromby d'Alasora ; arrêt suivant = Alasora Commune (ligne 015)
+Mahitsy Plaque Mandikanamana,fokontany,Mandikanamana@Alasora,0.60,fokontany Mandikanamana d'Alasora ; arrêt suivant = Ankadidratombo (Alasora)
+Ankadidratombo,alias,Ankadindratombo,0.70,graphie variante du fokontany Ankadindratombo (Alasora)
+Betsizaraina Ikianja Avaratra,fokontany,Ikianja@Ambohimangakely;Betsizaraina@Ambohimangakely,0.60,deux fokontany voisins de la commune d'Ambohimangakely (ligne E vers l'est)
+Alakamisy Anosiala,commune,Anosiala,0.60,« Alakamisy » = jour de marché ; commune d'Anosiala (Ambohidratrimo)
+Vilihazo,alias,Viliahazo,0.70,graphie variante de la commune de Viliahazo
+Ampaneffy,alias,Ampanefy,0.70,graphie variante de la commune d'Ampanefy
+Beravina Itaosy,fokontany,Beravina@Soalandy,0.50,Beravina du secteur d'Itaosy / Soalandy (Atsimondrano)
+Cur Vontovorona,commune,Alatsinainy Ambazaha,0.45,CUR (campus universitaire) de Vontovorona ; fokontany absent du référentiel
+Antananarivo,unresolved,,0,ville entière sans gare précisée (ligne D vers Merimandroso)
+St Antoine,fokontany,Ambodivona Ankadifotsy@3e Arrondissement;Mandialaza Ambodivona@3e Arrondissement,0.70,précision utilisateur : gare St Antoine à Ambodivona (gare routière du 3e Arr. ; ligne H vers le nord)
+St Antoine - Ambodivona,fokontany,Ambodivona Ankadifotsy@3e Arrondissement;Mandialaza Ambodivona@3e Arrondissement,0.75,précision du corpus : gare St Antoine à Ambodivona (gare routière du 3e Arr. ; ligne H vers le nord)

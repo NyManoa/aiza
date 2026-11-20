@@ -1,0 +1,9 @@
+# Fichiers non envoyés à Vercel (les données traitées backend/data/processed/ DOIVENT être présentes).
+**/node_modules
+frontend/dist
+backend/data/raw
+backend/tests
+backend/.pytest_cache
+**/__pycache__
+**/*.pyc
+.github

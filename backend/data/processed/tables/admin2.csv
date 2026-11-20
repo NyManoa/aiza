@@ -1,0 +1,121 @@
+adm2_pcode,adm2_name,adm1_pcode,adm1_name,area_sqkm
+MG11118,1er Arrondissement,MG11,Analamanga,9.6905
+MG11119,2e Arrondissement,MG11,Analamanga,13.7609
+MG11120,3e Arrondissement,MG11,Analamanga,7.0036
+MG11121,4e Arrondissement,MG11,Analamanga,13.0262
+MG11122,5e Arrondissement,MG11,Analamanga,23.9267
+MG11123,6e Arrondissement,MG11,Analamanga,17.5988
+MG11103,Ambohidratrimo,MG11,Analamanga,1432.3623
+MG11115,Andramasina,MG11,Analamanga,1406.4057
+MG11107,Anjozorobe,MG11,Analamanga,4275.0592
+MG11104,Ankazobe,MG11,Analamanga,7358.2563
+MG11117,Antananarivo Atsimondrano,MG11,Analamanga,421.9669
+MG11102,Antananarivo Avaradrano,MG11,Analamanga,581.8769
+MG11106,Manjakandriana,MG11,Analamanga,1798.8175
+MG12110,Ambatolampy,MG12,Vakinankaratra,1651.1446
+MG12114,Antanifotsy,MG12,Vakinankaratra,2785.5685
+MG12108,Antsirabe I,MG12,Vakinankaratra,132.94
+MG12118,Antsirabe II,MG12,Vakinankaratra,2471.3082
+MG12109,Betafo,MG12,Vakinankaratra,4155.0255
+MG12116,Faratsiho,MG12,Vakinankaratra,1856.8726
+MG12120,Mandoto,MG12,Vakinankaratra,4846.0137
+MG13105,Arivonimamo,MG13,Itasy,2135.4823
+MG13112,Miarinarivo,MG13,Itasy,2579.3904
+MG13113,Soavinandriana,MG13,Itasy,1869.8637
+MG14119,Fenoarivobe,MG14,Bongolava,7553.9762
+MG14111,Tsiroanomandidy,MG14,Bongolava,10558.4981
+MG21205,Ambalavao,MG21,Haute Matsiatra,4798.4656
+MG21208,Ambohimahasoa,MG21,Haute Matsiatra,1929.1154
+MG21201,Fianarantsoa I,MG21,Haute Matsiatra,86.0469
+MG21219,Ikalamavony,MG21,Haute Matsiatra,9796.823
+MG21225,Isandra,MG21,Haute Matsiatra,1342.8874
+MG21220,Lalangina,MG21,Haute Matsiatra,1051.313
+MG21224,Vohibato,MG21,Haute Matsiatra,1828.9342
+MG22202,Ambatofinandrahana,MG22,Amoron I Mania,10321.4773
+MG22203,Ambositra,MG22,Amoron I Mania,2914.1811
+MG22204,Fandriana,MG22,Amoron I Mania,2274.5094
+MG22223,Manandriana,MG22,Amoron I Mania,981.9752
+MG24221,Iakora,MG24,Ihorombe,4556.4935
+MG24216,Ihosy,MG24,Ihorombe,17191.4532
+MG24218,Ivohibe,MG24,Ihorombe,4315.088
+MG25222,Befotaka,MG25,Atsimo Atsinanana,3238.046
+MG25213,Farafangana,MG25,Atsimo Atsinanana,2824.0479
+MG25215,Midongy-Atsimo,MG25,Atsimo Atsinanana,2546.8554
+MG25214,Vangaindrano,MG25,Atsimo Atsinanana,4816.7036
+MG25217,Vondrozo,MG25,Atsimo Atsinanana,3199.717
+MG26206,Ifanadiana,MG26,Vatovavy,3970.7314
+MG26209,Mananjary,MG26,Vatovavy,5467.0865
+MG26207,Nosy-Varika,MG26,Vatovavy,3828.0826
+MG27211,Ikongo,MG27,Fitovinany,3154.4218
+MG27210,Manakara Atsimo,MG27,Fitovinany,3162.5675
+MG27212,Vohipeno,MG27,Fitovinany,1150.7643
+MG31311,Antanambao Manampontsy,MG31,Atsinanana,1298.545
+MG31306,Brickaville,MG31,Atsinanana,6056.8526
+MG31308,Mahanoro,MG31,Atsinanana,3763.0891
+MG31309,Marolambo,MG31,Atsinanana,3580.6759
+MG31301,Toamasina I,MG31,Atsinanana,30.9056
+MG31310,Toamasina II,MG31,Atsinanana,5011.8911
+MG31307,Vatomandry,MG31,Atsinanana,2281.2601
+MG32305,Fenerive Est,MG32,Analanjirofo,2992.8572
+MG32302,Sainte Marie,MG32,Analanjirofo,185.2238
+MG32318,Soanierana Ivongo,MG32,Analanjirofo,4365.0128
+MG32315,Vavatenina,MG32,Analanjirofo,2670.7895
+MG33313,Ambatondrazaka,MG33,Alaotra Mangoro,5540.2531
+MG33312,Amparafaravola,MG33,Alaotra Mangoro,4622.5071
+MG33316,Andilamena,MG33,Alaotra Mangoro,7686.0737
+MG33317,Anosibe-An'ala,MG33,Alaotra Mangoro,2858.7472
+MG33314,Moramanga,MG33,Alaotra Mangoro,7149.4795
+MG34304,Mananara-Avaratra,MG34,Ambatosoa,4486.5892
+MG34303,Maroantsetra,MG34,Ambatosoa,6964.5183
+MG41405,Ambato Boeni,MG41,Boeny,8528.2489
+MG41401,Mahajanga I,MG41,Boeny,51.0507
+MG41415,Mahajanga II,MG41,Boeny,4687.2223
+MG41406,Marovoay,MG41,Boeny,5611.5612
+MG41407,Mitsinjo,MG41,Boeny,4664.3984
+MG41403,Soalala,MG41,Boeny,7725.3813
+MG42411,Analalava,MG42,Sofia,8732.1919
+MG42413,Antsohihy,MG42,Sofia,4773.8094
+MG42414,Bealanana,MG42,Sofia,6831.8561
+MG42412,Befandriana Nord,MG42,Sofia,8718.9796
+MG42423,Mampikony,MG42,Sofia,4572.3757
+MG42410,Mandritsara,MG42,Sofia,10297.2587
+MG42409,Port-Berge (Boriziny-Vaovao),MG42,Sofia,7088.3019
+MG43416,Kandreho,MG43,Betsiboka,6101.8723
+MG43404,Maevatanana,MG43,Betsiboka,10749.9309
+MG43408,Tsaratanana,MG43,Betsiboka,12138.7111
+MG44417,Ambatomainty,MG44,Melaky,4740.439
+MG44420,Antsalova,MG44,Melaky,6864.379
+MG44402,Besalampy,MG44,Melaky,11951.4923
+MG44421,Maintirano,MG44,Melaky,9888.012
+MG44422,Morafenobe,MG44,Melaky,7414.2169
+MG51507,Ampanihy Ouest,MG51,Atsimo Andrefana,13837.113
+MG51505,Ankazoabo,MG51,Atsimo Andrefana,7456.2811
+MG51521,Benenitra,MG51,Atsimo Andrefana,4368.0488
+MG51503,Beroroha,MG51,Atsimo Andrefana,7320.2243
+MG51506,Betioky Atsimo,MG51,Atsimo Andrefana,7690.6116
+MG51504,Morombe,MG51,Atsimo Andrefana,7783.8618
+MG51512,Sakaraha,MG51,Atsimo Andrefana,8578.0952
+MG51501,Toliary-I,MG51,Atsimo Andrefana,32.12
+MG51520,Toliary-II,MG51,Atsimo Andrefana,9617.7638
+MG52516,Ambovombe-Androy,MG52,Androy,2529.8842
+MG52519,Antanimora Atsimo,MG52,Androy,3974.299
+MG52518,Bekily,MG52,Androy,5141.4848
+MG52513,Beloha,MG52,Androy,4787.0055
+MG52514,Tsihombe,MG52,Androy,2528.7095
+MG53519,Amboasary-Atsimo,MG53,Anosy,9888.8153
+MG53517,Betroka,MG53,Anosy,13672.4823
+MG53515,Taolagnaro,MG53,Anosy,5950.368
+MG54510,Belo Sur Tsiribihina,MG54,Menabe,8037.8837
+MG54509,Mahabo,MG54,Menabe,13716.1309
+MG54502,Manja,MG54,Menabe,9072.6221
+MG54511,Miandrivazo,MG54,Menabe,12329.8951
+MG54508,Morondava,MG54,Menabe,5690.6932
+MG71719,Ambanja,MG71,Diana,5999.7184
+MG71717,Ambilobe,MG71,Diana,8006.7591
+MG71715,Antsiranana I,MG71,Diana,71.8956
+MG71713,Antsiranana II,MG71,Diana,5612.408
+MG71718,Nosy-Be,MG71,Diana,320.0232
+MG72712,Andapa,MG72,Sava,4051.482
+MG72710,Antalaha,MG72,Sava,6795.0121
+MG72711,Sambava,MG72,Sava,4681.7585
+MG72716,Vohemar,MG72,Sava,8268.5498

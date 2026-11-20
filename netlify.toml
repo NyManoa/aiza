@@ -1,0 +1,27 @@
+# Netlify : site statique (frontend). Netlify n'exécute pas de Python : l'API est hébergée ailleurs
+# (Render, voir render.yaml) et relayée sous /api/* -> même origine, pas de CORS.
+[build]
+  base = "frontend"
+  command = "npm ci && npm run build"
+  publish = "dist"
+
+[build.environment]
+  NODE_VERSION = "22"
+
+# À ADAPTER : URL publique de votre API (ex. https://tana-planner-api.onrender.com)
+[[redirects]]
+  from = "/api/*"
+  to = "https://VOTRE-API.onrender.com/api/:splat"
+  status = 200
+  force = true
+
+# Application monopage : toutes les routes renvoient index.html
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
+
+[[headers]]
+  for = "/assets/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"

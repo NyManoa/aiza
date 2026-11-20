@@ -1,0 +1,7 @@
+# Fokontany réellement traversés entre deux arrêts consécutifs d'une ligne — ÉDITABLE, prioritaire sur l'estimation.
+# line_code : code de la ligne (ex. 133, 194, Ligne F) ; variant : libellé de variante (Manga, Mena…) ou * pour toutes.
+#   Pour une liaison suburbaine : variant = libellé du terminus (ex. Ambohimangakely), from_stop = gare primus.
+# from_stop / to_stop : noms des deux arrêts consécutifs tels qu'écrits dans le corpus (sens indifférent).
+# fokontany : liste ordonnée « Fokontany@Commune » séparée par « ; » (noms du référentiel admin4/admin3).
+# Point de départ : data/processed/tables/line_fokontany_suggestions.csv (estimations à valider).
+line_code,variant,from_stop,to_stop,fokontany,note

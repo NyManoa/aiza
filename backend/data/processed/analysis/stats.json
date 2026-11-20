@@ -1,0 +1,3395 @@
+{
+ "matching": {
+  "n_places": 188,
+  "resolved_places": 157,
+  "resolved_places_pct": 83.5,
+  "n_occurrences": 626,
+  "resolved_occurrences": 470,
+  "resolved_occurrences_pct": 75.1,
+  "by_status_places": {
+   "exact_fokontany": 86,
+   "sous_chaine_fokontany": 44,
+   "commune": 7,
+   "repere_ou_variante": 20,
+   "non_resolu": 31
+  },
+  "by_status_occurrences": {
+   "exact_fokontany": 160,
+   "sous_chaine_fokontany": 234,
+   "commune": 14,
+   "repere_ou_variante": 62,
+   "non_resolu": 156
+  },
+  "confidence_distribution": {
+   "0 (non résolu)": 31,
+   "0.01–0.50": 16,
+   "0.51–0.70": 19,
+   "0.71–0.90": 60,
+   "0.91–1.00": 62
+  },
+  "unresolved": [
+   {
+    "place_id": "anosy",
+    "name": "Anosy",
+    "occurrences": 28,
+    "n_lines": 17,
+    "roles": "arret | primus"
+   },
+   {
+    "place_id": "meteo",
+    "name": "Météo",
+    "occurrences": 24,
+    "n_lines": 12,
+    "roles": "arret"
+   },
+   {
+    "place_id": "cnaps",
+    "name": "CNAPS",
+    "occurrences": 21,
+    "n_lines": 3,
+    "roles": "primus"
+   },
+   {
+    "place_id": "rasalama",
+    "name": "Rasalama",
+    "occurrences": 9,
+    "n_lines": 6,
+    "roles": "arret"
+   },
+   {
+    "place_id": "tsimbazaza",
+    "name": "Tsimbazaza",
+    "occurrences": 8,
+    "n_lines": 5,
+    "roles": "arret"
+   },
+   {
+    "place_id": "mahazo",
+    "name": "Mahazo",
+    "occurrences": 8,
+    "n_lines": 2,
+    "roles": "arret | primus"
+   },
+   {
+    "place_id": "mascar",
+    "name": "Mascar",
+    "occurrences": 7,
+    "n_lines": 3,
+    "roles": "arret"
+   },
+   {
+    "place_id": "mausolee",
+    "name": "Mausolée",
+    "occurrences": 6,
+    "n_lines": 2,
+    "roles": "arret"
+   },
+   {
+    "place_id": "antananandrano",
+    "name": "Antananandrano",
+    "occurrences": 5,
+    "n_lines": 2,
+    "roles": "arret"
+   },
+   {
+    "place_id": "coliseum",
+    "name": "Coliseum",
+    "occurrences": 5,
+    "n_lines": 2,
+    "roles": "arret"
+   },
+   {
+    "place_id": "ste_akanjo",
+    "name": "Ste Akanjo",
+    "occurrences": 4,
+    "n_lines": 1,
+    "roles": "arret"
+   },
+   {
+    "place_id": "bel_air",
+    "name": "Bel'air",
+    "occurrences": 3,
+    "n_lines": 3,
+    "roles": "arret"
+   },
+   {
+    "place_id": "bypass",
+    "name": "Bypass",
+    "occurrences": 3,
+    "n_lines": 1,
+    "roles": "arret"
+   },
+   {
+    "place_id": "fasan_karana",
+    "name": "Fasan karana",
+    "occurrences": 2,
+    "n_lines": 2,
+    "roles": "arret"
+   },
+   {
+    "place_id": "ravitoto",
+    "name": "Ravitoto",
+    "occurrences": 2,
+    "n_lines": 2,
+    "roles": "arret"
+   },
+   {
+    "place_id": "ambatomarobiby",
+    "name": "Ambatomarobiby",
+    "occurrences": 2,
+    "n_lines": 2,
+    "roles": "terminus"
+   },
+   {
+    "place_id": "bibilava",
+    "name": "Bibilava",
+    "occurrences": 2,
+    "n_lines": 1,
+    "roles": "arret"
+   },
+   {
+    "place_id": "domaine",
+    "name": "Domaine",
+    "occurrences": 2,
+    "n_lines": 1,
+    "roles": "arret"
+   },
+   {
+    "place_id": "vassacos",
+    "name": "Vassacos",
+    "occurrences": 2,
+    "n_lines": 1,
+    "roles": "primus"
+   },
+   {
+    "place_id": "ambohijoky",
+    "name": "Ambohijoky",
+    "occurrences": 2,
+    "n_lines": 1,
+    "roles": "terminus"
+   },
+   {
+    "place_id": "ambohimahintsy",
+    "name": "Ambohimahintsy",
+    "occurrences": 1,
+    "n_lines": 1,
+    "roles": "arret"
+   },
+   {
+    "place_id": "mahatony",
+    "name": "Mahatony",
+    "occurrences": 1,
+    "n_lines": 1,
+    "roles": "arret"
+   },
+   {
+    "place_id": "gazety",
+    "name": "Gazety",
+    "occurrences": 1,
+    "n_lines": 1,
+    "roles": "arret"
+   },
+   {
+    "place_id": "andrainarivo",
+    "name": "Andrainarivo",
+    "occurrences": 1,
+    "n_lines": 1,
+    "roles": "arret"
+   },
+   {
+    "place_id": "pulman",
+    "name": "Pulman",
+    "occurrences": 1,
+    "n_lines": 1,
+    "roles": "arret"
+   },
+   {
+    "place_id": "forello",
+    "name": "Forello",
+    "occurrences": 1,
+    "n_lines": 1,
+    "roles": "arret"
+   },
+   {
+    "place_id": "bevalala",
+    "name": "Bevalala",
+    "occurrences": 1,
+    "n_lines": 1,
+    "roles": "arret"
+   },
+   {
+    "place_id": "andohatanjona",
+    "name": "Andohatanjona",
+    "occurrences": 1,
+    "n_lines": 1,
+    "roles": "terminus"
+   },
+   {
+    "place_id": "antananarivo",
+    "name": "Antananarivo",
+    "occurrences": 1,
+    "n_lines": 1,
+    "roles": "primus"
+   },
+   {
+    "place_id": "maizindrano",
+    "name": "Maizindrano",
+    "occurrences": 1,
+    "n_lines": 1,
+    "roles": "terminus"
+   },
+   {
+    "place_id": "androrohoro",
+    "name": "Androrohoro",
+    "occurrences": 1,
+    "n_lines": 1,
+    "roles": "terminus"
+   }
+  ]
+ },
+ "network": {
+  "urban_lines": 58,
+  "urban_variants": 85,
+  "loop_variants": 14,
+  "suburban_groups": 9,
+  "suburban_links": 85,
+  "nodes": 188,
+  "edges_total": 780,
+  "edges_declared": 458,
+  "edges_reverse_assumed": 322,
+  "components": [
+   170,
+   13,
+   3,
+   2
+  ],
+  "isolated_components": [
+   [
+    "ambatofotsy_nord",
+    "ambohitrantenaina",
+    "ambohitrinimanga",
+    "andranovelona",
+    "anosiarivo",
+    "antanambao",
+    "belanitra",
+    "iavoambony",
+    "lazaina",
+    "manandriana_nord",
+    "namehana",
+    "st_antoine_ambodivona",
+    "vilihazo"
+   ],
+   [
+    "alakamisy_antanimarina",
+    "ankadinandriana",
+    "ankadindratombo"
+   ],
+   [
+    "antsalovana",
+    "mahitsy_hopitaly"
+   ]
+  ],
+  "variants_by_label": {
+   "Unique": 38,
+   "Manga": 13,
+   "Mena": 13,
+   "A": 5,
+   "B": 5,
+   "Maitso": 3,
+   "C": 1,
+   "Fotsy": 1,
+   "Class": 1,
+   "Misy Tsipika Mena": 1,
+   "Tsy Misy Tsipika Mena": 1,
+   "Manga mena": 1
+  },
+  "suburban_links_by_group": {
+   "S-A": 6,
+   "S-B": 3,
+   "S-D": 7,
+   "S-E": 9,
+   "S-F": 15,
+   "S-G": 17,
+   "S-H": 15,
+   "S-I": 9,
+   "S-J": 4
+  },
+  "top_nodes_by_lines": [
+   {
+    "place_id": "analakely",
+    "name": "Analakely",
+    "n_lines": 26,
+    "n_services": 31,
+    "n_passages": 31,
+    "in_degree": 12,
+    "out_degree": 18,
+    "match_status": "sous_chaine_fokontany",
+    "confidence": 0.75
+   },
+   {
+    "place_id": "67ha",
+    "name": "67ha",
+    "n_lines": 22,
+    "n_services": 35,
+    "n_passages": 35,
+    "in_degree": 11,
+    "out_degree": 15,
+    "match_status": "sous_chaine_fokontany",
+    "confidence": 0.65
+   },
+   {
+    "place_id": "anosy",
+    "name": "Anosy",
+    "n_lines": 17,
+    "n_services": 28,
+    "n_passages": 28,
+    "in_degree": 10,
+    "out_degree": 16,
+    "match_status": "non_resolu",
+    "confidence": 0.0
+   },
+   {
+    "place_id": "ambanidia",
+    "name": "Ambanidia",
+    "n_lines": 14,
+    "n_services": 16,
+    "n_passages": 16,
+    "in_degree": 10,
+    "out_degree": 10,
+    "match_status": "sous_chaine_fokontany",
+    "confidence": 0.75
+   },
+   {
+    "place_id": "meteo",
+    "name": "Météo",
+    "n_lines": 12,
+    "n_services": 17,
+    "n_passages": 24,
+    "in_degree": 11,
+    "out_degree": 17,
+    "match_status": "non_resolu",
+    "confidence": 0.0
+   },
+   {
+    "place_id": "ankorondrano",
+    "name": "Ankorondrano",
+    "n_lines": 10,
+    "n_services": 12,
+    "n_passages": 12,
+    "in_degree": 11,
+    "out_degree": 8,
+    "match_status": "sous_chaine_fokontany",
+    "confidence": 0.75
+   },
+   {
+    "place_id": "mahamasina",
+    "name": "Mahamasina",
+    "n_lines": 10,
+    "n_services": 10,
+    "n_passages": 10,
+    "in_degree": 6,
+    "out_degree": 3,
+    "match_status": "sous_chaine_fokontany",
+    "confidence": 0.75
+   },
+   {
+    "place_id": "anosibe",
+    "name": "Anosibe",
+    "n_lines": 10,
+    "n_services": 10,
+    "n_passages": 10,
+    "in_degree": 6,
+    "out_degree": 8,
+    "match_status": "sous_chaine_fokontany",
+    "confidence": 0.65
+   },
+   {
+    "place_id": "antanimena",
+    "name": "Antanimena",
+    "n_lines": 9,
+    "n_services": 13,
+    "n_passages": 13,
+    "in_degree": 6,
+    "out_degree": 6,
+    "match_status": "exact_fokontany",
+    "confidence": 1.0
+   },
+   {
+    "place_id": "ankadimbahoaka",
+    "name": "Ankadimbahoaka",
+    "n_lines": 7,
+    "n_services": 10,
+    "n_passages": 10,
+    "in_degree": 5,
+    "out_degree": 8,
+    "match_status": "sous_chaine_fokontany",
+    "confidence": 0.75
+   },
+   {
+    "place_id": "anosizato",
+    "name": "Anosizato",
+    "n_lines": 7,
+    "n_services": 10,
+    "n_passages": 10,
+    "in_degree": 3,
+    "out_degree": 8,
+    "match_status": "sous_chaine_fokontany",
+    "confidence": 0.75
+   },
+   {
+    "place_id": "rasalama",
+    "name": "Rasalama",
+    "n_lines": 6,
+    "n_services": 8,
+    "n_passages": 9,
+    "in_degree": 5,
+    "out_degree": 6,
+    "match_status": "non_resolu",
+    "confidence": 0.0
+   },
+   {
+    "place_id": "betongolo",
+    "name": "Betongolo",
+    "n_lines": 6,
+    "n_services": 7,
+    "n_passages": 8,
+    "in_degree": 6,
+    "out_degree": 3,
+    "match_status": "exact_fokontany",
+    "confidence": 1.0
+   },
+   {
+    "place_id": "ampefiloha",
+    "name": "Ampefiloha",
+    "n_lines": 6,
+    "n_services": 6,
+    "n_passages": 6,
+    "in_degree": 2,
+    "out_degree": 1,
+    "match_status": "sous_chaine_fokontany",
+    "confidence": 0.75
+   },
+   {
+    "place_id": "analamahitsy",
+    "name": "Analamahitsy",
+    "n_lines": 5,
+    "n_services": 7,
+    "n_passages": 11,
+    "in_degree": 8,
+    "out_degree": 6,
+    "match_status": "sous_chaine_fokontany",
+    "confidence": 0.75
+   },
+   {
+    "place_id": "amboditsiry",
+    "name": "Amboditsiry",
+    "n_lines": 5,
+    "n_services": 10,
+    "n_passages": 10,
+    "in_degree": 6,
+    "out_degree": 5,
+    "match_status": "exact_fokontany",
+    "confidence": 1.0
+   },
+   {
+    "place_id": "tsimbazaza",
+    "name": "Tsimbazaza",
+    "n_lines": 5,
+    "n_services": 8,
+    "n_passages": 8,
+    "in_degree": 5,
+    "out_degree": 2,
+    "match_status": "non_resolu",
+    "confidence": 0.0
+   },
+   {
+    "place_id": "ambohipo",
+    "name": "Ambohipo",
+    "n_lines": 5,
+    "n_services": 6,
+    "n_passages": 6,
+    "in_degree": 3,
+    "out_degree": 2,
+    "match_status": "sous_chaine_fokontany",
+    "confidence": 0.75
+   },
+   {
+    "place_id": "ambohijatovo",
+    "name": "Ambohijatovo",
+    "n_lines": 4,
+    "n_services": 11,
+    "n_passages": 11,
+    "in_degree": 3,
+    "out_degree": 10,
+    "match_status": "repere_ou_variante",
+    "confidence": 0.5
+   },
+   {
+    "place_id": "mandroseza",
+    "name": "Mandroseza",
+    "n_lines": 4,
+    "n_services": 8,
+    "n_passages": 8,
+    "in_degree": 5,
+    "out_degree": 6,
+    "match_status": "sous_chaine_fokontany",
+    "confidence": 0.75
+   }
+  ],
+  "top_nodes_by_passages": [
+   {
+    "place_id": "67ha",
+    "name": "67ha",
+    "n_passages": 35,
+    "n_lines": 22
+   },
+   {
+    "place_id": "analakely",
+    "name": "Analakely",
+    "n_passages": 31,
+    "n_lines": 26
+   },
+   {
+    "place_id": "anosy",
+    "name": "Anosy",
+    "n_passages": 28,
+    "n_lines": 17
+   },
+   {
+    "place_id": "meteo",
+    "name": "Météo",
+    "n_passages": 24,
+    "n_lines": 12
+   },
+   {
+    "place_id": "cnaps",
+    "name": "CNAPS",
+    "n_passages": 21,
+    "n_lines": 3
+   },
+   {
+    "place_id": "ambanidia",
+    "name": "Ambanidia",
+    "n_passages": 16,
+    "n_lines": 14
+   },
+   {
+    "place_id": "antanimena",
+    "name": "Antanimena",
+    "n_passages": 13,
+    "n_lines": 9
+   },
+   {
+    "place_id": "ankorondrano",
+    "name": "Ankorondrano",
+    "n_passages": 12,
+    "n_lines": 10
+   },
+   {
+    "place_id": "st_antoine_ambodivona",
+    "name": "St Antoine - Ambodivona",
+    "n_passages": 12,
+    "n_lines": 1
+   },
+   {
+    "place_id": "analamahitsy",
+    "name": "Analamahitsy",
+    "n_passages": 11,
+    "n_lines": 5
+   },
+   {
+    "place_id": "ambohijatovo",
+    "name": "Ambohijatovo",
+    "n_passages": 11,
+    "n_lines": 4
+   },
+   {
+    "place_id": "anosibe",
+    "name": "Anosibe",
+    "n_passages": 10,
+    "n_lines": 10
+   },
+   {
+    "place_id": "ankadimbahoaka",
+    "name": "Ankadimbahoaka",
+    "n_passages": 10,
+    "n_lines": 7
+   },
+   {
+    "place_id": "anosizato",
+    "name": "Anosizato",
+    "n_passages": 10,
+    "n_lines": 7
+   },
+   {
+    "place_id": "amboditsiry",
+    "name": "Amboditsiry",
+    "n_passages": 10,
+    "n_lines": 5
+   }
+  ],
+  "transfer_nodes": 67,
+  "coord_quality": {
+   "fokontany": 142,
+   "estimee_voisins": 23,
+   "commune": 15,
+   "inconnue": 6,
+   "centre_ville": 2
+  },
+  "corridor_segments": {
+   "estimes": 314,
+   "declares": 0,
+   "fokontany_distincts": 184
+  },
+  "network_length_km": 776.3,
+  "lines_per_node_distribution": {
+   "1": 121,
+   "2": 29,
+   "3": 13,
+   "4": 7,
+   "5": 4,
+   "6": 3,
+   "7": 2,
+   "9": 1,
+   "10": 3,
+   "12": 1,
+   "14": 1,
+   "17": 1,
+   "22": 1,
+   "26": 1
+  }
+ },
+ "coverage": {
+  "n_fokontany": 1660,
+  "by_coverage": {
+   "direct": 78,
+   "faible": 95,
+   "passage": 59,
+   "commune": 142,
+   "aucune": 1286
+  },
+  "by_coverage_core": {
+   "direct": 78,
+   "faible": 93,
+   "passage": 59,
+   "commune": 142,
+   "aucune": 548
+  },
+  "n_core": 920,
+  "lines_per_fokontany_distribution": {
+   "0": 1487,
+   "1": 95,
+   "2": 25,
+   "3–5": 27,
+   "6–10": 18,
+   ">10": 8
+  },
+  "lines_per_fokontany_distribution_core": {
+   "0": 749,
+   "1": 93,
+   "2": 25,
+   "3–5": 27,
+   "6–10": 18,
+   ">10": 8
+  },
+  "by_district": [
+   {
+    "adm2_pcode": "MG11118",
+    "adm2_name": "1er Arrondissement",
+    "tier": 1,
+    "n_fokontany": 44,
+    "direct": 13,
+    "faible": 11,
+    "commune": 20,
+    "passage": 0,
+    "aucune": 0,
+    "area_sqkm": 9.69,
+    "area_direct_sqkm": 5.92,
+    "mean_lines_direct": 3.68,
+    "pct_fokontany_direct": 54.5,
+    "pct_area_direct": 61.1
+   },
+   {
+    "adm2_pcode": "MG11119",
+    "adm2_name": "2e Arrondissement",
+    "tier": 1,
+    "n_fokontany": 24,
+    "direct": 10,
+    "faible": 4,
+    "commune": 10,
+    "passage": 0,
+    "aucune": 0,
+    "area_sqkm": 13.76,
+    "area_direct_sqkm": 9.35,
+    "mean_lines_direct": 2.96,
+    "pct_fokontany_direct": 58.3,
+    "pct_area_direct": 68.0
+   },
+   {
+    "adm2_pcode": "MG11120",
+    "adm2_name": "3e Arrondissement",
+    "tier": 1,
+    "n_fokontany": 34,
+    "direct": 14,
+    "faible": 2,
+    "commune": 0,
+    "passage": 14,
+    "aucune": 4,
+    "area_sqkm": 7.0,
+    "area_direct_sqkm": 4.19,
+    "mean_lines_direct": 2.21,
+    "pct_fokontany_direct": 47.1,
+    "pct_area_direct": 59.9
+   },
+   {
+    "adm2_pcode": "MG11121",
+    "adm2_name": "4e Arrondissement",
+    "tier": 1,
+    "n_fokontany": 32,
+    "direct": 10,
+    "faible": 6,
+    "commune": 0,
+    "passage": 14,
+    "aucune": 2,
+    "area_sqkm": 13.03,
+    "area_direct_sqkm": 7.04,
+    "mean_lines_direct": 2.53,
+    "pct_fokontany_direct": 50.0,
+    "pct_area_direct": 54.0
+   },
+   {
+    "adm2_pcode": "MG11122",
+    "adm2_name": "5e Arrondissement",
+    "tier": 1,
+    "n_fokontany": 27,
+    "direct": 12,
+    "faible": 6,
+    "commune": 0,
+    "passage": 4,
+    "aucune": 5,
+    "area_sqkm": 23.93,
+    "area_direct_sqkm": 18.4,
+    "mean_lines_direct": 1.63,
+    "pct_fokontany_direct": 66.7,
+    "pct_area_direct": 76.9
+   },
+   {
+    "adm2_pcode": "MG11123",
+    "adm2_name": "6e Arrondissement",
+    "tier": 1,
+    "n_fokontany": 31,
+    "direct": 6,
+    "faible": 4,
+    "commune": 21,
+    "passage": 0,
+    "aucune": 0,
+    "area_sqkm": 17.6,
+    "area_direct_sqkm": 9.81,
+    "mean_lines_direct": 1.03,
+    "pct_fokontany_direct": 32.3,
+    "pct_area_direct": 55.7
+   },
+   {
+    "adm2_pcode": "MG11103",
+    "adm2_name": "Ambohidratrimo",
+    "tier": 2,
+    "n_fokontany": 313,
+    "direct": 2,
+    "faible": 12,
+    "commune": 41,
+    "passage": 4,
+    "aucune": 254,
+    "area_sqkm": 1432.36,
+    "area_direct_sqkm": 28.77,
+    "mean_lines_direct": 0.05,
+    "pct_fokontany_direct": 4.5,
+    "pct_area_direct": 2.0
+   },
+   {
+    "adm2_pcode": "MG11117",
+    "adm2_name": "Antananarivo Atsimondrano",
+    "tier": 2,
+    "n_fokontany": 206,
+    "direct": 6,
+    "faible": 19,
+    "commune": 32,
+    "passage": 13,
+    "aucune": 136,
+    "area_sqkm": 421.97,
+    "area_direct_sqkm": 34.25,
+    "mean_lines_direct": 0.17,
+    "pct_fokontany_direct": 12.1,
+    "pct_area_direct": 8.1
+   },
+   {
+    "adm2_pcode": "MG11102",
+    "adm2_name": "Antananarivo Avaradrano",
+    "tier": 2,
+    "n_fokontany": 209,
+    "direct": 5,
+    "faible": 29,
+    "commune": 18,
+    "passage": 10,
+    "aucune": 147,
+    "area_sqkm": 581.88,
+    "area_direct_sqkm": 106.73,
+    "mean_lines_direct": 0.19,
+    "pct_fokontany_direct": 16.3,
+    "pct_area_direct": 18.3
+   },
+   {
+    "adm2_pcode": "MG11115",
+    "adm2_name": "Andramasina",
+    "tier": 3,
+    "n_fokontany": 112,
+    "direct": 0,
+    "faible": 0,
+    "commune": 0,
+    "passage": 0,
+    "aucune": 112,
+    "area_sqkm": 1406.41,
+    "area_direct_sqkm": 0.0,
+    "mean_lines_direct": 0.0,
+    "pct_fokontany_direct": 0.0,
+    "pct_area_direct": 0.0
+   },
+   {
+    "adm2_pcode": "MG11107",
+    "adm2_name": "Anjozorobe",
+    "tier": 3,
+    "n_fokontany": 175,
+    "direct": 0,
+    "faible": 0,
+    "commune": 0,
+    "passage": 0,
+    "aucune": 175,
+    "area_sqkm": 4275.06,
+    "area_direct_sqkm": 0.0,
+    "mean_lines_direct": 0.0,
+    "pct_fokontany_direct": 0.0,
+    "pct_area_direct": 0.0
+   },
+   {
+    "adm2_pcode": "MG11104",
+    "adm2_name": "Ankazobe",
+    "tier": 3,
+    "n_fokontany": 143,
+    "direct": 0,
+    "faible": 0,
+    "commune": 0,
+    "passage": 0,
+    "aucune": 143,
+    "area_sqkm": 7358.26,
+    "area_direct_sqkm": 0.0,
+    "mean_lines_direct": 0.0,
+    "pct_fokontany_direct": 0.0,
+    "pct_area_direct": 0.0
+   },
+   {
+    "adm2_pcode": "MG11106",
+    "adm2_name": "Manjakandriana",
+    "tier": 3,
+    "n_fokontany": 310,
+    "direct": 0,
+    "faible": 2,
+    "commune": 0,
+    "passage": 0,
+    "aucune": 308,
+    "area_sqkm": 1798.82,
+    "area_direct_sqkm": 6.76,
+    "mean_lines_direct": 0.01,
+    "pct_fokontany_direct": 0.6,
+    "pct_area_direct": 0.4
+   }
+  ],
+  "by_commune_core": [
+   {
+    "adm2_name": "1er Arrondissement",
+    "adm3_pcode": "MG11118001",
+    "adm3_name": "1er Arrondissement",
+    "tier": 1,
+    "n_fokontany": 44,
+    "direct": 13,
+    "faible": 11,
+    "commune": 20,
+    "passage": 0,
+    "aucune": 0,
+    "area_sqkm": 9.69,
+    "area_direct_sqkm": 5.92,
+    "mean_lines_direct": 3.68,
+    "pct_fokontany_direct": 54.5,
+    "pct_area_direct": 61.1
+   },
+   {
+    "adm2_name": "2e Arrondissement",
+    "adm3_pcode": "MG11119001",
+    "adm3_name": "2e Arrondissement",
+    "tier": 1,
+    "n_fokontany": 24,
+    "direct": 10,
+    "faible": 4,
+    "commune": 10,
+    "passage": 0,
+    "aucune": 0,
+    "area_sqkm": 13.76,
+    "area_direct_sqkm": 9.35,
+    "mean_lines_direct": 2.96,
+    "pct_fokontany_direct": 58.3,
+    "pct_area_direct": 68.0
+   },
+   {
+    "adm2_name": "3e Arrondissement",
+    "adm3_pcode": "MG11120001",
+    "adm3_name": "3e Arrondissement",
+    "tier": 1,
+    "n_fokontany": 34,
+    "direct": 14,
+    "faible": 2,
+    "commune": 0,
+    "passage": 14,
+    "aucune": 4,
+    "area_sqkm": 7.0,
+    "area_direct_sqkm": 4.19,
+    "mean_lines_direct": 2.21,
+    "pct_fokontany_direct": 47.1,
+    "pct_area_direct": 59.9
+   },
+   {
+    "adm2_name": "4e Arrondissement",
+    "adm3_pcode": "MG11121001",
+    "adm3_name": "4e Arrondissement",
+    "tier": 1,
+    "n_fokontany": 32,
+    "direct": 10,
+    "faible": 6,
+    "commune": 0,
+    "passage": 14,
+    "aucune": 2,
+    "area_sqkm": 13.03,
+    "area_direct_sqkm": 7.04,
+    "mean_lines_direct": 2.53,
+    "pct_fokontany_direct": 50.0,
+    "pct_area_direct": 54.0
+   },
+   {
+    "adm2_name": "5e Arrondissement",
+    "adm3_pcode": "MG11122001",
+    "adm3_name": "5e Arrondissement",
+    "tier": 1,
+    "n_fokontany": 27,
+    "direct": 12,
+    "faible": 6,
+    "commune": 0,
+    "passage": 4,
+    "aucune": 5,
+    "area_sqkm": 23.93,
+    "area_direct_sqkm": 18.4,
+    "mean_lines_direct": 1.63,
+    "pct_fokontany_direct": 66.7,
+    "pct_area_direct": 76.9
+   },
+   {
+    "adm2_name": "6e Arrondissement",
+    "adm3_pcode": "MG11123001",
+    "adm3_name": "6e Arrondissement",
+    "tier": 1,
+    "n_fokontany": 31,
+    "direct": 6,
+    "faible": 4,
+    "commune": 21,
+    "passage": 0,
+    "aucune": 0,
+    "area_sqkm": 17.6,
+    "area_direct_sqkm": 9.81,
+    "mean_lines_direct": 1.03,
+    "pct_fokontany_direct": 32.3,
+    "pct_area_direct": 55.7
+   },
+   {
+    "adm2_name": "Ambohidratrimo",
+    "adm3_pcode": "MG11103390",
+    "adm3_name": "Ambato",
+    "tier": 2,
+    "n_fokontany": 15,
+    "direct": 0,
+    "faible": 0,
+    "commune": 0,
+    "passage": 0,
+    "aucune": 15,
+    "area_sqkm": 326.91,
+    "area_direct_sqkm": 0.0,
+    "mean_lines_direct": 0.0,
+    "pct_fokontany_direct": 0.0,
+    "pct_area_direct": 0.0
+   },
+   {
+    "adm2_name": "Ambohidratrimo",
+    "adm3_pcode": "MG11103172",
+    "adm3_name": "Ambatolampy",
+    "tier": 2,
+    "n_fokontany": 8,
+    "direct": 0,
+    "faible": 1,
+    "commune": 0,
+    "passage": 2,
+    "aucune": 5,
+    "area_sqkm": 19.49,
+    "area_direct_sqkm": 2.46,
+    "mean_lines_direct": 0.12,
+    "pct_fokontany_direct": 12.5,
+    "pct_area_direct": 12.6
+   },
+   {
+    "adm2_name": "Ambohidratrimo",
+    "adm3_pcode": "MG11103010",
+    "adm3_name": "Ambohidratrimo",
+    "tier": 2,
+    "n_fokontany": 9,
+    "direct": 0,
+    "faible": 0,
+    "commune": 0,
+    "passage": 0,
+    "aucune": 9,
+    "area_sqkm": 12.26,
+    "area_direct_sqkm": 0.0,
+    "mean_lines_direct": 0.0,
+    "pct_fokontany_direct": 0.0,
+    "pct_area_direct": 0.0
+   },
+   {
+    "adm2_name": "Ambohidratrimo",
+    "adm3_pcode": "MG11103270",
+    "adm3_name": "Ambohimanjaka",
+    "tier": 2,
+    "n_fokontany": 7,
+    "direct": 0,
+    "faible": 0,
+    "commune": 0,
+    "passage": 0,
+    "aucune": 7,
+    "area_sqkm": 35.92,
+    "area_direct_sqkm": 0.0,
+    "mean_lines_direct": 0.0,
+    "pct_fokontany_direct": 0.0,
+    "pct_area_direct": 0.0
+   },
+   {
+    "adm2_name": "Ambohidratrimo",
+    "adm3_pcode": "MG11103370",
+    "adm3_name": "Ambohipihaonana",
+    "tier": 2,
+    "n_fokontany": 11,
+    "direct": 0,
+    "faible": 0,
+    "commune": 0,
+    "passage": 0,
+    "aucune": 11,
+    "area_sqkm": 40.36,
+    "area_direct_sqkm": 0.0,
+    "mean_lines_direct": 0.0,
+    "pct_fokontany_direct": 0.0,
+    "pct_area_direct": 0.0
+   },
+   {
+    "adm2_name": "Ambohidratrimo",
+    "adm3_pcode": "MG11103130",
+    "adm3_name": "Ambohitrimanjaka",
+    "tier": 2,
+    "n_fokontany": 25,
+    "direct": 0,
+    "faible": 1,
+    "commune": 24,
+    "passage": 0,
+    "aucune": 0,
+    "area_sqkm": 22.68,
+    "area_direct_sqkm": 0.3,
+    "mean_lines_direct": 0.04,
+    "pct_fokontany_direct": 4.0,
+    "pct_area_direct": 1.3
+   },
+   {
+    "adm2_name": "Ambohidratrimo",
+    "adm3_pcode": "MG11103190",
+    "adm3_name": "Ampangabe",
+    "tier": 2,
+    "n_fokontany": 12,
+    "direct": 1,
+    "faible": 0,
+    "commune": 0,
+    "passage": 0,
+    "aucune": 11,
+    "area_sqkm": 46.48,
+    "area_direct_sqkm": 2.26,
+    "mean_lines_direct": 0.17,
+    "pct_fokontany_direct": 8.3,
+    "pct_area_direct": 4.9
+   },
+   {
+    "adm2_name": "Ambohidratrimo",
+    "adm3_pcode": "MG11103210",
+    "adm3_name": "Ampanotokana",
+    "tier": 2,
+    "n_fokontany": 29,
+    "direct": 0,
+    "faible": 1,
+    "commune": 0,
+    "passage": 0,
+    "aucune": 28,
+    "area_sqkm": 138.74,
+    "area_direct_sqkm": 2.16,
+    "mean_lines_direct": 0.03,
+    "pct_fokontany_direct": 3.4,
+    "pct_area_direct": 1.6
+   },
+   {
+    "adm2_name": "Ambohidratrimo",
+    "adm3_pcode": "MG11103410",
+    "adm3_name": "Anjanadoria",
+    "tier": 2,
+    "n_fokontany": 14,
+    "direct": 0,
+    "faible": 0,
+    "commune": 0,
+    "passage": 0,
+    "aucune": 14,
+    "area_sqkm": 178.6,
+    "area_direct_sqkm": 0.0,
+    "mean_lines_direct": 0.0,
+    "pct_fokontany_direct": 0.0,
+    "pct_area_direct": 0.0
+   },
+   {
+    "adm2_name": "Ambohidratrimo",
+    "adm3_pcode": "MG11103030",
+    "adm3_name": "Anosiala",
+    "tier": 2,
+    "n_fokontany": 17,
+    "direct": 0,
+    "faible": 0,
+    "commune": 17,
+    "passage": 0,
+    "aucune": 0,
+    "area_sqkm": 54.66,
+    "area_direct_sqkm": 0.0,
+    "mean_lines_direct": 0.0,
+    "pct_fokontany_direct": 0.0,
+    "pct_area_direct": 0.0
+   },
+   {
+    "adm2_name": "Ambohidratrimo",
+    "adm3_pcode": "MG11103350",
+    "adm3_name": "Antanetibe",
+    "tier": 2,
+    "n_fokontany": 19,
+    "direct": 0,
+    "faible": 0,
+    "commune": 0,
+    "passage": 0,
+    "aucune": 19,
+    "area_sqkm": 78.19,
+    "area_direct_sqkm": 0.0,
+    "mean_lines_direct": 0.0,
+    "pct_fokontany_direct": 0.0,
+    "pct_area_direct": 0.0
+   },
+   {
+    "adm2_name": "Ambohidratrimo",
+    "adm3_pcode": "MG11103070",
+    "adm3_name": "Antehiroka",
+    "tier": 2,
+    "n_fokontany": 9,
+    "direct": 1,
+    "faible": 1,
+    "commune": 0,
+    "passage": 1,
+    "aucune": 6,
+    "area_sqkm": 16.4,
+    "area_direct_sqkm": 2.64,
+    "mean_lines_direct": 0.33,
+    "pct_fokontany_direct": 22.2,
+    "pct_area_direct": 16.1
+   },
+   {
+    "adm2_name": "Ambohidratrimo",
+    "adm3_pcode": "MG11103252",
+    "adm3_name": "Antsahafilo",
+    "tier": 2,
+    "n_fokontany": 4,
+    "direct": 0,
+    "faible": 0,
+    "commune": 0,
+    "passage": 0,
+    "aucune": 4,
+    "area_sqkm": 44.73,
+    "area_direct_sqkm": 0.0,
+    "mean_lines_direct": 0.0,
+    "pct_fokontany_direct": 0.0,
+    "pct_area_direct": 0.0
+   },
+   {
+    "adm2_name": "Ambohidratrimo",
+    "adm3_pcode": "MG11103430",
+    "adm3_name": "Avaratsena",
+    "tier": 2,
+    "n_fokontany": 8,
+    "direct": 0,
+    "faible": 0,
+    "commune": 0,
+    "passage": 0,
+    "aucune": 8,
+    "area_sqkm": 83.27,
+    "area_direct_sqkm": 0.0,
+    "mean_lines_direct": 0.0,
+    "pct_fokontany_direct": 0.0,
+    "pct_area_direct": 0.0
+   },
+   {
+    "adm2_name": "Ambohidratrimo",
+    "adm3_pcode": "MG11103290",
+    "adm3_name": "Fiadanana",
+    "tier": 2,
+    "n_fokontany": 12,
+    "direct": 0,
+    "faible": 1,
+    "commune": 0,
+    "passage": 0,
+    "aucune": 11,
+    "area_sqkm": 15.42,
+    "area_direct_sqkm": 1.1,
+    "mean_lines_direct": 0.08,
+    "pct_fokontany_direct": 8.3,
+    "pct_area_direct": 7.1
+   },
+   {
+    "adm2_name": "Ambohidratrimo",
+    "adm3_pcode": "MG11103090",
+    "adm3_name": "Iarinarivo",
+    "tier": 2,
+    "n_fokontany": 9,
+    "direct": 0,
+    "faible": 1,
+    "commune": 0,
+    "passage": 0,
+    "aucune": 8,
+    "area_sqkm": 14.87,
+    "area_direct_sqkm": 3.62,
+    "mean_lines_direct": 0.11,
+    "pct_fokontany_direct": 11.1,
+    "pct_area_direct": 24.3
+   },
+   {
+    "adm2_name": "Ambohidratrimo",
+    "adm3_pcode": "MG11103112",
+    "adm3_name": "Ivato Aeroport",
+    "tier": 2,
+    "n_fokontany": 1,
+    "direct": 0,
+    "faible": 1,
+    "commune": 0,
+    "passage": 0,
+    "aucune": 0,
+    "area_sqkm": 6.28,
+    "area_direct_sqkm": 6.28,
+    "mean_lines_direct": 1.0,
+    "pct_fokontany_direct": 100.0,
+    "pct_area_direct": 100.0
+   },
+   {
+    "adm2_name": "Ambohidratrimo",
+    "adm3_pcode": "MG11103111",
+    "adm3_name": "Ivato Firaisana",
+    "tier": 2,
+    "n_fokontany": 5,
+    "direct": 0,
+    "faible": 1,
+    "commune": 0,
+    "passage": 0,
+    "aucune": 4,
+    "area_sqkm": 3.71,
+    "area_direct_sqkm": 1.34,
+    "mean_lines_direct": 0.2,
+    "pct_fokontany_direct": 20.0,
+    "pct_area_direct": 36.1
+   },
+   {
+    "adm2_name": "Ambohidratrimo",
+    "adm3_pcode": "MG11103310",
+    "adm3_name": "Mahabo",
+    "tier": 2,
+    "n_fokontany": 18,
+    "direct": 0,
+    "faible": 0,
+    "commune": 0,
+    "passage": 0,
+    "aucune": 18,
+    "area_sqkm": 71.42,
+    "area_direct_sqkm": 0.0,
+    "mean_lines_direct": 0.0,
+    "pct_fokontany_direct": 0.0,
+    "pct_area_direct": 0.0
+   },
+   {
+    "adm2_name": "Ambohidratrimo",
+    "adm3_pcode": "MG11103330",
+    "adm3_name": "Mahereza",
+    "tier": 2,
+    "n_fokontany": 7,
+    "direct": 0,
+    "faible": 1,
+    "commune": 0,
+    "passage": 0,
+    "aucune": 6,
+    "area_sqkm": 11.98,
+    "area_direct_sqkm": 0.85,
+    "mean_lines_direct": 0.14,
+    "pct_fokontany_direct": 14.3,
+    "pct_area_direct": 7.1
+   },
+   {
+    "adm2_name": "Ambohidratrimo",
+    "adm3_pcode": "MG11103150",
+    "adm3_name": "Mahitsy",
+    "tier": 2,
+    "n_fokontany": 31,
+    "direct": 0,
+    "faible": 1,
+    "commune": 0,
+    "passage": 0,
+    "aucune": 30,
+    "area_sqkm": 105.01,
+    "area_direct_sqkm": 1.24,
+    "mean_lines_direct": 0.03,
+    "pct_fokontany_direct": 3.2,
+    "pct_area_direct": 1.2
+   },
+   {
+    "adm2_name": "Ambohidratrimo",
+    "adm3_pcode": "MG11103230",
+    "adm3_name": "Mananjara",
+    "tier": 2,
+    "n_fokontany": 5,
+    "direct": 0,
+    "faible": 0,
+    "commune": 0,
+    "passage": 0,
+    "aucune": 5,
+    "area_sqkm": 11.69,
+    "area_direct_sqkm": 0.0,
+    "mean_lines_direct": 0.0,
+    "pct_fokontany_direct": 0.0,
+    "pct_area_direct": 0.0
+   },
+   {
+    "adm2_name": "Ambohidratrimo",
+    "adm3_pcode": "MG11103251",
+    "adm3_name": "Manjakavaradrano",
+    "tier": 2,
+    "n_fokontany": 6,
+    "direct": 0,
+    "faible": 0,
+    "commune": 0,
+    "passage": 0,
+    "aucune": 6,
+    "area_sqkm": 25.74,
+    "area_direct_sqkm": 0.0,
+    "mean_lines_direct": 0.0,
+    "pct_fokontany_direct": 0.0,
+    "pct_area_direct": 0.0
+   },
+   {
+    "adm2_name": "Ambohidratrimo",
+    "adm3_pcode": "MG11103171",
+    "adm3_name": "Merimandroso",
+    "tier": 2,
+    "n_fokontany": 20,
+    "direct": 0,
+    "faible": 2,
+    "commune": 0,
+    "passage": 1,
+    "aucune": 17,
+    "area_sqkm": 56.48,
+    "area_direct_sqkm": 4.5,
+    "mean_lines_direct": 0.1,
+    "pct_fokontany_direct": 10.0,
+    "pct_area_direct": 8.0
+   },
+   {
+    "adm2_name": "Ambohidratrimo",
+    "adm3_pcode": "MG11103050",
+    "adm3_name": "Talatamaty",
+    "tier": 2,
+    "n_fokontany": 12,
+    "direct": 0,
+    "faible": 0,
+    "commune": 0,
+    "passage": 0,
+    "aucune": 12,
+    "area_sqkm": 11.07,
+    "area_direct_sqkm": 0.0,
+    "mean_lines_direct": 0.0,
+    "pct_fokontany_direct": 0.0,
+    "pct_area_direct": 0.0
+   },
+   {
+    "adm2_name": "Antananarivo Atsimondrano",
+    "adm3_pcode": "MG11117312",
+    "adm3_name": "Alakamisy Fenoarivo",
+    "tier": 2,
+    "n_fokontany": 5,
+    "direct": 0,
+    "faible": 0,
+    "commune": 0,
+    "passage": 0,
+    "aucune": 5,
+    "area_sqkm": 12.57,
+    "area_direct_sqkm": 0.0,
+    "mean_lines_direct": 0.0,
+    "pct_fokontany_direct": 0.0,
+    "pct_area_direct": 0.0
+   },
+   {
+    "adm2_name": "Antananarivo Atsimondrano",
+    "adm3_pcode": "MG11117250",
+    "adm3_name": "Alatsinainy Ambazaha",
+    "tier": 2,
+    "n_fokontany": 5,
+    "direct": 0,
+    "faible": 0,
+    "commune": 5,
+    "passage": 0,
+    "aucune": 0,
+    "area_sqkm": 9.04,
+    "area_direct_sqkm": 0.0,
+    "mean_lines_direct": 0.0,
+    "pct_fokontany_direct": 0.0,
+    "pct_area_direct": 0.0
+   },
+   {
+    "adm2_name": "Antananarivo Atsimondrano",
+    "adm3_pcode": "MG11117450",
+    "adm3_name": "Ambalavao",
+    "tier": 2,
+    "n_fokontany": 15,
+    "direct": 0,
+    "faible": 1,
+    "commune": 0,
+    "passage": 0,
+    "aucune": 14,
+    "area_sqkm": 44.89,
+    "area_direct_sqkm": 1.98,
+    "mean_lines_direct": 0.07,
+    "pct_fokontany_direct": 6.7,
+    "pct_area_direct": 4.4
+   },
+   {
+    "adm2_name": "Antananarivo Atsimondrano",
+    "adm3_pcode": "MG11117470",
+    "adm3_name": "Ambatofahavalo",
+    "tier": 2,
+    "n_fokontany": 7,
+    "direct": 0,
+    "faible": 0,
+    "commune": 7,
+    "passage": 0,
+    "aucune": 0,
+    "area_sqkm": 38.78,
+    "area_direct_sqkm": 0.0,
+    "mean_lines_direct": 0.0,
+    "pct_fokontany_direct": 0.0,
+    "pct_area_direct": 0.0
+   },
+   {
+    "adm2_name": "Antananarivo Atsimondrano",
+    "adm3_pcode": "MG11117130",
+    "adm3_name": "Ambavahaditokana",
+    "tier": 2,
+    "n_fokontany": 6,
+    "direct": 0,
+    "faible": 0,
+    "commune": 0,
+    "passage": 0,
+    "aucune": 6,
+    "area_sqkm": 6.2,
+    "area_direct_sqkm": 0.0,
+    "mean_lines_direct": 0.0,
+    "pct_fokontany_direct": 0.0,
+    "pct_area_direct": 0.0
+   },
+   {
+    "adm2_name": "Antananarivo Atsimondrano",
+    "adm3_pcode": "MG11117050",
+    "adm3_name": "Ambohidrapeto",
+    "tier": 2,
+    "n_fokontany": 5,
+    "direct": 1,
+    "faible": 1,
+    "commune": 0,
+    "passage": 0,
+    "aucune": 3,
+    "area_sqkm": 3.98,
+    "area_direct_sqkm": 1.21,
+    "mean_lines_direct": 0.6,
+    "pct_fokontany_direct": 40.0,
+    "pct_area_direct": 30.4
+   },
+   {
+    "adm2_name": "Antananarivo Atsimondrano",
+    "adm3_pcode": "MG11117350",
+    "adm3_name": "Ambohijanaka",
+    "tier": 2,
+    "n_fokontany": 12,
+    "direct": 0,
+    "faible": 1,
+    "commune": 0,
+    "passage": 0,
+    "aucune": 11,
+    "area_sqkm": 28.05,
+    "area_direct_sqkm": 0.44,
+    "mean_lines_direct": 0.08,
+    "pct_fokontany_direct": 8.3,
+    "pct_area_direct": 1.6
+   },
+   {
+    "adm2_name": "Antananarivo Atsimondrano",
+    "adm3_pcode": "MG11117370",
+    "adm3_name": "Ampahitrosy",
+    "tier": 2,
+    "n_fokontany": 5,
+    "direct": 0,
+    "faible": 0,
+    "commune": 0,
+    "passage": 0,
+    "aucune": 5,
+    "area_sqkm": 9.5,
+    "area_direct_sqkm": 0.0,
+    "mean_lines_direct": 0.0,
+    "pct_fokontany_direct": 0.0,
+    "pct_area_direct": 0.0
+   },
+   {
+    "adm2_name": "Antananarivo Atsimondrano",
+    "adm3_pcode": "MG11117270",
+    "adm3_name": "Ampanefy",
+    "tier": 2,
+    "n_fokontany": 8,
+    "direct": 0,
+    "faible": 1,
+    "commune": 0,
+    "passage": 0,
+    "aucune": 7,
+    "area_sqkm": 10.85,
+    "area_direct_sqkm": 0.27,
+    "mean_lines_direct": 0.12,
+    "pct_fokontany_direct": 12.5,
+    "pct_area_direct": 2.5
+   },
+   {
+    "adm2_name": "Antananarivo Atsimondrano",
+    "adm3_pcode": "MG11117011",
+    "adm3_name": "Ampitatafika",
+    "tier": 2,
+    "n_fokontany": 13,
+    "direct": 1,
+    "faible": 3,
+    "commune": 9,
+    "passage": 0,
+    "aucune": 0,
+    "area_sqkm": 19.88,
+    "area_direct_sqkm": 4.71,
+    "mean_lines_direct": 0.38,
+    "pct_fokontany_direct": 30.8,
+    "pct_area_direct": 23.7
+   },
+   {
+    "adm2_name": "Antananarivo Atsimondrano",
+    "adm3_pcode": "MG11117170",
+    "adm3_name": "Andoharanofotsy",
+    "tier": 2,
+    "n_fokontany": 8,
+    "direct": 2,
+    "faible": 0,
+    "commune": 0,
+    "passage": 3,
+    "aucune": 3,
+    "area_sqkm": 7.38,
+    "area_direct_sqkm": 2.11,
+    "mean_lines_direct": 0.75,
+    "pct_fokontany_direct": 25.0,
+    "pct_area_direct": 28.6
+   },
+   {
+    "adm2_name": "Antananarivo Atsimondrano",
+    "adm3_pcode": "MG11117030",
+    "adm3_name": "Andranonahoatra",
+    "tier": 2,
+    "n_fokontany": 7,
+    "direct": 0,
+    "faible": 2,
+    "commune": 0,
+    "passage": 1,
+    "aucune": 4,
+    "area_sqkm": 3.83,
+    "area_direct_sqkm": 2.04,
+    "mean_lines_direct": 0.29,
+    "pct_fokontany_direct": 28.6,
+    "pct_area_direct": 53.3
+   },
+   {
+    "adm2_name": "Antananarivo Atsimondrano",
+    "adm3_pcode": "MG11117410",
+    "adm3_name": "Androhibe",
+    "tier": 2,
+    "n_fokontany": 8,
+    "direct": 0,
+    "faible": 1,
+    "commune": 0,
+    "passage": 0,
+    "aucune": 7,
+    "area_sqkm": 32.99,
+    "area_direct_sqkm": 1.71,
+    "mean_lines_direct": 0.12,
+    "pct_fokontany_direct": 12.5,
+    "pct_area_direct": 5.2
+   },
+   {
+    "adm2_name": "Antananarivo Atsimondrano",
+    "adm3_pcode": "MG11117290",
+    "adm3_name": "Ankadimanga",
+    "tier": 2,
+    "n_fokontany": 6,
+    "direct": 0,
+    "faible": 0,
+    "commune": 6,
+    "passage": 0,
+    "aucune": 0,
+    "area_sqkm": 2.79,
+    "area_direct_sqkm": 0.0,
+    "mean_lines_direct": 0.0,
+    "pct_fokontany_direct": 0.0,
+    "pct_area_direct": 0.0
+   },
+   {
+    "adm2_name": "Antananarivo Atsimondrano",
+    "adm3_pcode": "MG11117190",
+    "adm3_name": "Ankaraobato",
+    "tier": 2,
+    "n_fokontany": 7,
+    "direct": 0,
+    "faible": 1,
+    "commune": 0,
+    "passage": 0,
+    "aucune": 6,
+    "area_sqkm": 2.77,
+    "area_direct_sqkm": 0.81,
+    "mean_lines_direct": 0.14,
+    "pct_fokontany_direct": 14.3,
+    "pct_area_direct": 29.2
+   },
+   {
+    "adm2_name": "Antananarivo Atsimondrano",
+    "adm3_pcode": "MG11117012",
+    "adm3_name": "Anosizato Andrefana",
+    "tier": 2,
+    "n_fokontany": 7,
+    "direct": 0,
+    "faible": 0,
+    "commune": 0,
+    "passage": 3,
+    "aucune": 4,
+    "area_sqkm": 1.75,
+    "area_direct_sqkm": 0.0,
+    "mean_lines_direct": 0.0,
+    "pct_fokontany_direct": 0.0,
+    "pct_area_direct": 0.0
+   },
+   {
+    "adm2_name": "Antananarivo Atsimondrano",
+    "adm3_pcode": "MG11117230",
+    "adm3_name": "Antanetikely",
+    "tier": 2,
+    "n_fokontany": 13,
+    "direct": 0,
+    "faible": 1,
+    "commune": 0,
+    "passage": 0,
+    "aucune": 12,
+    "area_sqkm": 49.3,
+    "area_direct_sqkm": 2.99,
+    "mean_lines_direct": 0.08,
+    "pct_fokontany_direct": 7.7,
+    "pct_area_direct": 6.1
+   },
+   {
+    "adm2_name": "Antananarivo Atsimondrano",
+    "adm3_pcode": "MG11117070",
+    "adm3_name": "Bemasoandro",
+    "tier": 2,
+    "n_fokontany": 6,
+    "direct": 0,
+    "faible": 1,
+    "commune": 0,
+    "passage": 3,
+    "aucune": 2,
+    "area_sqkm": 3.46,
+    "area_direct_sqkm": 0.51,
+    "mean_lines_direct": 0.17,
+    "pct_fokontany_direct": 16.7,
+    "pct_area_direct": 14.7
+   },
+   {
+    "adm2_name": "Antananarivo Atsimondrano",
+    "adm3_pcode": "MG11117390",
+    "adm3_name": "Bongatsara",
+    "tier": 2,
+    "n_fokontany": 7,
+    "direct": 0,
+    "faible": 2,
+    "commune": 0,
+    "passage": 0,
+    "aucune": 5,
+    "area_sqkm": 25.48,
+    "area_direct_sqkm": 5.12,
+    "mean_lines_direct": 0.29,
+    "pct_fokontany_direct": 28.6,
+    "pct_area_direct": 20.1
+   },
+   {
+    "adm2_name": "Antananarivo Atsimondrano",
+    "adm3_pcode": "MG11117311",
+    "adm3_name": "Fenoarivo",
+    "tier": 2,
+    "n_fokontany": 12,
+    "direct": 0,
+    "faible": 0,
+    "commune": 0,
+    "passage": 0,
+    "aucune": 12,
+    "area_sqkm": 17.2,
+    "area_direct_sqkm": 0.0,
+    "mean_lines_direct": 0.0,
+    "pct_fokontany_direct": 0.0,
+    "pct_area_direct": 0.0
+   },
+   {
+    "adm2_name": "Antananarivo Atsimondrano",
+    "adm3_pcode": "MG11117090",
+    "adm3_name": "Fiombonana",
+    "tier": 2,
+    "n_fokontany": 5,
+    "direct": 0,
+    "faible": 0,
+    "commune": 0,
+    "passage": 2,
+    "aucune": 3,
+    "area_sqkm": 4.61,
+    "area_direct_sqkm": 0.0,
+    "mean_lines_direct": 0.0,
+    "pct_fokontany_direct": 0.0,
+    "pct_area_direct": 0.0
+   },
+   {
+    "adm2_name": "Antananarivo Atsimondrano",
+    "adm3_pcode": "MG11117110",
+    "adm3_name": "Itaosy",
+    "tier": 2,
+    "n_fokontany": 6,
+    "direct": 1,
+    "faible": 0,
+    "commune": 0,
+    "passage": 0,
+    "aucune": 5,
+    "area_sqkm": 5.52,
+    "area_direct_sqkm": 0.38,
+    "mean_lines_direct": 0.5,
+    "pct_fokontany_direct": 16.7,
+    "pct_area_direct": 6.9
+   },
+   {
+    "adm2_name": "Antananarivo Atsimondrano",
+    "adm3_pcode": "MG11117210",
+    "adm3_name": "Soalandy",
+    "tier": 2,
+    "n_fokontany": 8,
+    "direct": 1,
+    "faible": 1,
+    "commune": 0,
+    "passage": 0,
+    "aucune": 6,
+    "area_sqkm": 13.68,
+    "area_direct_sqkm": 4.35,
+    "mean_lines_direct": 0.38,
+    "pct_fokontany_direct": 25.0,
+    "pct_area_direct": 31.8
+   },
+   {
+    "adm2_name": "Antananarivo Atsimondrano",
+    "adm3_pcode": "MG11117330",
+    "adm3_name": "Soavina",
+    "tier": 2,
+    "n_fokontany": 5,
+    "direct": 0,
+    "faible": 1,
+    "commune": 0,
+    "passage": 1,
+    "aucune": 3,
+    "area_sqkm": 4.12,
+    "area_direct_sqkm": 0.37,
+    "mean_lines_direct": 0.2,
+    "pct_fokontany_direct": 20.0,
+    "pct_area_direct": 9.0
+   },
+   {
+    "adm2_name": "Antananarivo Atsimondrano",
+    "adm3_pcode": "MG11117150",
+    "adm3_name": "Tanjombato",
+    "tier": 2,
+    "n_fokontany": 5,
+    "direct": 0,
+    "faible": 0,
+    "commune": 5,
+    "passage": 0,
+    "aucune": 0,
+    "area_sqkm": 4.57,
+    "area_direct_sqkm": 0.0,
+    "mean_lines_direct": 0.0,
+    "pct_fokontany_direct": 0.0,
+    "pct_area_direct": 0.0
+   },
+   {
+    "adm2_name": "Antananarivo Atsimondrano",
+    "adm3_pcode": "MG11117430",
+    "adm3_name": "Tsiafahy",
+    "tier": 2,
+    "n_fokontany": 15,
+    "direct": 0,
+    "faible": 2,
+    "commune": 0,
+    "passage": 0,
+    "aucune": 13,
+    "area_sqkm": 58.75,
+    "area_direct_sqkm": 5.26,
+    "mean_lines_direct": 0.13,
+    "pct_fokontany_direct": 13.3,
+    "pct_area_direct": 9.0
+   },
+   {
+    "adm2_name": "Antananarivo Avaradrano",
+    "adm3_pcode": "MG11102010",
+    "adm3_name": "Alasora",
+    "tier": 2,
+    "n_fokontany": 20,
+    "direct": 2,
+    "faible": 4,
+    "commune": 0,
+    "passage": 6,
+    "aucune": 8,
+    "area_sqkm": 22.11,
+    "area_direct_sqkm": 6.64,
+    "mean_lines_direct": 0.45,
+    "pct_fokontany_direct": 30.0,
+    "pct_area_direct": 30.0
+   },
+   {
+    "adm2_name": "Antananarivo Avaradrano",
+    "adm3_pcode": "MG11102230",
+    "adm3_name": "Ambohimalaza Miray",
+    "tier": 2,
+    "n_fokontany": 12,
+    "direct": 1,
+    "faible": 1,
+    "commune": 0,
+    "passage": 0,
+    "aucune": 10,
+    "area_sqkm": 36.33,
+    "area_direct_sqkm": 5.05,
+    "mean_lines_direct": 0.25,
+    "pct_fokontany_direct": 16.7,
+    "pct_area_direct": 13.9
+   },
+   {
+    "adm2_name": "Antananarivo Avaradrano",
+    "adm3_pcode": "MG11102050",
+    "adm3_name": "Ambohimanambola",
+    "tier": 2,
+    "n_fokontany": 10,
+    "direct": 0,
+    "faible": 0,
+    "commune": 10,
+    "passage": 0,
+    "aucune": 0,
+    "area_sqkm": 17.44,
+    "area_direct_sqkm": 0.0,
+    "mean_lines_direct": 0.0,
+    "pct_fokontany_direct": 0.0,
+    "pct_area_direct": 0.0
+   },
+   {
+    "adm2_name": "Antananarivo Avaradrano",
+    "adm3_pcode": "MG11102319",
+    "adm3_name": "Ambohimanga Rova",
+    "tier": 2,
+    "n_fokontany": 22,
+    "direct": 0,
+    "faible": 3,
+    "commune": 0,
+    "passage": 0,
+    "aucune": 19,
+    "area_sqkm": 46.53,
+    "area_direct_sqkm": 6.04,
+    "mean_lines_direct": 0.14,
+    "pct_fokontany_direct": 13.6,
+    "pct_area_direct": 13.0
+   },
+   {
+    "adm2_name": "Antananarivo Avaradrano",
+    "adm3_pcode": "MG11102099",
+    "adm3_name": "Ambohimangakely",
+    "tier": 2,
+    "n_fokontany": 17,
+    "direct": 0,
+    "faible": 5,
+    "commune": 0,
+    "passage": 0,
+    "aucune": 12,
+    "area_sqkm": 34.22,
+    "area_direct_sqkm": 10.9,
+    "mean_lines_direct": 0.29,
+    "pct_fokontany_direct": 29.4,
+    "pct_area_direct": 31.9
+   },
+   {
+    "adm2_name": "Antananarivo Avaradrano",
+    "adm3_pcode": "MG11102390",
+    "adm3_name": "Anjeva Gara",
+    "tier": 2,
+    "n_fokontany": 10,
+    "direct": 2,
+    "faible": 0,
+    "commune": 0,
+    "passage": 0,
+    "aucune": 8,
+    "area_sqkm": 25.53,
+    "area_direct_sqkm": 2.44,
+    "mean_lines_direct": 0.4,
+    "pct_fokontany_direct": 20.0,
+    "pct_area_direct": 9.6
+   },
+   {
+    "adm2_name": "Antananarivo Avaradrano",
+    "adm3_pcode": "MG11102039",
+    "adm3_name": "Ankadikely Ilafy",
+    "tier": 2,
+    "n_fokontany": 17,
+    "direct": 0,
+    "faible": 5,
+    "commune": 0,
+    "passage": 3,
+    "aucune": 9,
+    "area_sqkm": 32.97,
+    "area_direct_sqkm": 14.13,
+    "mean_lines_direct": 0.29,
+    "pct_fokontany_direct": 29.4,
+    "pct_area_direct": 42.9
+   },
+   {
+    "adm2_name": "Antananarivo Avaradrano",
+    "adm3_pcode": "MG11102430",
+    "adm3_name": "Ankadinandriana",
+    "tier": 2,
+    "n_fokontany": 17,
+    "direct": 0,
+    "faible": 2,
+    "commune": 0,
+    "passage": 0,
+    "aucune": 15,
+    "area_sqkm": 130.65,
+    "area_direct_sqkm": 36.35,
+    "mean_lines_direct": 0.12,
+    "pct_fokontany_direct": 11.8,
+    "pct_area_direct": 27.8
+   },
+   {
+    "adm2_name": "Antananarivo Avaradrano",
+    "adm3_pcode": "MG11102279",
+    "adm3_name": "Fiaferana",
+    "tier": 2,
+    "n_fokontany": 10,
+    "direct": 0,
+    "faible": 0,
+    "commune": 0,
+    "passage": 0,
+    "aucune": 10,
+    "area_sqkm": 33.08,
+    "area_direct_sqkm": 0.0,
+    "mean_lines_direct": 0.0,
+    "pct_fokontany_direct": 0.0,
+    "pct_area_direct": 0.0
+   },
+   {
+    "adm2_name": "Antananarivo Avaradrano",
+    "adm3_pcode": "MG11102210",
+    "adm3_name": "Manandriana",
+    "tier": 2,
+    "n_fokontany": 5,
+    "direct": 0,
+    "faible": 1,
+    "commune": 0,
+    "passage": 0,
+    "aucune": 4,
+    "area_sqkm": 13.65,
+    "area_direct_sqkm": 2.49,
+    "mean_lines_direct": 0.2,
+    "pct_fokontany_direct": 20.0,
+    "pct_area_direct": 18.2
+   },
+   {
+    "adm2_name": "Antananarivo Avaradrano",
+    "adm3_pcode": "MG11102410",
+    "adm3_name": "Masindray",
+    "tier": 2,
+    "n_fokontany": 11,
+    "direct": 0,
+    "faible": 1,
+    "commune": 0,
+    "passage": 0,
+    "aucune": 10,
+    "area_sqkm": 52.99,
+    "area_direct_sqkm": 4.31,
+    "mean_lines_direct": 0.09,
+    "pct_fokontany_direct": 9.1,
+    "pct_area_direct": 8.1
+   },
+   {
+    "adm2_name": "Antananarivo Avaradrano",
+    "adm3_pcode": "MG11102079",
+    "adm3_name": "Sabotsy Namehana",
+    "tier": 2,
+    "n_fokontany": 22,
+    "direct": 0,
+    "faible": 4,
+    "commune": 0,
+    "passage": 1,
+    "aucune": 17,
+    "area_sqkm": 22.69,
+    "area_direct_sqkm": 7.02,
+    "mean_lines_direct": 0.18,
+    "pct_fokontany_direct": 18.2,
+    "pct_area_direct": 30.9
+   },
+   {
+    "adm2_name": "Antananarivo Avaradrano",
+    "adm3_pcode": "MG11102379",
+    "adm3_name": "Talata Volonondry",
+    "tier": 2,
+    "n_fokontany": 28,
+    "direct": 0,
+    "faible": 3,
+    "commune": 0,
+    "passage": 0,
+    "aucune": 25,
+    "area_sqkm": 88.21,
+    "area_direct_sqkm": 11.35,
+    "mean_lines_direct": 0.11,
+    "pct_fokontany_direct": 10.7,
+    "pct_area_direct": 12.9
+   },
+   {
+    "adm2_name": "Antananarivo Avaradrano",
+    "adm3_pcode": "MG11102350",
+    "adm3_name": "Viliahazo",
+    "tier": 2,
+    "n_fokontany": 8,
+    "direct": 0,
+    "faible": 0,
+    "commune": 8,
+    "passage": 0,
+    "aucune": 0,
+    "area_sqkm": 25.48,
+    "area_direct_sqkm": 0.0,
+    "mean_lines_direct": 0.0,
+    "pct_fokontany_direct": 0.0,
+    "pct_area_direct": 0.0
+   }
+  ],
+  "top_fokontany_by_lines": [
+   {
+    "adm4_pcode": "MG11118001001",
+    "adm4_name": "Antanimalalaka Analakely",
+    "adm3_name": "1er Arrondissement",
+    "n_lines_direct": 26,
+    "best_status": "sous_chaine_fokontany",
+    "best_confidence": 0.75
+   },
+   {
+    "adm4_pcode": "MG11118001031",
+    "adm4_name": "67ha Afovoany Andrefana",
+    "adm3_name": "1er Arrondissement",
+    "n_lines_direct": 22,
+    "best_status": "sous_chaine_fokontany",
+    "best_confidence": 0.65
+   },
+   {
+    "adm4_pcode": "MG11118001032",
+    "adm4_name": "67ha Atsimo",
+    "adm3_name": "1er Arrondissement",
+    "n_lines_direct": 22,
+    "best_status": "sous_chaine_fokontany",
+    "best_confidence": 0.65
+   },
+   {
+    "adm4_pcode": "MG11118001033",
+    "adm4_name": "67ha Avaratra Andrefana",
+    "adm3_name": "1er Arrondissement",
+    "n_lines_direct": 22,
+    "best_status": "sous_chaine_fokontany",
+    "best_confidence": 0.65
+   },
+   {
+    "adm4_pcode": "MG11118001034",
+    "adm4_name": "67ha Avaratra Atsinanana",
+    "adm3_name": "1er Arrondissement",
+    "n_lines_direct": 22,
+    "best_status": "sous_chaine_fokontany",
+    "best_confidence": 0.65
+   },
+   {
+    "adm4_pcode": "MG11119001001",
+    "adm4_name": "Faliarivo Ambanidia",
+    "adm3_name": "2e Arrondissement",
+    "n_lines_direct": 14,
+    "best_status": "sous_chaine_fokontany",
+    "best_confidence": 0.75
+   },
+   {
+    "adm4_pcode": "MG11119001011",
+    "adm4_name": "Miandrarivo Ambanidia",
+    "adm3_name": "2e Arrondissement",
+    "n_lines_direct": 14,
+    "best_status": "sous_chaine_fokontany",
+    "best_confidence": 0.75
+   },
+   {
+    "adm4_pcode": "MG11119001007",
+    "adm4_name": "Volosarika Ambanidia",
+    "adm3_name": "2e Arrondissement",
+    "n_lines_direct": 14,
+    "best_status": "sous_chaine_fokontany",
+    "best_confidence": 0.75
+   },
+   {
+    "adm4_pcode": "MG11118001007",
+    "adm4_name": "Amparibe Ambohidahy Mahamasina",
+    "adm3_name": "1er Arrondissement",
+    "n_lines_direct": 10,
+    "best_status": "sous_chaine_fokontany",
+    "best_confidence": 0.75
+   },
+   {
+    "adm4_pcode": "MG11120001002",
+    "adm4_name": "Ankorondrano Andranomahery",
+    "adm3_name": "3e Arrondissement",
+    "n_lines_direct": 10,
+    "best_status": "sous_chaine_fokontany",
+    "best_confidence": 0.75
+   },
+   {
+    "adm4_pcode": "MG11120001004",
+    "adm4_name": "Ankorondrano Andrefana",
+    "adm3_name": "3e Arrondissement",
+    "n_lines_direct": 10,
+    "best_status": "sous_chaine_fokontany",
+    "best_confidence": 0.75
+   },
+   {
+    "adm4_pcode": "MG11120001003",
+    "adm4_name": "Ankorondrano Atsinanana",
+    "adm3_name": "3e Arrondissement",
+    "n_lines_direct": 10,
+    "best_status": "sous_chaine_fokontany",
+    "best_confidence": 0.75
+   },
+   {
+    "adm4_pcode": "MG11121001012",
+    "adm4_name": "Mahamasina Atsimo",
+    "adm3_name": "4e Arrondissement",
+    "n_lines_direct": 10,
+    "best_status": "sous_chaine_fokontany",
+    "best_confidence": 0.75
+   },
+   {
+    "adm4_pcode": "MG11121001021",
+    "adm4_name": "Anosibe Ambohibarikely",
+    "adm3_name": "4e Arrondissement",
+    "n_lines_direct": 10,
+    "best_status": "sous_chaine_fokontany",
+    "best_confidence": 0.65
+   },
+   {
+    "adm4_pcode": "MG11121001010",
+    "adm4_name": "Anosibe Andrefana I",
+    "adm3_name": "4e Arrondissement",
+    "n_lines_direct": 10,
+    "best_status": "sous_chaine_fokontany",
+    "best_confidence": 0.65
+   }
+  ],
+  "unserved_core_largest": [
+   {
+    "adm4_pcode": "MG11103390007",
+    "adm4_name": "Mahitsitady",
+    "adm3_name": "Ambato",
+    "adm2_name": "Ambohidratrimo",
+    "area_sqkm": 95.7876,
+    "rings_to_network": 5.0
+   },
+   {
+    "adm4_pcode": "MG11103410002",
+    "adm4_name": "Ambohimanatrika",
+    "adm3_name": "Anjanadoria",
+    "adm2_name": "Ambohidratrimo",
+    "area_sqkm": 58.9188,
+    "rings_to_network": null
+   },
+   {
+    "adm4_pcode": "MG11103390003",
+    "adm4_name": "Ambodimanga",
+    "adm3_name": "Ambato",
+    "adm2_name": "Ambohidratrimo",
+    "area_sqkm": 49.4089,
+    "rings_to_network": 6.0
+   },
+   {
+    "adm4_pcode": "MG11103410003",
+    "adm4_name": "Ambohimarina",
+    "adm3_name": "Anjanadoria",
+    "adm2_name": "Ambohidratrimo",
+    "area_sqkm": 28.5182,
+    "rings_to_network": null
+   },
+   {
+    "adm4_pcode": "MG11103390006",
+    "adm4_name": "Ampanotokana",
+    "adm3_name": "Ambato",
+    "adm2_name": "Ambohidratrimo",
+    "area_sqkm": 27.0291,
+    "rings_to_network": null
+   },
+   {
+    "adm4_pcode": "MG11103390002",
+    "adm4_name": "Ambatoharanana",
+    "adm3_name": "Ambato",
+    "adm2_name": "Ambohidratrimo",
+    "area_sqkm": 23.516,
+    "rings_to_network": null
+   },
+   {
+    "adm4_pcode": "MG11103430004",
+    "adm4_name": "Antanetimboahangy",
+    "adm3_name": "Avaratsena",
+    "adm2_name": "Ambohidratrimo",
+    "area_sqkm": 23.0723,
+    "rings_to_network": 4.0
+   },
+   {
+    "adm4_pcode": "MG11103390004",
+    "adm4_name": "Ambohijorery",
+    "adm3_name": "Ambato",
+    "adm2_name": "Ambohidratrimo",
+    "area_sqkm": 21.0268,
+    "rings_to_network": 6.0
+   },
+   {
+    "adm4_pcode": "MG11102430016",
+    "adm4_name": "Miorikampoza",
+    "adm3_name": "Ankadinandriana",
+    "adm2_name": "Antananarivo Avaradrano",
+    "area_sqkm": 19.6774,
+    "rings_to_network": 2.0
+   },
+   {
+    "adm4_pcode": "MG11103390010",
+    "adm4_name": "Vatovandana",
+    "adm3_name": "Ambato",
+    "adm2_name": "Ambohidratrimo",
+    "area_sqkm": 19.5975,
+    "rings_to_network": 5.0
+   },
+   {
+    "adm4_pcode": "MG11103410012",
+    "adm4_name": "Manankasina",
+    "adm3_name": "Anjanadoria",
+    "adm2_name": "Ambohidratrimo",
+    "area_sqkm": 18.055,
+    "rings_to_network": null
+   },
+   {
+    "adm4_pcode": "MG11103252002",
+    "adm4_name": "Mamory",
+    "adm3_name": "Antsahafilo",
+    "adm2_name": "Ambohidratrimo",
+    "area_sqkm": 17.2046,
+    "rings_to_network": 4.0
+   },
+   {
+    "adm4_pcode": "MG11103350002",
+    "adm4_name": "Ambohidravaka",
+    "adm3_name": "Antanetibe",
+    "adm2_name": "Ambohidratrimo",
+    "area_sqkm": 16.7205,
+    "rings_to_network": 6.0
+   },
+   {
+    "adm4_pcode": "MG11103430007",
+    "adm4_name": "Ambatomanana",
+    "adm3_name": "Avaratsena",
+    "adm2_name": "Ambohidratrimo",
+    "area_sqkm": 15.5913,
+    "rings_to_network": 3.0
+   },
+   {
+    "adm4_pcode": "MG11103390008",
+    "adm4_name": "Soaloka",
+    "adm3_name": "Ambato",
+    "adm2_name": "Ambohidratrimo",
+    "area_sqkm": 15.3441,
+    "rings_to_network": null
+   },
+   {
+    "adm4_pcode": "MG11102379002",
+    "adm4_name": "Amparafara",
+    "adm3_name": "Talata Volonondry",
+    "adm2_name": "Antananarivo Avaradrano",
+    "area_sqkm": 14.8509,
+    "rings_to_network": 1.0
+   },
+   {
+    "adm4_pcode": "MG11117230012",
+    "adm4_name": "Anjoma Fanamiana",
+    "adm3_name": "Antanetikely",
+    "adm2_name": "Antananarivo Atsimondrano",
+    "area_sqkm": 14.7805,
+    "rings_to_network": 2.0
+   },
+   {
+    "adm4_pcode": "MG11103390001",
+    "adm4_name": "Ambato",
+    "adm3_name": "Ambato",
+    "adm2_name": "Ambohidratrimo",
+    "area_sqkm": 14.2949,
+    "rings_to_network": 6.0
+   },
+   {
+    "adm4_pcode": "MG11103410004",
+    "adm4_name": "Andranomaintso",
+    "adm3_name": "Anjanadoria",
+    "adm2_name": "Ambohidratrimo",
+    "area_sqkm": 13.4576,
+    "rings_to_network": null
+   },
+   {
+    "adm4_pcode": "MG11103252001",
+    "adm4_name": "Antsahafilo",
+    "adm3_name": "Antsahafilo",
+    "adm2_name": "Ambohidratrimo",
+    "area_sqkm": 13.3937,
+    "rings_to_network": 3.0
+   },
+   {
+    "adm4_pcode": "MG11103430002",
+    "adm4_name": "Mahavanona",
+    "adm3_name": "Avaratsena",
+    "adm2_name": "Ambohidratrimo",
+    "area_sqkm": 12.7665,
+    "rings_to_network": 5.0
+   },
+   {
+    "adm4_pcode": "MG11103410010",
+    "adm4_name": "Merinavaratra",
+    "adm3_name": "Anjanadoria",
+    "adm2_name": "Ambohidratrimo",
+    "area_sqkm": 12.6829,
+    "rings_to_network": 5.0
+   },
+   {
+    "adm4_pcode": "MG11103410008",
+    "adm4_name": "Antamboho",
+    "adm3_name": "Anjanadoria",
+    "adm2_name": "Ambohidratrimo",
+    "area_sqkm": 12.6,
+    "rings_to_network": null
+   },
+   {
+    "adm4_pcode": "MG11117230013",
+    "adm4_name": "Ampany",
+    "adm3_name": "Antanetikely",
+    "adm2_name": "Antananarivo Atsimondrano",
+    "area_sqkm": 12.4688,
+    "rings_to_network": 1.0
+   },
+   {
+    "adm4_pcode": "MG11103390011",
+    "adm4_name": "Ambohimitsinjorano",
+    "adm3_name": "Ambato",
+    "adm2_name": "Ambohidratrimo",
+    "area_sqkm": 12.2709,
+    "rings_to_network": 6.0
+   }
+  ],
+  "unserved_urban": [
+   {
+    "adm4_pcode": "MG11118001003",
+    "adm4_name": "Ambatonakanga Ambohitsorohitra",
+    "adm3_name": "1er Arrondissement",
+    "coverage": "commune",
+    "rings_to_network": 1.0,
+    "area_sqkm": 0.4492
+   },
+   {
+    "adm4_pcode": "MG11118001004",
+    "adm4_name": "Ambatovinaky",
+    "adm3_name": "1er Arrondissement",
+    "coverage": "commune",
+    "rings_to_network": 1.0,
+    "area_sqkm": 0.2158
+   },
+   {
+    "adm4_pcode": "MG11118001008",
+    "adm4_name": "Amboasarikely Ambatomena",
+    "adm3_name": "1er Arrondissement",
+    "coverage": "commune",
+    "rings_to_network": 1.0,
+    "area_sqkm": 0.1696
+   },
+   {
+    "adm4_pcode": "MG11118001006",
+    "adm4_name": "Ampandrana Ankadivato",
+    "adm3_name": "1er Arrondissement",
+    "coverage": "commune",
+    "rings_to_network": 1.0,
+    "area_sqkm": 0.2484
+   },
+   {
+    "adm4_pcode": "MG11118001017",
+    "adm4_name": "Andranomanalina Afovoany",
+    "adm3_name": "1er Arrondissement",
+    "coverage": "commune",
+    "rings_to_network": 1.0,
+    "area_sqkm": 0.0487
+   },
+   {
+    "adm4_pcode": "MG11118001018",
+    "adm4_name": "Andranomanalina I",
+    "adm3_name": "1er Arrondissement",
+    "coverage": "commune",
+    "rings_to_network": 1.0,
+    "area_sqkm": 0.0309
+   },
+   {
+    "adm4_pcode": "MG11118001020",
+    "adm4_name": "Ankasina",
+    "adm3_name": "1er Arrondissement",
+    "coverage": "commune",
+    "rings_to_network": 1.0,
+    "area_sqkm": 0.7327
+   },
+   {
+    "adm4_pcode": "MG11118001021",
+    "adm4_name": "Antetezanafovoany I",
+    "adm3_name": "1er Arrondissement",
+    "coverage": "commune",
+    "rings_to_network": 1.0,
+    "area_sqkm": 0.2211
+   },
+   {
+    "adm4_pcode": "MG11118001022",
+    "adm4_name": "Antetezanafovoany II",
+    "adm3_name": "1er Arrondissement",
+    "coverage": "commune",
+    "rings_to_network": 1.0,
+    "area_sqkm": 0.0204
+   },
+   {
+    "adm4_pcode": "MG11118001023",
+    "adm4_name": "Antohomadinika Afovoany",
+    "adm3_name": "1er Arrondissement",
+    "coverage": "commune",
+    "rings_to_network": 1.0,
+    "area_sqkm": 0.084
+   },
+   {
+    "adm4_pcode": "MG11118001024",
+    "adm4_name": "Antohomadinika Atsimo",
+    "adm3_name": "1er Arrondissement",
+    "coverage": "commune",
+    "rings_to_network": 1.0,
+    "area_sqkm": 0.149
+   },
+   {
+    "adm4_pcode": "MG11118001025",
+    "adm4_name": "Antohomadinika Avaratra Antani",
+    "adm3_name": "1er Arrondissement",
+    "coverage": "commune",
+    "rings_to_network": 1.0,
+    "area_sqkm": 0.1335
+   },
+   {
+    "adm4_pcode": "MG11118001027",
+    "adm4_name": "Antohomadinika IIig Hangar",
+    "adm3_name": "1er Arrondissement",
+    "coverage": "commune",
+    "rings_to_network": 1.0,
+    "area_sqkm": 0.1473
+   },
+   {
+    "adm4_pcode": "MG11118001028",
+    "adm4_name": "Avaratetezana Bekiraro",
+    "adm3_name": "1er Arrondissement",
+    "coverage": "commune",
+    "rings_to_network": 1.0,
+    "area_sqkm": 0.0208
+   },
+   {
+    "adm4_pcode": "MG11118001039",
+    "adm4_name": "Fiata",
+    "adm3_name": "1er Arrondissement",
+    "coverage": "commune",
+    "rings_to_network": 1.0,
+    "area_sqkm": 0.2651
+   },
+   {
+    "adm4_pcode": "MG11118001038",
+    "adm4_name": "Isoraka Ampatsakana",
+    "adm3_name": "1er Arrondissement",
+    "coverage": "commune",
+    "rings_to_network": 1.0,
+    "area_sqkm": 0.1768
+   },
+   {
+    "adm4_pcode": "MG11118001035",
+    "adm4_name": "Lalamby Sy Ny Manodidina",
+    "adm3_name": "1er Arrondissement",
+    "coverage": "commune",
+    "rings_to_network": 1.0,
+    "area_sqkm": 0.34
+   },
+   {
+    "adm4_pcode": "MG11118001040",
+    "adm4_name": "Manarintsoa Afovoany",
+    "adm3_name": "1er Arrondissement",
+    "coverage": "commune",
+    "rings_to_network": 1.0,
+    "area_sqkm": 0.0613
+   },
+   {
+    "adm4_pcode": "MG11118001041",
+    "adm4_name": "Manarintsoa Anatihazo",
+    "adm3_name": "1er Arrondissement",
+    "coverage": "commune",
+    "rings_to_network": 1.0,
+    "area_sqkm": 0.0454
+   },
+   {
+    "adm4_pcode": "MG11118001042",
+    "adm4_name": "Manarintsoa Atsinanana",
+    "adm3_name": "1er Arrondissement",
+    "coverage": "commune",
+    "rings_to_network": 1.0,
+    "area_sqkm": 0.2092
+   },
+   {
+    "adm4_pcode": "MG11119001010",
+    "adm4_name": "Ambatoroka",
+    "adm3_name": "2e Arrondissement",
+    "coverage": "commune",
+    "rings_to_network": 1.0,
+    "area_sqkm": 0.676
+   },
+   {
+    "adm4_pcode": "MG11119001004",
+    "adm4_name": "Ambohitsiroa Vn",
+    "adm3_name": "2e Arrondissement",
+    "coverage": "commune",
+    "rings_to_network": 1.0,
+    "area_sqkm": 0.0756
+   },
+   {
+    "adm4_pcode": "MG11119001012",
+    "adm4_name": "Ambolokandrina 5a",
+    "adm3_name": "2e Arrondissement",
+    "coverage": "commune",
+    "rings_to_network": 1.0,
+    "area_sqkm": 2.0402
+   },
+   {
+    "adm4_pcode": "MG11119001008",
+    "adm4_name": "Andafiavaratra Ambavahadimitaf",
+    "adm3_name": "2e Arrondissement",
+    "coverage": "commune",
+    "rings_to_network": 1.0,
+    "area_sqkm": 0.2079
+   },
+   {
+    "adm4_pcode": "MG11119001016",
+    "adm4_name": "Andohamandry",
+    "adm3_name": "2e Arrondissement",
+    "coverage": "commune",
+    "rings_to_network": 1.0,
+    "area_sqkm": 0.1461
+   },
+   {
+    "adm4_pcode": "MG11119001005",
+    "adm4_name": "Ankazotokana Ambony",
+    "adm3_name": "2e Arrondissement",
+    "coverage": "commune",
+    "rings_to_network": 2.0,
+    "area_sqkm": 0.0422
+   },
+   {
+    "adm4_pcode": "MG11119001002",
+    "adm4_name": "Antanimora Ampasanimalo",
+    "adm3_name": "2e Arrondissement",
+    "coverage": "commune",
+    "rings_to_network": 1.0,
+    "area_sqkm": 0.3728
+   },
+   {
+    "adm4_pcode": "MG11119001003",
+    "adm4_name": "Antsahabe Ankorahotra Ankazoto",
+    "adm3_name": "2e Arrondissement",
+    "coverage": "commune",
+    "rings_to_network": 1.0,
+    "area_sqkm": 0.1318
+   },
+   {
+    "adm4_pcode": "MG11119001017",
+    "adm4_name": "Manakambahiny Ankerakely Ambat",
+    "adm3_name": "2e Arrondissement",
+    "coverage": "commune",
+    "rings_to_network": 1.0,
+    "area_sqkm": 0.4669
+   },
+   {
+    "adm4_pcode": "MG11119001021",
+    "adm4_name": "Morarano Andrangaranga Ambatol",
+    "adm3_name": "2e Arrondissement",
+    "coverage": "commune",
+    "rings_to_network": 1.0,
+    "area_sqkm": 0.2515
+   },
+   {
+    "adm4_pcode": "MG11120001023",
+    "adm4_name": "Ambatomitsangana",
+    "adm3_name": "3e Arrondissement",
+    "coverage": "passage",
+    "rings_to_network": 1.0,
+    "area_sqkm": 0.0612
+   },
+   {
+    "adm4_pcode": "MG11120001009",
+    "adm4_name": "Ambohibary Antanimena",
+    "adm3_name": "3e Arrondissement",
+    "coverage": "passage",
+    "rings_to_network": 1.0,
+    "area_sqkm": 0.1635
+   },
+   {
+    "adm4_pcode": "MG11120001030",
+    "adm4_name": "Ambohitrakely",
+    "adm3_name": "3e Arrondissement",
+    "coverage": "passage",
+    "rings_to_network": 1.0,
+    "area_sqkm": 0.6718
+   },
+   {
+    "adm4_pcode": "MG11120001033",
+    "adm4_name": "Ampahibe",
+    "adm3_name": "3e Arrondissement",
+    "coverage": "passage",
+    "rings_to_network": 1.0,
+    "area_sqkm": 0.5911
+   },
+   {
+    "adm4_pcode": "MG11120001029",
+    "adm4_name": "Ampandrana Andrefana",
+    "adm3_name": "3e Arrondissement",
+    "coverage": "passage",
+    "rings_to_network": 2.0,
+    "area_sqkm": 0.0746
+   },
+   {
+    "adm4_pcode": "MG11120001031",
+    "adm4_name": "Ampandrana Atsinanana",
+    "adm3_name": "3e Arrondissement",
+    "coverage": "passage",
+    "rings_to_network": 1.0,
+    "area_sqkm": 0.1087
+   },
+   {
+    "adm4_pcode": "MG11120001026",
+    "adm4_name": "Ampandrana Besarety",
+    "adm3_name": "3e Arrondissement",
+    "coverage": "passage",
+    "rings_to_network": 1.0,
+    "area_sqkm": 0.1338
+   },
+   {
+    "adm4_pcode": "MG11120001015",
+    "adm4_name": "Ankadifotsy Antanifotsy",
+    "adm3_name": "3e Arrondissement",
+    "coverage": "passage",
+    "rings_to_network": 1.0,
+    "area_sqkm": 0.089
+   },
+   {
+    "adm4_pcode": "MG11120001008",
+    "adm4_name": "Ankadifotsy Befelatanana",
+    "adm3_name": "3e Arrondissement",
+    "coverage": "passage",
+    "rings_to_network": 1.0,
+    "area_sqkm": 0.0962
+   },
+   {
+    "adm4_pcode": "MG11120001016",
+    "adm4_name": "Ankaditapaka Avaratra",
+    "adm3_name": "3e Arrondissement",
+    "coverage": "passage",
+    "rings_to_network": 1.0,
+    "area_sqkm": 0.0971
+   },
+   {
+    "adm4_pcode": "MG11120001032",
+    "adm4_name": "Ankadivato IIl",
+    "adm3_name": "3e Arrondissement",
+    "coverage": "aucune",
+    "rings_to_network": 1.0,
+    "area_sqkm": 0.0933
+   },
+   {
+    "adm4_pcode": "MG11120001001",
+    "adm4_name": "Antaninandro Ampandrana",
+    "adm3_name": "3e Arrondissement",
+    "coverage": "passage",
+    "rings_to_network": 1.0,
+    "area_sqkm": 0.098
+   },
+   {
+    "adm4_pcode": "MG11120001021",
+    "adm4_name": "Behoririka Ambatomitsangana",
+    "adm3_name": "3e Arrondissement",
+    "coverage": "passage",
+    "rings_to_network": 1.0,
+    "area_sqkm": 0.0682
+   },
+   {
+    "adm4_pcode": "MG11120001024",
+    "adm4_name": "Behoririka Ankaditapaka",
+    "adm3_name": "3e Arrondissement",
+    "coverage": "passage",
+    "rings_to_network": 1.0,
+    "area_sqkm": 0.059
+   },
+   {
+    "adm4_pcode": "MG11120001019",
+    "adm4_name": "Mahavoky",
+    "adm3_name": "3e Arrondissement",
+    "coverage": "passage",
+    "rings_to_network": 1.0,
+    "area_sqkm": 0.101
+   },
+   {
+    "adm4_pcode": "MG11120001017",
+    "adm4_name": "Mandialaza Ambatomitsangana",
+    "adm3_name": "3e Arrondissement",
+    "coverage": "aucune",
+    "rings_to_network": 1.0,
+    "area_sqkm": 0.0441
+   },
+   {
+    "adm4_pcode": "MG11120001013",
+    "adm4_name": "Mandialaza Ankadifotsy",
+    "adm3_name": "3e Arrondissement",
+    "coverage": "aucune",
+    "rings_to_network": 1.0,
+    "area_sqkm": 0.0648
+   },
+   {
+    "adm4_pcode": "MG11120001007",
+    "adm4_name": "Tsaramasay",
+    "adm3_name": "3e Arrondissement",
+    "coverage": "aucune",
+    "rings_to_network": 1.0,
+    "area_sqkm": 0.2023
+   },
+   {
+    "adm4_pcode": "MG11121001014",
+    "adm4_name": "Ambanin'ampamarinana",
+    "adm3_name": "4e Arrondissement",
+    "coverage": "passage",
+    "rings_to_network": 1.0,
+    "area_sqkm": 0.0778
+   },
+   {
+    "adm4_pcode": "MG11121001004",
+    "adm4_name": "Ampangabe Anjanakinifolo",
+    "adm3_name": "4e Arrondissement",
+    "coverage": "passage",
+    "rings_to_network": 1.0,
+    "area_sqkm": 0.3718
+   },
+   {
+    "adm4_pcode": "MG11121001020",
+    "adm4_name": "Andrefan'i Mananjara",
+    "adm3_name": "4e Arrondissement",
+    "coverage": "passage",
+    "rings_to_network": 1.0,
+    "area_sqkm": 0.228
+   },
+   {
+    "adm4_pcode": "MG11121001026",
+    "adm4_name": "Angarangarana",
+    "adm3_name": "4e Arrondissement",
+    "coverage": "passage",
+    "rings_to_network": 1.0,
+    "area_sqkm": 0.7373
+   },
+   {
+    "adm4_pcode": "MG11121001015",
+    "adm4_name": "Ankadilalana",
+    "adm3_name": "4e Arrondissement",
+    "coverage": "passage",
+    "rings_to_network": 1.0,
+    "area_sqkm": 0.1161
+   },
+   {
+    "adm4_pcode": "MG11121001030",
+    "adm4_name": "Ankaditoho Marohoho",
+    "adm3_name": "4e Arrondissement",
+    "coverage": "passage",
+    "rings_to_network": 1.0,
+    "area_sqkm": 0.9627
+   },
+   {
+    "adm4_pcode": "MG11121001032",
+    "adm4_name": "Ankazotoho Anosimahavelona",
+    "adm3_name": "4e Arrondissement",
+    "coverage": "passage",
+    "rings_to_network": 1.0,
+    "area_sqkm": 1.1048
+   },
+   {
+    "adm4_pcode": "MG11121001017",
+    "adm4_name": "Fiadanana IIil",
+    "adm3_name": "4e Arrondissement",
+    "coverage": "passage",
+    "rings_to_network": 1.0,
+    "area_sqkm": 0.3692
+   },
+   {
+    "adm4_pcode": "MG11121001018",
+    "adm4_name": "Fiadanana IIin",
+    "adm3_name": "4e Arrondissement",
+    "coverage": "passage",
+    "rings_to_network": 1.0,
+    "area_sqkm": 0.1974
+   },
+   {
+    "adm4_pcode": "MG11121001003",
+    "adm4_name": "Ilanivato Ampasika",
+    "adm3_name": "4e Arrondissement",
+    "coverage": "passage",
+    "rings_to_network": 1.0,
+    "area_sqkm": 0.4606
+   },
+   {
+    "adm4_pcode": "MG11121001007",
+    "adm4_name": "Ivolaniray",
+    "adm3_name": "4e Arrondissement",
+    "coverage": "passage",
+    "rings_to_network": 1.0,
+    "area_sqkm": 0.1949
+   },
+   {
+    "adm4_pcode": "MG11121001019",
+    "adm4_name": "Mananjara",
+    "adm3_name": "4e Arrondissement",
+    "coverage": "passage",
+    "rings_to_network": 1.0,
+    "area_sqkm": 0.3166
+   },
+   {
+    "adm4_pcode": "MG11121001022",
+    "adm4_name": "Mandrangobato I",
+    "adm3_name": "4e Arrondissement",
+    "coverage": "aucune",
+    "rings_to_network": 1.0,
+    "area_sqkm": 0.1104
+   },
+   {
+    "adm4_pcode": "MG11121001023",
+    "adm4_name": "Mandrangobato II",
+    "adm3_name": "4e Arrondissement",
+    "coverage": "aucune",
+    "rings_to_network": 1.0,
+    "area_sqkm": 0.3376
+   },
+   {
+    "adm4_pcode": "MG11121001016",
+    "adm4_name": "Tsarafaritra",
+    "adm3_name": "4e Arrondissement",
+    "coverage": "passage",
+    "rings_to_network": 1.0,
+    "area_sqkm": 0.2782
+   },
+   {
+    "adm4_pcode": "MG11121001013",
+    "adm4_name": "Tsimialonjafy",
+    "adm3_name": "4e Arrondissement",
+    "coverage": "passage",
+    "rings_to_network": 1.0,
+    "area_sqkm": 0.1239
+   },
+   {
+    "adm4_pcode": "MG11122001022",
+    "adm4_name": "Ambatokaranana",
+    "adm3_name": "5e Arrondissement",
+    "coverage": "aucune",
+    "rings_to_network": 1.0,
+    "area_sqkm": 0.117
+   },
+   {
+    "adm4_pcode": "MG11122001001",
+    "adm4_name": "Ambatomainty",
+    "adm3_name": "5e Arrondissement",
+    "coverage": "passage",
+    "rings_to_network": 1.0,
+    "area_sqkm": 0.2757
+   },
+   {
+    "adm4_pcode": "MG11122001007",
+    "adm4_name": "Ambodivoanjo Ambohijatovo Fara",
+    "adm3_name": "5e Arrondissement",
+    "coverage": "passage",
+    "rings_to_network": 1.0,
+    "area_sqkm": 1.5434
+   },
+   {
+    "adm4_pcode": "MG11122001021",
+    "adm4_name": "Ambohidahy",
+    "adm3_name": "5e Arrondissement",
+    "coverage": "aucune",
+    "rings_to_network": 1.0,
+    "area_sqkm": 0.3711
+   },
+   {
+    "adm4_pcode": "MG11122001023",
+    "adm4_name": "Ambohimirary",
+    "adm3_name": "5e Arrondissement",
+    "coverage": "aucune",
+    "rings_to_network": 1.0,
+    "area_sqkm": 0.3207
+   },
+   {
+    "adm4_pcode": "MG11122001024",
+    "adm4_name": "Ampanotokana",
+    "adm3_name": "5e Arrondissement",
+    "coverage": "aucune",
+    "rings_to_network": 1.0,
+    "area_sqkm": 0.4231
+   },
+   {
+    "adm4_pcode": "MG11122001006",
+    "adm4_name": "Ivandry",
+    "adm3_name": "5e Arrondissement",
+    "coverage": "passage",
+    "rings_to_network": 1.0,
+    "area_sqkm": 1.0864
+   },
+   {
+    "adm4_pcode": "MG11122001004",
+    "adm4_name": "Morarano",
+    "adm3_name": "5e Arrondissement",
+    "coverage": "passage",
+    "rings_to_network": 1.0,
+    "area_sqkm": 1.0676
+   },
+   {
+    "adm4_pcode": "MG11122001025",
+    "adm4_name": "Tsarahonenana",
+    "adm3_name": "5e Arrondissement",
+    "coverage": "aucune",
+    "rings_to_network": 1.0,
+    "area_sqkm": 0.3165
+   },
+   {
+    "adm4_pcode": "MG11123001008",
+    "adm4_name": "Ambaravarankazo",
+    "adm3_name": "6e Arrondissement",
+    "coverage": "commune",
+    "rings_to_network": 1.0,
+    "area_sqkm": 1.1276
+   },
+   {
+    "adm4_pcode": "MG11123001009",
+    "adm4_name": "Amboavahy",
+    "adm3_name": "6e Arrondissement",
+    "coverage": "commune",
+    "rings_to_network": 1.0,
+    "area_sqkm": 0.6373
+   },
+   {
+    "adm4_pcode": "MG11123001013",
+    "adm4_name": "Ambodivona",
+    "adm3_name": "6e Arrondissement",
+    "coverage": "commune",
+    "rings_to_network": 1.0,
+    "area_sqkm": 0.4632
+   },
+   {
+    "adm4_pcode": "MG11123001028",
+    "adm4_name": "Ambodivonkely",
+    "adm3_name": "6e Arrondissement",
+    "coverage": "commune",
+    "rings_to_network": 1.0,
+    "area_sqkm": 0.6573
+   },
+   {
+    "adm4_pcode": "MG11123001006",
+    "adm4_name": "Ambohidroa",
+    "adm3_name": "6e Arrondissement",
+    "coverage": "commune",
+    "rings_to_network": 1.0,
+    "area_sqkm": 0.5329
+   },
+   {
+    "adm4_pcode": "MG11123001017",
+    "adm4_name": "Ambohimanandray",
+    "adm3_name": "6e Arrondissement",
+    "coverage": "commune",
+    "rings_to_network": 1.0,
+    "area_sqkm": 0.0782
+   },
+   {
+    "adm4_pcode": "MG11123001026",
+    "adm4_name": "Ambohimandroso",
+    "adm3_name": "6e Arrondissement",
+    "coverage": "commune",
+    "rings_to_network": 1.0,
+    "area_sqkm": 0.864
+   },
+   {
+    "adm4_pcode": "MG11123001025",
+    "adm4_name": "Ambohimiadana Atsimo",
+    "adm3_name": "6e Arrondissement",
+    "coverage": "commune",
+    "rings_to_network": 1.0,
+    "area_sqkm": 0.0513
+   },
+   {
+    "adm4_pcode": "MG11123001022",
+    "adm4_name": "Ambohimiadana Avaratra",
+    "adm3_name": "6e Arrondissement",
+    "coverage": "commune",
+    "rings_to_network": 1.0,
+    "area_sqkm": 0.0704
+   },
+   {
+    "adm4_pcode": "MG11123001023",
+    "adm4_name": "Ambohimitsinjo",
+    "adm3_name": "6e Arrondissement",
+    "coverage": "commune",
+    "rings_to_network": 1.0,
+    "area_sqkm": 0.125
+   },
+   {
+    "adm4_pcode": "MG11123001011",
+    "adm4_name": "Amorona",
+    "adm3_name": "6e Arrondissement",
+    "coverage": "commune",
+    "rings_to_network": 1.0,
+    "area_sqkm": 1.0921
+   },
+   {
+    "adm4_pcode": "MG11123001007",
+    "adm4_name": "Ampandriambehivavy",
+    "adm3_name": "6e Arrondissement",
+    "coverage": "commune",
+    "rings_to_network": 1.0,
+    "area_sqkm": 0.5737
+   },
+   {
+    "adm4_pcode": "MG11123001020",
+    "adm4_name": "Anjanakomboro",
+    "adm3_name": "6e Arrondissement",
+    "coverage": "commune",
+    "rings_to_network": 2.0,
+    "area_sqkm": 0.0227
+   },
+   {
+    "adm4_pcode": "MG11123001024",
+    "adm4_name": "Antanety Atsimo",
+    "adm3_name": "6e Arrondissement",
+    "coverage": "commune",
+    "rings_to_network": 2.0,
+    "area_sqkm": 0.1201
+   },
+   {
+    "adm4_pcode": "MG11123001016",
+    "adm4_name": "Antanety Avaratra",
+    "adm3_name": "6e Arrondissement",
+    "coverage": "commune",
+    "rings_to_network": 2.0,
+    "area_sqkm": 0.1541
+   },
+   {
+    "adm4_pcode": "MG11123001019",
+    "adm4_name": "Antanjombe Ambony",
+    "adm3_name": "6e Arrondissement",
+    "coverage": "commune",
+    "rings_to_network": 1.0,
+    "area_sqkm": 0.0427
+   },
+   {
+    "adm4_pcode": "MG11123001015",
+    "adm4_name": "Antanjombe Avaratra",
+    "adm3_name": "6e Arrondissement",
+    "coverage": "commune",
+    "rings_to_network": 1.0,
+    "area_sqkm": 0.2298
+   },
+   {
+    "adm4_pcode": "MG11123001021",
+    "adm4_name": "Antsararay",
+    "adm3_name": "6e Arrondissement",
+    "coverage": "commune",
+    "rings_to_network": 1.0,
+    "area_sqkm": 0.0862
+   },
+   {
+    "adm4_pcode": "MG11123001002",
+    "adm4_name": "Avaratanana",
+    "adm3_name": "6e Arrondissement",
+    "coverage": "commune",
+    "rings_to_network": 1.0,
+    "area_sqkm": 0.4819
+   },
+   {
+    "adm4_pcode": "MG11123001010",
+    "adm4_name": "Avaratetezana",
+    "adm3_name": "6e Arrondissement",
+    "coverage": "commune",
+    "rings_to_network": 1.0,
+    "area_sqkm": 0.3239
+   },
+   {
+    "adm4_pcode": "MG11123001027",
+    "adm4_name": "Betafo",
+    "adm3_name": "6e Arrondissement",
+    "coverage": "commune",
+    "rings_to_network": 2.0,
+    "area_sqkm": 0.0585
+   }
+  ],
+  "low_service_core": [
+   {
+    "adm4_pcode": "MG11102430008",
+    "adm4_name": "Antanimarina",
+    "adm3_name": "Ankadinandriana",
+    "n_lines_direct": 1,
+    "best_status": "exact_fokontany"
+   },
+   {
+    "adm4_pcode": "MG11102430001",
+    "adm4_name": "Ankadinandriana",
+    "adm3_name": "Ankadinandriana",
+    "n_lines_direct": 1,
+    "best_status": "exact_fokontany"
+   },
+   {
+    "adm4_pcode": "MG11103112001",
+    "adm4_name": "Ivato Aeroport",
+    "adm3_name": "Ivato Aeroport",
+    "n_lines_direct": 1,
+    "best_status": "sous_chaine_fokontany"
+   },
+   {
+    "adm4_pcode": "MG11102039006",
+    "adm4_name": "Belanitra",
+    "adm3_name": "Ankadikely Ilafy",
+    "n_lines_direct": 1,
+    "best_status": "exact_fokontany"
+   },
+   {
+    "adm4_pcode": "MG11102379004",
+    "adm4_name": "Ambolo",
+    "adm3_name": "Talata Volonondry",
+    "n_lines_direct": 1,
+    "best_status": "exact_fokontany"
+   },
+   {
+    "adm4_pcode": "MG11102099004",
+    "adm4_name": "Betsizaraina",
+    "adm3_name": "Ambohimangakely",
+    "n_lines_direct": 1,
+    "best_status": "repere_ou_variante"
+   },
+   {
+    "adm4_pcode": "MG11102379001",
+    "adm4_name": "Talata Volonondry",
+    "adm3_name": "Talata Volonondry",
+    "n_lines_direct": 1,
+    "best_status": "exact_fokontany"
+   },
+   {
+    "adm4_pcode": "MG11102230002",
+    "adm4_name": "Andranosoa",
+    "adm3_name": "Ambohimalaza Miray",
+    "n_lines_direct": 1,
+    "best_status": "exact_fokontany"
+   },
+   {
+    "adm4_pcode": "MG11102410001",
+    "adm4_name": "Masindray",
+    "adm3_name": "Masindray",
+    "n_lines_direct": 1,
+    "best_status": "exact_fokontany"
+   },
+   {
+    "adm4_pcode": "MG11117390001",
+    "adm4_name": "Anjomakely",
+    "adm3_name": "Bongatsara",
+    "n_lines_direct": 1,
+    "best_status": "exact_fokontany"
+   },
+   {
+    "adm4_pcode": "MG11103171001",
+    "adm4_name": "Merimandroso",
+    "adm3_name": "Merimandroso",
+    "n_lines_direct": 1,
+    "best_status": "exact_fokontany"
+   },
+   {
+    "adm4_pcode": "MG11103090003",
+    "adm4_name": "Antanatanana",
+    "adm3_name": "Iarinarivo",
+    "n_lines_direct": 1,
+    "best_status": "exact_fokontany"
+   },
+   {
+    "adm4_pcode": "MG11102319004",
+    "adm4_name": "Ambohimanga Rova",
+    "adm3_name": "Ambohimanga Rova",
+    "n_lines_direct": 1,
+    "best_status": "exact_fokontany"
+   },
+   {
+    "adm4_pcode": "MG11117430014",
+    "adm4_name": "Tsiafahy",
+    "adm3_name": "Tsiafahy",
+    "n_lines_direct": 1,
+    "best_status": "exact_fokontany"
+   },
+   {
+    "adm4_pcode": "MG11117230001",
+    "adm4_name": "Antanetikely",
+    "adm3_name": "Antanetikely",
+    "n_lines_direct": 1,
+    "best_status": "exact_fokontany"
+   },
+   {
+    "adm4_pcode": "MG11102079004",
+    "adm4_name": "Ambohitrinimanga",
+    "adm3_name": "Sabotsy Namehana",
+    "n_lines_direct": 1,
+    "best_status": "exact_fokontany"
+   },
+   {
+    "adm4_pcode": "MG11102010020",
+    "adm4_name": "Ambohitromby",
+    "adm3_name": "Alasora",
+    "n_lines_direct": 1,
+    "best_status": "repere_ou_variante"
+   },
+   {
+    "adm4_pcode": "MG11102039009",
+    "adm4_name": "Ilafy",
+    "adm3_name": "Ankadikely Ilafy",
+    "n_lines_direct": 1,
+    "best_status": "exact_fokontany"
+   },
+   {
+    "adm4_pcode": "MG11102210001",
+    "adm4_name": "Manandriana",
+    "adm3_name": "Manandriana",
+    "n_lines_direct": 1,
+    "best_status": "exact_fokontany"
+   },
+   {
+    "adm4_pcode": "MG11103172001",
+    "adm4_name": "Ambatolampy Tsimahafotsy",
+    "adm3_name": "Ambatolampy",
+    "n_lines_direct": 1,
+    "best_status": "exact_fokontany"
+   },
+   {
+    "adm4_pcode": "MG11102079003",
+    "adm4_name": "Lazaina",
+    "adm3_name": "Sabotsy Namehana",
+    "n_lines_direct": 1,
+    "best_status": "exact_fokontany"
+   },
+   {
+    "adm4_pcode": "MG11122001027",
+    "adm4_name": "Ambatomaro Antsobolo",
+    "adm3_name": "5e Arrondissement",
+    "n_lines_direct": 1,
+    "best_status": "sous_chaine_fokontany"
+   },
+   {
+    "adm4_pcode": "MG11102099014",
+    "adm4_name": "Ikianja",
+    "adm3_name": "Ambohimangakely",
+    "n_lines_direct": 1,
+    "best_status": "repere_ou_variante"
+   },
+   {
+    "adm4_pcode": "MG11102039003",
+    "adm4_name": "Andranovelona",
+    "adm3_name": "Ankadikely Ilafy",
+    "n_lines_direct": 1,
+    "best_status": "exact_fokontany"
+   },
+   {
+    "adm4_pcode": "MG11123001029",
+    "adm4_name": "Ambodihady",
+    "adm3_name": "6e Arrondissement",
+    "n_lines_direct": 1,
+    "best_status": "exact_fokontany"
+   }
+  ],
+  "rings_distribution_core": {
+   "> 6 ou isolé": 14,
+   "0": 171,
+   "1": 368,
+   "2": 215,
+   "3": 79,
+   "4": 39,
+   "5": 20,
+   "6": 14
+  },
+  "confidence_of_served": {
+   "repere_ou_variante": 94,
+   "exact_fokontany": 82,
+   "sous_chaine_fokontany": 78,
+   "commune": 61,
+   "passage_estime": 59
+  }
+ },
+ "params": {
+  "low_service_max_lines": 1,
+  "tiers": {
+   "1": "Antananarivo Renivohitra (6 arrondissements)",
+   "2": "Périphérie : Atsimondrano, Avaradrano, Ambohidratrimo",
+   "3": "Reste d'Analamanga"
+  }
+ }
+}

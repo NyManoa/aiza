@@ -1,0 +1,313 @@
+
+===============================================================================
+CORPUS DE RÉFÉRENCE COMPLET : RÉSEAU DES TRANSPORTS URBAINS ET SUBURBAINS D'ANTANANARIVO
+===============================================================================
+
+--- ZONE URBAINE : LIGNES ALPHANUMÉRIQUES COMPLÈTES (IMAGES 1, 2 ET 9) ---
+
+Ligne 144 / 135 (mazda)
+- Trajet : Analakely - Besarety - Météo - Mahazo - Ambohimahintsy
+
+Ligne 146
+- Trajet (Manga) : Mausolée - Météo - Homi - Antanimena - 67ha - Ampefiloha - Mahamasina - Rasalama - HOMI - Météo - Mausolée
+- Trajet (Mena) : Mausolée - Météo - Homi - Rasalama - Anosy - 67ha - Antanimena - Rasalama - Homi - Météo - Mausolée
+
+Ligne 147
+- Trajet (Manga) : Ambatomaro/Antsobolo - Météo - Antanimena - 67ha - Ampefiloha - Mahamasina - Rasalama - HOMI - Météo - Ambatomaro/Antsobolo
+- Trajet (Mena) : Ambatomaro/Antsobolo - Météo - Anosy - 67ha - Antanimena - Rasalama - Homi - Météo - Ambatomaro/Antsobolo
+
+Ligne 147 D
+- Trajet (Manga) : Ste Akanjo - Ankerana - Nanisana - Météo - Avaradoha - Rasalama - Antanimena - 67ha - Ampefiloha - Mahamasina - Bel'air - Betongolo - Météo - Nanisana - Ankerana - Ste Akanjo
+- Trajet (Mena) : Ste Akanjo - Ankerana - Météo - Ambohijatovo - Anosy - 67ha - Antanimena - Besarety - Avaradoha - Météo - Nanisana - Ankerana - Ste Akanjo
+
+Ligne 150
+- Trajet : Antananandrano / Soavimasoandro - Ankorondrano - Anosibe - Namontana - Tsimbazaza
+
+Ligne 151
+- Trajet : Androndra - Ankadimbahoaka - 67ha
+
+Ligne 150B
+- Trajet : Mahatony - Ankorondrano - Analakely - Anosibe
+
+Ligne 154
+- Trajet (A) : Tanjombato - Anosy - Mascar - Amboditsiry
+- Trajet (B) : Tanjombato - Tsimbazaza - Ambanidia - Betongolo - Météo - Anjanahary - Amboditsiry
+- Trajet (C) : Tanjombato - Anosizato - Andavamamba - Isotry - Mascar - Amboditsiry
+
+Ligne 157
+- Trajet (A) : Manjakaray - Analakely - Anosy - Anosizato antsinananana
+- Trajet (B) : Manjakaray - Ankazomanga - 67ha - Andavamamba - Anosizato Antsinana
+
+Ligne 159
+- Trajet (Manga) : Tanjombato - Anosy - 67ha - Andranomena
+- Trajet (Mena) : Tanjombato - Anosibe - 67ha - Andranomena
+
+Ligne 160 / 166
+- Trajet : Antanimena - Tsiadana - Ankatso
+
+Ligne 161
+- Trajet : Ambatobe - Nanisana - Météo - Analakely
+
+Ligne 162
+- Trajet (Manga) : Anosizato - Betongolo - Météo - Nanisana - Analamahitsy cité
+- Trajet (Mena) : Anosizato - Andavamamba - 67ha - Galaxy - Anosivavaka - Alarobia - Analamahitsy cité
+
+Ligne 163
+- Trajet : Ankadikely ilafy - Analamahitsy - Ankorondrano - 67ha - Anosizato - Fasan karana - Gazety - Alasora
+
+Ligne 165
+- Trajet : Anosibe - Analakely - Ankorondrano - Coliseum - Androhibe
+
+Ligne 172
+- Trajet : 67ha - Anosibe - Tanjombato - Andoharanofotsy - Iavoloha
+
+Ligne 178
+- Trajet (Manga) : Andraisoro - Météo - Betongolo - Antanimena - 67ha - Ampefiloha - Mahamasina - Bel'air - Betongolo - Météo - Andraisoro
+- Trajet (Mena) : Andraisoro - Betongolo - Anosy - 67ha - Antanimena - Rasalama - Avaradoha - Météo - Andraisoro
+
+Ligne 180
+- Trajet : Alarobia - Ankorondrano - Antanimena - Ambanidia - Ambohipo - Ravitoto
+
+Ligne 182
+- Trajet (Mena) : Bibilava - Ambohipo - Ambanidia - Ambohijatovo
+- Trajet (Manga) : Bibilava - Ambohipo - Ambanidia - Ambohijatovo - Ampefiloha
+
+Ligne 183
+- Trajet (A) : Ambatobe - Analamahitsy - Ankazomanga - 67ha - Anosy - Analakely - Amboditsiry - Analamahitsy - Ambatobe
+- Trajet (B) : Ambatobe - Analamahitsy - Amboditsiry - Andravoahangy - Anosy - 67ha - Ankazomanga - Analamahitsy - Ambatobe
+
+Ligne 184
+- Trajet : Tsiadana - Ambanidia - Mahamasina
+
+Ligne 186
+- Trajet (Manga) : Coliseum - Amboditsiry - Analakely - Anosy - 67ha - Ankazomanga - Ankorondrano - Coliseum
+- Trajet (Mena) : Coliseum - Ankorondrano - 67ha - Anosy - Analakely - Andravoahangy - Amboditsiry - Coliseum
+
+Ligne 190
+- Trajet : Analakely - Ambohipotsy
+
+Ligne 187
+- Trajet : 67ha - Anosibe - Iavoloha
+
+Ligne 192
+- Trajet (Manga) : Ilafy - Météo - Antsakaviro - Mandroseza - Bypass / Mahatsinjo Alasora
+- Trajet (Fotsy) : Ilafy - Ankorondrano - Behoririka - Rasalama - Bel'air - Mandroseza - Bypass / Mahatsinjo Alasora
+- Trajet (Class) : Ilafy - Ankorondrano - Analakely - Mandroseza - Bypass
+
+Ligne 193
+- Trajet : Antanetibe (Ambatobe) - Analamahitsy - Nanisana - Betongolo - Anosy - 67ha - Ambanilalana (Itaosy)
+
+Ligne 194
+- Trajet (Maitso) : Andrainarivo - Mandroseza - Anosizato - Andohatapenaka - Ambodimita - Andranomena
+- Trajet (Mena) : Mausolée - Météo - Ambodivona - Ankorondrano - Anosivavaka - Ambohimanarina - Andranomena
+- Trajet (Manga) : Mausolée - Analamahitsy cite - Pulman - Anosivavaka - Ambohimanarina - Andranomena
+
+Ligne 196
+- Trajet : Ravitoto - Ambohipo - Ambanidia - Soarano
+
+Ligne 199
+- Trajet : Tsarasaotra - Ankorondrano - Anosibe - Ankadimbahoaka - Forello - Bevalala - Soavina
+
+Ligne 009
+- Trajet : Anosizato - Andavamamba - Analakely
+
+Ligne 015
+- Secteur Be kintana :
+  * Trajet (Mena) : Ambohitromby Alatsinainy - Alasora Commune - Mandroseza - Ambanidia - 67ha
+  * Trajet (Maitso) : Mahitsy Plaque Mandikanamana - Ankadidratombo - Domaine - Ankadimbahoaka - Tsimbazaza - 67ha
+- Secteur Volavita :
+  * Trajet (A) : Mandroseza - Domaine - Ankadimbahoaka - Tsimbazaza - 67ha
+  * Trajet (B) : Mandroseza - Ambanidia - Tsimbazaza - 67ha
+
+Ligne 017
+- Trajet : Ambohipo - Ambanidia - Mahamasina
+
+Ligne 104
+- Trajet : Ambohimandra - Androndra - Ankadimbahoaka
+
+Ligne 105
+- Trajet (Misy Tsipika Mena) : Analakely - Galaxy - Ambomanarina
+- Trajet (Tsy Misy Tsipika Mena) : Anosy - Anosisoa
+
+Ligne 109
+- Trajet (Manga) : Antananandrano - Analamahitsy - Amboditsiry - Mascar - Analakely - Anosy - 67ha - Antanimena - Mascar - Analamahitsy - Antananandrano
+- Trajet (Mena) : Antananandrano - Analamahitsy - Amboditsiry - Mascar - Ankazomanga - 67ha - Anosy - Analakely - Mascar - Analamahitsy - Antananandrano
+
+Ligne 110
+- Trajet : Anosizato - Anosibe - Tsaralalàna - Analakely
+
+Ligne 112
+- Trajet : Analakely - Galaxy - Ambohimanarina - Morondava
+
+Ligne 113
+- Trajet (Manga) : Mahazoarivo - Ankadimbahoaka - Analakely
+- Trajet (Mena) : Mandroseza - Androndra - Ankadimbahoaka - Namontana - Anosibe
+
+Ligne 114
+- Trajet (Maitso) : Analakely - Galaxy - Ambohijanahary
+- Trajet (Manga mena) : Analakely - Ambatolampy - Ambohibao (cycle)
+- Trajet (Maitso-mena) : Analakely - Ambatolampy
+- Trajet (Maitso-mavo) : Analakely - Ambodihady
+
+Ligne 115
+- Trajet : Analakely - Mahamasina - Tsimbazaza
+
+Ligne 117
+- Trajet : Androndra - Ambanidia - Analakely
+
+Ligne 119
+- Trajet : 67ha - Anosy - Ankatso
+
+Ligne 120
+- Trajet : Soavimasoandro - Ankorondrano - Ambodifilao
+
+Ligne 122
+- Trajet : Antanimena - Ambanidia - Mahazoarivo
+
+Ligne 126
+- Trajet : Antanetibe/Manjaka - Analamahitsy - Amboditsiry - Mascar - Anosy - 67ha
+
+Ligne 127
+- Trajet (A) : Andravoahangy ambony - Ambondrona - Mahamasina - Tsimbazaza
+- Trajet (B) : Rasalama - Ambanidia - Tsimbazaza
+
+Ligne 128
+- Trajet : Ankatso - Ambanidia / Ambohijatovo - Mahamasina
+
+Ligne 129
+- Trajet : Analakely - Ambanidia - Ambohipo
+
+Ligne 133
+- Trajet : Analakely - 67ha - Itaosy
+
+Ligne 134
+- Trajet : Analakely - Faravohitra - Rova
+
+Ligne 135
+- Trajet (Mena) : Ankadimbahoaka - Ambanidia - Betongolo - Météo - Soamanandrariny
+- Trajet (Manga) : Ankadimbahoaka - Anosy - Analakely - Besarety - Avaradoha - Météo - Soamanandrariny
+
+Ligne 137
+- Trajet : Analakely - Ankadimbahoaka - Andoharanofotsy - Iavoloha
+
+Ligne 138
+- Trajet : Analakely - Anosipatrana
+
+Ligne 139
+- Trajet : Antanimena - Ambanidia - Ambohitsoa
+
+Ligne 140
+- Trajet : Tsaralalàna - Fasan'karana - Ampitatafika
+
+Ligne 141
+- Trajet : Andraisoro - Météo - Anjanahary - Analakely
+
+Ligne 142
+- Trajet : Analakely - Anosy - Soanierana
+
+Ligne 143
+- Trajet : Itaosy - 67ha - Anosibe / Ampefiloha - Mahamasina
+
+
+--- ZONE SUBURBAINE : CLASSIFICATION OFFICIELLE PAR LIGNES
+
+LIGNE A
+* Primus : Antananarivo (67 HA) -------> Terminus : Ambohidrapeto
+* Primus : Antananarivo (Tsaralalana) -> Terminus : Ambaniala
+* Primus : Antananarivo (Tsaralalana) -> Terminus : Andohatanjona
+* Primus : Antananarivo (Tsaralalana) -> Terminus : Itaosy Cite
+* Primus : Antananarivo (Tsaralalana) -> Terminus : Itaosy Hopitaly
+* Primus : Tsaralalana (Cotona) -------> Terminus : Ankadimanga
+
+LIGNE B
+* Primus : Antananarivo (67 HA) -------> Terminus : Ambohitrimanjaka
+* Primus : Antananarivo (67 HA) -------> Terminus : Ampangabe
+* Primus : Antananarivo (67 HA) -------> Terminus : Antanatanana
+
+LIGNE D
+* Primus : Ambohibao -----------------> Terminus : Ivato (Passant par Ambohijanahary)
+* Primus : Antananarivo --------------> Terminus : Merimandroso
+* Primus : Antananarivo (Antsalovana) -> Terminus : Mahitsy Hopitaly
+* Primus : Antananarivo (Vassacos) ----> Terminus : Alakamisy Anosiala
+* Primus : Antananarivo (Vassacos) ----> Terminus : Ivato
+* Primus : Ivato ---------------------> Terminus : Merimandroso
+* Primus : Soavimasoandro ------------> Terminus : Ambatolampy Tsimahafotsy
+
+LIGNE E
+* Primus : Antananarivo (Andravoahangy) -> Terminus : Ambodizozoro
+* Primus : Antananarivo (Andravoahangy) -> Terminus : Ambohimangakely
+* Primus : Antananarivo (Mahazo) --------> Terminus : Ambanitsena
+* Primus : Antananarivo (Mahazo) --------> Terminus : Ambohimalaza
+* Primus : Antananarivo (Mahazo) --------> Terminus : Andranosoa
+* Primus : Antananarivo (Mahazo) --------> Terminus : Anjeva
+* Primus : Antananarivo (Mahazo) --------> Terminus : Antsahamarina
+* Primus : Antananarivo (Mahazo) --------> Terminus : Betsizaraina Ikianja Avaratra
+* Primus : Antananarivo (Mahazo) --------> Terminus : Manakavaly
+
+LIGNE F
+* Primus : Andoharanofotsy -------------> Terminus : Ambohijanaka
+* Primus : Andoharanofotsy -------------> Terminus : Beravina Passant par Ankadivoribe
+* Primus : Andoharanofotsy -------------> Terminus : Beravina Passant par Bevalala
+* Primus : Antananarivo (CNAPS) --------> Terminus : Ambatofahavalo
+* Primus : Antananarivo (CNAPS) --------> Terminus : Ambatofotsy Sud
+* Primus : Antananarivo (CNAPS) --------> Terminus : Ambatomarobiby
+* Primus : Antananarivo (CNAPS) --------> Terminus : Ambohijanaka
+• Primus : Antananarivo (CNAPS) --------> Terminus : Ampaneffy Passant par Soavina
+• Primus : Antananarivo (CNAPS) --------> Terminus : Ampangabe
+• Primus : Antananarivo (CNAPS) --------> Terminus : Anjomakely
+• Primus : Antananarivo (CNAPS) --------> Terminus : Ankadivoribe
+• Primus : Antananarivo (CNAPS) --------> Terminus : Ankaraobato Ifarihy
+• Primus : Antananarivo (CNAPS) --------> Terminus : Anosibe Sud (Eau et Forêt)
+• Primus : Antananarivo (CNAPS) --------> Terminus : Tsiafahy
+• Primus : Antananarivo (CNAPS) --------> Terminus : Tsinjony
+LIGNE G
+• Primus : Anosizato -------------------> Terminus : Ambohijoky
+• Primus : Anosizato -------------------> Terminus : Antanetikely
+• Primus : Anosizato -------------------> Terminus : Beravina
+• Primus : Antananarivo (Anosy) --------> Terminus : Ambatomirahavavy
+• Primus : Antananarivo (Anosy) --------> Terminus : Ambohijafy
+• Primus : Antananarivo (Anosy) --------> Terminus : Ambohijoky
+• Primus : Antananarivo (Anosy) --------> Terminus : Ampilanonana
+• Primus : Antananarivo (Anosy) --------> Terminus : Antsahadinta
+• Primus : Antananarivo (Anosy) --------> Terminus : Cur Vontovorona
+• Primus : Antananarivo (Anosy) --------> Terminus : Imerintsiatosika
+• Primus : Antananarivo (Anosy) --------> Terminus : Maizindrano
+• Primus : Antananarivo (Anosy) --------> Terminus : Morarano
+• Primus : Antananarivo (CNAPS) --------> Terminus : Ambatomarobiby
+• Primus : Antananarivo (CNAPS) --------> Terminus : Ampitatafika
+• Primus : Antananarivo (CNAPS) --------> Terminus : Ankaditany
+• Primus : Antananarivo (CNAPS) --------> Terminus : Beravina Itaosy
+• Primus : Antananarivo (CNAPS) --------> Terminus : Malaza (Soavimbahoaka)
+LIGNE H
+• Primus : Antananarivo (St Antoine - Ambodivona) ---> Terminus : Manandriana Nord
+• Primus : Antananarivo (Ambodivona) ---> Terminus : Ambohimanga Rova
+• Primus : Antananarivo (Ambodivona) ---> Terminus : Ambolo
+• Primus : Antananarivo (Ambodivona) ---> Terminus : Talata Volonondry
+• Primus : Antananarivo (St Antoine - Ambodivona) ---> Terminus : Ambatofotsy Nord
+• Primus : Antananarivo (St Antoine - Ambodivona) ---> Terminus : Ambohitrantenaina
+• Primus : Antananarivo (St Antoine - Ambodivona) ---> Terminus : Ambohitrinimanga
+• Primus : Antananarivo (St Antoine - Ambodivona) ---> Terminus : Andranovelona
+• Primus : Antananarivo (St Antoine - Ambodivona) ---> Terminus : Anosiarivo
+• Primus : Antananarivo (St Antoine - Ambodivona) ---> Terminus : Antanambao
+• Primus : Antananarivo (St Antoine - Ambodivona) ---> Terminus : Belanitra
+• Primus : Antananarivo (St Antoine - Ambodivona) ---> Terminus : Iavoambony
+• Primus : Antananarivo (St Antoine - Ambodivona) ---> Terminus : Lazaina
+• Primus : Antananarivo (St Antoine - Ambodivona) ---> Terminus : Namehana
+• Primus : Antananarivo (St Antoine - Ambodivona) ---> Terminus : Vilihazo
+
+LIGNE I
+• Primus : Ankadindratombo ------------> Terminus : Alakamisy Antanimarina
+• Primus : Ankadindratombo ------------> Terminus : Ankadinandriana
+• Primus : Antananarivo (Ambohijatovo) -> Terminus : Alasora
+• Primus : Antananarivo (Ambohijatovo) -> Terminus : Ambohimalaza (Via By Pass)
+• Primus : Antananarivo (Ambohijatovo) -> Terminus : Ambohimanambola
+• Primus : Antananarivo (Ambohijatovo) -> Terminus : Ambohitanety
+• Primus : Antananarivo (Ambohijatovo) -> Terminus : Androrohoro
+• Primus : Antananarivo (Ambohijatovo) -> Terminus : Anjeva Via By Pass
+• Primus : Antananarivo (Ambohijatovo) -> Terminus : Masindray
+
+LIGNE J
+• Primus : Antananarivo (CNAPS) ------> Terminus : Ambohimangidy
+• Primus : Antananarivo (CNAPS) ------> Terminus : Ambohimiadana
+• Primus : Antananarivo (CNAPS) ------> Terminus : Ampitatafika
+• Primus : Antananarivo (CNAPS) ------> Terminus : Ankaditany

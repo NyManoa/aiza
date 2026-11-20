@@ -1,0 +1,68 @@
+line_id,line_code,zone,group,note,source_line,n_variants
+U-144/135,144 / 135,urbaine,,mazda,8,1
+U-146,146,urbaine,,,11,2
+U-147,147,urbaine,,,15,2
+U-147D,147 D,urbaine,,,19,2
+U-150,150,urbaine,,,23,1
+U-151,151,urbaine,,,26,1
+U-150B,150B,urbaine,,,29,1
+U-154,154,urbaine,,,32,3
+U-157,157,urbaine,,,37,2
+U-159,159,urbaine,,,41,2
+U-160/166,160 / 166,urbaine,,,45,1
+U-161,161,urbaine,,,48,1
+U-162,162,urbaine,,,51,2
+U-163,163,urbaine,,,55,1
+U-165,165,urbaine,,,58,1
+U-172,172,urbaine,,,61,1
+U-178,178,urbaine,,,64,2
+U-180,180,urbaine,,,68,1
+U-182,182,urbaine,,,71,2
+U-183,183,urbaine,,,75,2
+U-184,184,urbaine,,,79,1
+U-186,186,urbaine,,,82,2
+U-190,190,urbaine,,,86,1
+U-187,187,urbaine,,,89,1
+U-192,192,urbaine,,,92,3
+U-193,193,urbaine,,,97,1
+U-194,194,urbaine,,,100,3
+U-196,196,urbaine,,,105,1
+U-199,199,urbaine,,,108,1
+U-009,009,urbaine,,,111,1
+U-015,015,urbaine,,,114,4
+U-017,017,urbaine,,,122,1
+U-104,104,urbaine,,,125,1
+U-105,105,urbaine,,,128,2
+U-109,109,urbaine,,,132,2
+U-110,110,urbaine,,,136,1
+U-112,112,urbaine,,,139,1
+U-113,113,urbaine,,,142,2
+U-114,114,urbaine,,,146,4
+U-115,115,urbaine,,,152,1
+U-117,117,urbaine,,,155,1
+U-119,119,urbaine,,,158,1
+U-120,120,urbaine,,,161,1
+U-122,122,urbaine,,,164,1
+U-126,126,urbaine,,,167,1
+U-127,127,urbaine,,,170,2
+U-128,128,urbaine,,,174,1
+U-129,129,urbaine,,,177,1
+U-133,133,urbaine,,,180,1
+U-134,134,urbaine,,,183,1
+U-135,135,urbaine,,,186,2
+U-137,137,urbaine,,,190,1
+U-138,138,urbaine,,,193,1
+U-139,139,urbaine,,,196,1
+U-140,140,urbaine,,,199,1
+U-141,141,urbaine,,,202,1
+U-142,142,urbaine,,,205,1
+U-143,143,urbaine,,,208,1
+S-A,Ligne A,suburbaine,A,,214,6
+S-B,Ligne B,suburbaine,B,,222,3
+S-D,Ligne D,suburbaine,D,,227,7
+S-E,Ligne E,suburbaine,E,,236,9
+S-F,Ligne F,suburbaine,F,,247,15
+S-G,Ligne G,suburbaine,G,,263,17
+S-H,Ligne H,suburbaine,H,,281,15
+S-I,Ligne I,suburbaine,I,,298,9
+S-J,Ligne J,suburbaine,J,,309,4

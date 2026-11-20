@@ -1,0 +1,86 @@
+link_id,line_id,primus_raw,primus_place_id,primus_context,primus_qualifier,terminus_raw,terminus_place_id,terminus_qualifier,via_mention,intermediate_stops,source_line
+S-A#1,S-A,Antananarivo (67 HA),67ha,Antananarivo,,Ambohidrapeto,ambohidrapeto,,,inconnus (non fournis par la source),215
+S-A#2,S-A,Antananarivo (Tsaralalana),tsaralalana,Antananarivo,,Ambaniala,ambaniala,,,inconnus (non fournis par la source),216
+S-A#3,S-A,Antananarivo (Tsaralalana),tsaralalana,Antananarivo,,Andohatanjona,andohatanjona,,,inconnus (non fournis par la source),217
+S-A#4,S-A,Antananarivo (Tsaralalana),tsaralalana,Antananarivo,,Itaosy Cite,itaosy_cite,,,inconnus (non fournis par la source),218
+S-A#5,S-A,Antananarivo (Tsaralalana),tsaralalana,Antananarivo,,Itaosy Hopitaly,itaosy_hopitaly,,,inconnus (non fournis par la source),219
+S-A#6,S-A,Tsaralalana (Cotona),tsaralalana,,Cotona,Ankadimanga,ankadimanga,,,inconnus (non fournis par la source),220
+S-B#1,S-B,Antananarivo (67 HA),67ha,Antananarivo,,Ambohitrimanjaka,ambohitrimanjaka,,,inconnus (non fournis par la source),223
+S-B#2,S-B,Antananarivo (67 HA),67ha,Antananarivo,,Ampangabe,ampangabe,,,inconnus (non fournis par la source),224
+S-B#3,S-B,Antananarivo (67 HA),67ha,Antananarivo,,Antanatanana,antanatanana,,,inconnus (non fournis par la source),225
+S-D#1,S-D,Ambohibao,ambohibao,,,Ivato (Passant par Ambohijanahary),ivato,,Ambohijanahary,inconnus (non fournis par la source),228
+S-D#2,S-D,Antananarivo,antananarivo,,,Merimandroso,merimandroso,,,inconnus (non fournis par la source),229
+S-D#3,S-D,Antananarivo (Antsalovana),antsalovana,Antananarivo,,Mahitsy Hopitaly,mahitsy_hopitaly,,,inconnus (non fournis par la source),230
+S-D#4,S-D,Antananarivo (Vassacos),vassacos,Antananarivo,,Alakamisy Anosiala,alakamisy_anosiala,,,inconnus (non fournis par la source),231
+S-D#5,S-D,Antananarivo (Vassacos),vassacos,Antananarivo,,Ivato,ivato,,,inconnus (non fournis par la source),232
+S-D#6,S-D,Ivato,ivato,,,Merimandroso,merimandroso,,,inconnus (non fournis par la source),233
+S-D#7,S-D,Soavimasoandro,soavimasoandro,,,Ambatolampy Tsimahafotsy,ambatolampy_tsimahafotsy,,,inconnus (non fournis par la source),234
+S-E#1,S-E,Antananarivo (Andravoahangy),andravoahangy,Antananarivo,,Ambodizozoro,ambodizozoro,,,inconnus (non fournis par la source),237
+S-E#2,S-E,Antananarivo (Andravoahangy),andravoahangy,Antananarivo,,Ambohimangakely,ambohimangakely,,,inconnus (non fournis par la source),238
+S-E#3,S-E,Antananarivo (Mahazo),mahazo,Antananarivo,,Ambanitsena,ambanitsena,,,inconnus (non fournis par la source),239
+S-E#4,S-E,Antananarivo (Mahazo),mahazo,Antananarivo,,Ambohimalaza,ambohimalaza,,,inconnus (non fournis par la source),240
+S-E#5,S-E,Antananarivo (Mahazo),mahazo,Antananarivo,,Andranosoa,andranosoa,,,inconnus (non fournis par la source),241
+S-E#6,S-E,Antananarivo (Mahazo),mahazo,Antananarivo,,Anjeva,anjeva,,,inconnus (non fournis par la source),242
+S-E#7,S-E,Antananarivo (Mahazo),mahazo,Antananarivo,,Antsahamarina,antsahamarina,,,inconnus (non fournis par la source),243
+S-E#8,S-E,Antananarivo (Mahazo),mahazo,Antananarivo,,Betsizaraina Ikianja Avaratra,betsizaraina_ikianja_avaratra,,,inconnus (non fournis par la source),244
+S-E#9,S-E,Antananarivo (Mahazo),mahazo,Antananarivo,,Manakavaly,manakavaly,,,inconnus (non fournis par la source),245
+S-F#1,S-F,Andoharanofotsy,andoharanofotsy,,,Ambohijanaka,ambohijanaka,,,inconnus (non fournis par la source),248
+S-F#2,S-F,Andoharanofotsy,andoharanofotsy,,,Beravina Passant par Ankadivoribe,beravina,,Ankadivoribe,inconnus (non fournis par la source),249
+S-F#3,S-F,Andoharanofotsy,andoharanofotsy,,,Beravina Passant par Bevalala,beravina,,Bevalala,inconnus (non fournis par la source),250
+S-F#4,S-F,Antananarivo (CNAPS),cnaps,Antananarivo,,Ambatofahavalo,ambatofahavalo,,,inconnus (non fournis par la source),251
+S-F#5,S-F,Antananarivo (CNAPS),cnaps,Antananarivo,,Ambatofotsy Sud,ambatofotsy_sud,,,inconnus (non fournis par la source),252
+S-F#6,S-F,Antananarivo (CNAPS),cnaps,Antananarivo,,Ambatomarobiby,ambatomarobiby,,,inconnus (non fournis par la source),253
+S-F#7,S-F,Antananarivo (CNAPS),cnaps,Antananarivo,,Ambohijanaka,ambohijanaka,,,inconnus (non fournis par la source),254
+S-F#8,S-F,Antananarivo (CNAPS),cnaps,Antananarivo,,Ampaneffy Passant par Soavina,ampaneffy,,Soavina,inconnus (non fournis par la source),255
+S-F#9,S-F,Antananarivo (CNAPS),cnaps,Antananarivo,,Ampangabe,ampangabe,,,inconnus (non fournis par la source),256
+S-F#10,S-F,Antananarivo (CNAPS),cnaps,Antananarivo,,Anjomakely,anjomakely,,,inconnus (non fournis par la source),257
+S-F#11,S-F,Antananarivo (CNAPS),cnaps,Antananarivo,,Ankadivoribe,ankadivoribe,,,inconnus (non fournis par la source),258
+S-F#12,S-F,Antananarivo (CNAPS),cnaps,Antananarivo,,Ankaraobato Ifarihy,ankaraobato_ifarihy,,,inconnus (non fournis par la source),259
+S-F#13,S-F,Antananarivo (CNAPS),cnaps,Antananarivo,,Anosibe Sud (Eau et Forêt),anosibe_sud,Eau et Forêt,,inconnus (non fournis par la source),260
+S-F#14,S-F,Antananarivo (CNAPS),cnaps,Antananarivo,,Tsiafahy,tsiafahy,,,inconnus (non fournis par la source),261
+S-F#15,S-F,Antananarivo (CNAPS),cnaps,Antananarivo,,Tsinjony,tsinjony,,,inconnus (non fournis par la source),262
+S-G#1,S-G,Anosizato,anosizato,,,Ambohijoky,ambohijoky,,,inconnus (non fournis par la source),264
+S-G#2,S-G,Anosizato,anosizato,,,Antanetikely,antanetikely,,,inconnus (non fournis par la source),265
+S-G#3,S-G,Anosizato,anosizato,,,Beravina,beravina,,,inconnus (non fournis par la source),266
+S-G#4,S-G,Antananarivo (Anosy),anosy,Antananarivo,,Ambatomirahavavy,ambatomirahavavy,,,inconnus (non fournis par la source),267
+S-G#5,S-G,Antananarivo (Anosy),anosy,Antananarivo,,Ambohijafy,ambohijafy,,,inconnus (non fournis par la source),268
+S-G#6,S-G,Antananarivo (Anosy),anosy,Antananarivo,,Ambohijoky,ambohijoky,,,inconnus (non fournis par la source),269
+S-G#7,S-G,Antananarivo (Anosy),anosy,Antananarivo,,Ampilanonana,ampilanonana,,,inconnus (non fournis par la source),270
+S-G#8,S-G,Antananarivo (Anosy),anosy,Antananarivo,,Antsahadinta,antsahadinta,,,inconnus (non fournis par la source),271
+S-G#9,S-G,Antananarivo (Anosy),anosy,Antananarivo,,Cur Vontovorona,cur_vontovorona,,,inconnus (non fournis par la source),272
+S-G#10,S-G,Antananarivo (Anosy),anosy,Antananarivo,,Imerintsiatosika,imerintsiatosika,,,inconnus (non fournis par la source),273
+S-G#11,S-G,Antananarivo (Anosy),anosy,Antananarivo,,Maizindrano,maizindrano,,,inconnus (non fournis par la source),274
+S-G#12,S-G,Antananarivo (Anosy),anosy,Antananarivo,,Morarano,morarano,,,inconnus (non fournis par la source),275
+S-G#13,S-G,Antananarivo (CNAPS),cnaps,Antananarivo,,Ambatomarobiby,ambatomarobiby,,,inconnus (non fournis par la source),276
+S-G#14,S-G,Antananarivo (CNAPS),cnaps,Antananarivo,,Ampitatafika,ampitatafika,,,inconnus (non fournis par la source),277
+S-G#15,S-G,Antananarivo (CNAPS),cnaps,Antananarivo,,Ankaditany,ankaditany,,,inconnus (non fournis par la source),278
+S-G#16,S-G,Antananarivo (CNAPS),cnaps,Antananarivo,,Beravina Itaosy,beravina_itaosy,,,inconnus (non fournis par la source),279
+S-G#17,S-G,Antananarivo (CNAPS),cnaps,Antananarivo,,Malaza (Soavimbahoaka),malaza,Soavimbahoaka,,inconnus (non fournis par la source),280
+S-H#1,S-H,Antananarivo (St Antoine - Ambodivona),st_antoine_ambodivona,Antananarivo,,Manandriana Nord,manandriana_nord,,,inconnus (non fournis par la source),282
+S-H#2,S-H,Antananarivo (Ambodivona),ambodivona,Antananarivo,,Ambohimanga Rova,ambohimanga_rova,,,inconnus (non fournis par la source),283
+S-H#3,S-H,Antananarivo (Ambodivona),ambodivona,Antananarivo,,Ambolo,ambolo,,,inconnus (non fournis par la source),284
+S-H#4,S-H,Antananarivo (Ambodivona),ambodivona,Antananarivo,,Talata Volonondry,talata_volonondry,,,inconnus (non fournis par la source),285
+S-H#5,S-H,Antananarivo (St Antoine - Ambodivona),st_antoine_ambodivona,Antananarivo,,Ambatofotsy Nord,ambatofotsy_nord,,,inconnus (non fournis par la source),286
+S-H#6,S-H,Antananarivo (St Antoine - Ambodivona),st_antoine_ambodivona,Antananarivo,,Ambohitrantenaina,ambohitrantenaina,,,inconnus (non fournis par la source),287
+S-H#7,S-H,Antananarivo (St Antoine - Ambodivona),st_antoine_ambodivona,Antananarivo,,Ambohitrinimanga,ambohitrinimanga,,,inconnus (non fournis par la source),288
+S-H#8,S-H,Antananarivo (St Antoine - Ambodivona),st_antoine_ambodivona,Antananarivo,,Andranovelona,andranovelona,,,inconnus (non fournis par la source),289
+S-H#9,S-H,Antananarivo (St Antoine - Ambodivona),st_antoine_ambodivona,Antananarivo,,Anosiarivo,anosiarivo,,,inconnus (non fournis par la source),290
+S-H#10,S-H,Antananarivo (St Antoine - Ambodivona),st_antoine_ambodivona,Antananarivo,,Antanambao,antanambao,,,inconnus (non fournis par la source),291
+S-H#11,S-H,Antananarivo (St Antoine - Ambodivona),st_antoine_ambodivona,Antananarivo,,Belanitra,belanitra,,,inconnus (non fournis par la source),292
+S-H#12,S-H,Antananarivo (St Antoine - Ambodivona),st_antoine_ambodivona,Antananarivo,,Iavoambony,iavoambony,,,inconnus (non fournis par la source),293
+S-H#13,S-H,Antananarivo (St Antoine - Ambodivona),st_antoine_ambodivona,Antananarivo,,Lazaina,lazaina,,,inconnus (non fournis par la source),294
+S-H#14,S-H,Antananarivo (St Antoine - Ambodivona),st_antoine_ambodivona,Antananarivo,,Namehana,namehana,,,inconnus (non fournis par la source),295
+S-H#15,S-H,Antananarivo (St Antoine - Ambodivona),st_antoine_ambodivona,Antananarivo,,Vilihazo,vilihazo,,,inconnus (non fournis par la source),296
+S-I#1,S-I,Ankadindratombo,ankadindratombo,,,Alakamisy Antanimarina,alakamisy_antanimarina,,,inconnus (non fournis par la source),299
+S-I#2,S-I,Ankadindratombo,ankadindratombo,,,Ankadinandriana,ankadinandriana,,,inconnus (non fournis par la source),300
+S-I#3,S-I,Antananarivo (Ambohijatovo),ambohijatovo,Antananarivo,,Alasora,alasora,,,inconnus (non fournis par la source),301
+S-I#4,S-I,Antananarivo (Ambohijatovo),ambohijatovo,Antananarivo,,Ambohimalaza (Via By Pass),ambohimalaza,,By Pass,inconnus (non fournis par la source),302
+S-I#5,S-I,Antananarivo (Ambohijatovo),ambohijatovo,Antananarivo,,Ambohimanambola,ambohimanambola,,,inconnus (non fournis par la source),303
+S-I#6,S-I,Antananarivo (Ambohijatovo),ambohijatovo,Antananarivo,,Ambohitanety,ambohitanety,,,inconnus (non fournis par la source),304
+S-I#7,S-I,Antananarivo (Ambohijatovo),ambohijatovo,Antananarivo,,Androrohoro,androrohoro,,,inconnus (non fournis par la source),305
+S-I#8,S-I,Antananarivo (Ambohijatovo),ambohijatovo,Antananarivo,,Anjeva Via By Pass,anjeva,,By Pass,inconnus (non fournis par la source),306
+S-I#9,S-I,Antananarivo (Ambohijatovo),ambohijatovo,Antananarivo,,Masindray,masindray,,,inconnus (non fournis par la source),307
+S-J#1,S-J,Antananarivo (CNAPS),cnaps,Antananarivo,,Ambohimangidy,ambohimangidy,,,inconnus (non fournis par la source),310
+S-J#2,S-J,Antananarivo (CNAPS),cnaps,Antananarivo,,Ambohimiadana,ambohimiadana,,,inconnus (non fournis par la source),311
+S-J#3,S-J,Antananarivo (CNAPS),cnaps,Antananarivo,,Ampitatafika,ampitatafika,,,inconnus (non fournis par la source),312
+S-J#4,S-J,Antananarivo (CNAPS),cnaps,Antananarivo,,Ankaditany,ankaditany,,,inconnus (non fournis par la source),313
